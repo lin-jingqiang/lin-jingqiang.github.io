@@ -34,7 +34,7 @@
 25. Jingqiang Lin, Bo Luo, Jiwu Jing, Xiaokun Zhang, “GRADE: Graceful Degradation in Byzantine Quorum Systems”, 31st IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 171-180, 2012.
 26. Jingqiang Lin, Jiwu Jing, Peng Liu, “A Framework for Intrusion Tolerant Certification Authority System Evaluation”, 26th IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 231-241, 2007.
 
-### [Full Publication][./full-pub.html]
+### [Full Publication](./full-pub.html)
 
 ## Header 2
 ### Header 3
