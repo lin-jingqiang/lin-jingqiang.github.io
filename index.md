@@ -5,8 +5,10 @@
 - 2012.10 - 2015.10, Associate Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 
 ### Funding and Project
-- 
-
+- Key Technologies of Cryptographic Service Supporting Infrastructures in the Mobile Internet (Grant No. 2017YFB0802100), Cyber Security Program of National Key RD Plan of China
+- 国家重点研发计划网络空间安全重点专项 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
+- Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518), National Natural Science Foundation of China
+- 国家自然科学基金 通用计算平台的密钥保护技术研究 (项目号61772518)
 
 ### Selected Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
@@ -38,26 +40,5 @@
 
 ### [Full Publication](./full-pub.html)
 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lin-jingqiang/lin-jingqiang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+jingqiang_lin@hotmail.com
