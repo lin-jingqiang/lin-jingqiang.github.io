@@ -16,7 +16,8 @@ Applied Cryptography, Network Security, and System Security
 - PKI and Authentication
 - Fault Tolerance, Blockchain and Transparency
 - High-performace Cryptographic Implementation
-- Threshold Cryptography
+- Cloud Security
+- Threshold Cryptography and Group Communication
 - Mobile/IoT Security
 - Ramdonness Theory and Applications
 
