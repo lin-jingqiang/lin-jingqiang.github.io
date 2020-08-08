@@ -1,4 +1,4 @@
-# Welcome to Jingqiang Lin Scholar Pages
+# Welcome to Jingqiang Lin's Scholar Pages
 ## Full Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 2. Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
@@ -52,7 +52,7 @@
 50. Yafei Ji, Luning Xia, Jingqiang Lin, Qiongxiao Wang, Lingguang Lei, Li Song, “Chord: Thwarting Relay Attacks among Near Field Communications”, 14th International Conference on Information Security and Cryptology (Inscrypt), pp. 329-348, 2018.
 51. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Jiwu Jing, Daren Zha, “Blockchain-based Certificate Transparency and Revocation Transparency”, 5th Workshop on Bitcoin and Blockchain Research (BITCOIN), in conjunction with 21st International Conference on Financial Cryptography and Data Security (FC), 2018, pp. 144-162.
 52. Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin, Ji Xiang, “Hey, You, Keep away from My Device: Remotely Implanting a Virus Expeller to Defeat Mirai on IoT Devices”, 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec), in conjunction with 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI), 2018.
-53. Shuangyi Zhu, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Analysis and Improvement of the Entropy Estimators in NIST SP 800-90B for Non-IID Entropy Sources”, 25th International Conference on Fast Software Encryption (FSE), 2018; also in IACR Transactions on Symmetric Cryptology (ToSC), Vol. 2017, No. 3, pp. 151-168.
+53. Shuangyi Zhu, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Analysis and Improvement of the Entropy Estimators in NIST SP 800-90B for Non-IID Entropy Sources”, 25th International Conference on Fast Software Encryption (FSE), 2018.
 54. Yuan Ma, Jingqiang Lin, Jiwu Jing, “On the Entropy of Oscillator-based True Random Number Generators”, the Cryptographer’s Track at RSA Conference (CT-RSA), pp. 165-180, 2017.
 55. Abdulmalik Humayed, Jingqiang Lin, Fengjun Li, Bo Luo, “Cyber-Physical Systems Security - A Survey”, IEEE Internet of Things Journal (IoT-J), Vol. 4, No. 6, pp. 1802-1831, 2017.
 56. Le Guan, Shijie Jia, Bo Chen, Fengwei Zhang, Bo Luo, Jingqiang Lin, Peng Liu, Xinyu Xing, Luning Xia, “Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices”, 33rd Annual Computer Security Applications Conference (ACSAC), Outstanding Paper Award, pp. 339-349, 2017.
