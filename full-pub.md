@@ -13,11 +13,20 @@
 - Jiwu Jing, Jingqiang Lin, Zhan Wang, Neng Gao, “Report on Authentication Technologies”, chapter in Report on Advances in Cryptology, China Science and Technology Press, ISBN 9787504670663, pp. 119-134, 2016.
 - Jingqiang Lin, Wen-Tao Zhu, Qiongxiao Wang, Nan Zhang, Jiwu Jing, Neng Gao, “RIKE+: Using Revocable Identities to Support Key Escrow in Public Key Infrastructures with Flexibility”, IET Information Security (IET-IFS), Vol. 9, No. 2, pp. 136-147, 2015.
 - Congwu Li, Wuqiong Pan, Jingqiang Lin, “An AD-based Private Cloud Storage Access Control Scheme”, Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 676-681, 2015.
+- Jiwu Jing, Pingjian Wang, Neng Gao, Ji Xiang, Jingqiang Lin, Zongbin Liu, “Emerging E-Business - Security Architecture and Certification Technologies”, Tsinghua University Press of China, ISBN 9787302324348, 2013.
+- Nan Zhang, Jingqiang Lin, Jiwu Jing, Neng Gao, “RIKE: Using Revocable Identities to Support Key Escrow in PKIs”, 10th International Conference on Applied Cryptography and Network Security (ACNS), pp. 48-65, 2012.
+- Jingqiang Lin, Jiwu Jing, Peng Liu, “Evaluating Intrusion Tolerant Certification Authority Systems”, Quality and Reliability Engineering International (QREI), Vol. 28, No. 8, pp. 825-841, 2012.
+- Quanwei Cai, Jingqiang Lin, Jiwu Jing, Ming Shang, “An Interoperability Evaluation Tool of PKI Applications”, Journal of Graduate University of Chinese Academy of Sciences, Vol. 29, No. 6, pp. 799-804, 2012.
 ### Fault Tolerance, Blockchain and Transparency
 - Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Tianlin Song, Jingqiang Lin, Wei Wang, Quanwei Cai, “Traceable Revocable Anonymous Registration Scheme with Zero-knowledge Proof on Blockchain”, 54th IEEE International Conference on Communications (ICC), 2020.
 - Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Jiwu Jing, Daren Zha, “Blockchain-based Certificate Transparency and Revocation Transparency”, 5th Workshop on Bitcoin and Blockchain Research (BITCOIN), in conjunction with 21st International Conference on Financial Cryptography and Data Security (FC), 2018, pp. 144-162.
 - Jingqiang Lin, Jiwu Jing, Qionglu Zhang, Zhan Wang, “Recent Advances in PKI Technologies”, Chinese Journal of Cryptologic Research, Vol. 2, No. 6, pp. 487-496, 2015.
+- Quanwei Cai, Jingqiang Lin, Fengjun Li, Qiongxiao Wang, Daren Zha, “EFS: Efficient and Fault-Scalable Byzantine Fault Tolerant Systems against Faulty Clients”, 10th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 305-322, 2014.
+- Jingqiang Lin, Peng Liu, Jiwu Jing, Qiongxiao Wang, “Impossibility of Finding Any Third Family of Server Protocols Integrating Byzantine Quorum Systems with Threshold Signature Schemes”, Security and Communication Networks (SCN), Vol. 6, No. 5, pp. 612-630, 2013.
+- Jingqiang Lin, Bo Luo, Jiwu Jing, Xiaokun Zhang, “GRADE: Graceful Degradation in Byzantine Quorum Systems”, 31st IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 171-180, 2012.
+- Wentao Wang, Jingqiang Lin, Jiwu Jing, Bo Luo, “Graceful Degradation in TSS-BQS Systems”, Chinese Journal of Computers, Vol. 35, No. 9, pp. 1793-1803, 2012.
+- Jingqiang Lin, Peng Liu, Jiwu Jing, Qiongxiao Wang, “Impossibility of Finding Any Third Family of Server Protocols Integrating Byzantine Quorum Systems with Threshold Signature Schemes”, 6th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 307-325, 2010.
 ### Cryptographic Key Protection and Side Channel
 - Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Bo Luo, Jiwu Jing, “Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers”, Journal of Computer Security (JCS), Vol. 27, No. 5, pp. 547-580, 2019.
@@ -45,6 +54,8 @@
 - Yuan Zhao, Wuqiong Pan, Jingqiang Lin, Peng Liu, Cong Xue, Fangyu Zheng, “PhiRSA: Exploiting the Computing Power of Vector Instructions on Intel Xeon Phi for RSA”, 23rd Conference on Selected Areas in Cryptography (SAC), pp. 482-500, 2016.
 - Yuan Ma, Qinglong Zhang, Liu Zongbin, Chenyang Tu, Jingqiang Lin, “Low-Cost Hardware Implementation of Elliptic Curve Cryptography for General Prime Fields”, 18th International Conference on Information and Communications Security (ICICS), pp. 292-306, 2016.
 - Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conference (ISC), Best Student Paper Award, pp. 198-215, 2014.
+- Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Potential of GPUs for Modular Multiplication in ECC”, 15th International Workshop on Information Security Applications (WISA), pp. 295-306, 2014.
+- Yuan Ma, Luning Xia, Jingqiang Lin, Jiwu Jing, Zongbin Liu, Xingjie Yu, “Hardware Performance Optimization and Evaluation of SM3 Hash Algorithm on FPGA”, 14th International Conference on Information and Communications Security (ICICS), pp. 105-118, 2012.
 ### Cloud Security
 - Dongzheng Jia, Yang Zhang, Shijie Jia, Limin Liu, Jingqiang Lin, “DPVGeo: Delay-based Public Verification of Cloud Data Geolocation”, 25th IEEE Symposium on Computers and Communications (ISCC), 2020.
 - Yang Zhang, Dongzheng Jia (co-first author), Shijie Jia, Limin Liu, Jingqiang Lin, “Splitter: An Efficient Scheme to Determine the Geolocation of Cloud Data Publicly”, 29th International Conference on Computer Communications and Networks (ICCCN), 2020.
@@ -63,6 +74,7 @@
 - Manogna Thimma, Fang Liu, Jingqiang Lin, Bo Luo, “HyXAC: Hybrid XML Access Control Integrating View-based and Query-rewriting Approaches”, IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 27, No. 8, pp. 2190-2202, 2015.
 - Weiyu Jiang, Jingqiang Lin, Zhan Wang, Huorong Li, Lei Wang, “LightCore: Lightweight Collaborative Editing Cloud Services for Sensitive Data”, 13th International Conference on Applied Cryptography and Network Security (ACNS), pp. 215-239, 2015.
 - Xueyan Lin, Jingqiang Lin, Le Guan, Lei Wang, “China Standard Cryptographic Algorithm Implementation in Virtual Desktop System”, Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 701-707, 2015.
+- Quanwei Cai, Jingqiang Lin, Fengjun Li, Qiongxiao Wang, “SEDB: Building Secure Database Services for Sensitive Data”, 16th International Conference on Information and Communications Security (ICICS), pp. 16-30, 2014.
 ### Ramdonness Theory and Applications
 - Shuangyi Zhu, Jing Yang, Xusheng Li, Yuan Ma, Jingqiang Lin, Jiwu Jing, “On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data”, IEEE Transactions on Information Forensics and Security (TIFS), Vol. 15, No. 1, pp. 1696-1708, 2020.
 - Na Lv, Tianyu Chen, Shuangyi Zhu, Jing Yang, Yuan Ma, Jiwu Jing, Jingqiang Lin, “High-efficiency Min-entropy Estimation based on Neural Network for Random Number Generators”, Security and Communication Networks (SCN), Article 4241713, 2020.
@@ -78,6 +90,9 @@
 - Yuan Ma, Jingqiang Lin, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, “Entropy Evaluation for Oscillator-based True Random Number Generators”, 16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES), pp. 544-561, 2014.
 ### Threshold Cryptography and Group Communication
 - Maomao Fu, Xiaozhuo Gu, Wenhao Dai, Jingqiang Lin, Han Wang, “Secure Multi-receiver Communications: Models, Proofs, and Implementation”, 19th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), pp. 689-709, 2019.
+- Ming Shang, Yuan Ma, Jingqiang Lin, Jiwu Jing, “A Threshold Scheme for the SM2 Algorithm”, Chinese Journal of Cryptologic Research, Vol. 1, No. 2, pp. 155-166, 2014.
+- Chunli Lv, Xiaoqi Jia, Jingqiang Lin, Jiwu Jing, Lijun Tian, “An Efficient Group-based Secret Sharing Scheme”, 7th Information Security Practice and Experience Conference (ISPEC), pp. 288-301, 2011.
+- Chunli Lv, Xiaoqi Jia, Jingqiang Lin, Jiwu Jing, Lijun Tian, Mingli Sun, “Efficient Secret Sharing Schemes”, 8th FTRA International Conference on Secure and Trust Computing, Data management, and Applications (STA), pp. 114-121, 2011.
 ### Mobile/IoT Security
 - Abdulmalik Humayed, Fengjun Li, Jingqiang Lin, Bo Luo, “CANSentry: Securing CAN-Based Cyber-Physical Systems against Denial and Spoofing Attacks”, 25th European Symposium on Research in Computer Security (ESORICS), 2020.
 - Le Guan, Chen Cao, Sencun Zhu, Jingqiang Lin, Peng Liu, Yubin Xia, Bo Luo, “Protecting Mobile Devices from Physical Memory Attacks with Targeted Encryption”, 12th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), pp. 34-44, 2019.
@@ -89,6 +104,11 @@
 - Wei Wang, Jingqiang Lin, Zhan Wang, Ze Wang, Luning Xia, “vBox: Proactively Establishing Secure Channels between Wireless Devices without Prior Knowledge”, 20th European Symposium on Research in Computer Security (ESORICS), pp. 332-351, 2015.
 - Shijie Jia, Luning Xia, Zhan Wang, Jingqiang Lin, Guozhu Zhang, Yafei Ji, “Extracting Robust Keys from NAND Flash Physical Unclonable Functions”, 18th Information Security Conference (ISC), pp. 437-454, 2015.
 - Yafei Ji, Luning Xia, Jingqiang Lin, Jian Zhou, Guozhu Zhang, Shijie Jia, “Chameleon: A Lightweight Method for Thwarting Relay Attacks in Near Field Communication”, 17th International Conference on Information and Communications Security (ICICS), pp. 346-355, 2015.
+- Cunqing Ma, Jingqiang Lin, Yuewu Wang, “Efficient Missing Tag Detection in a Large RFID System”, 11th IEEE International Conference on Trust, Security, and Privacy in Computing and Communications (TrustCom), pp. 185-192, 2012.
+- Cunqing Ma, Jingqiang Lin, Yuewu Wang, Ming Shang, “Offline RFID Grouping Proofs with Trusted Timestamps”, 11th IEEE International Conference on Trust, Security, and Privacy in Computing and Communications (TrustCom), pp. 674-681, 2012.
+### Game Theory for Security
+- Ming Shang, Jingqiang Lin, Xiaokun Zhang, Changwei Xu, “A Game-Theory Analysis of the Rat-group Attack in Smart Grids”, 9th IEEE International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2014.
+- Jingqiang Lin, Peng Liu, Jiwu Jing, “Using Signaling Games to Model the Multi-step Attack-defense Scenarios on Confidentiality”, 3rd Conference on Decision and Game Theory for Security (GameSec), pp. 118-137, 2012.
 
 
 
@@ -101,25 +121,8 @@
 
 
 
-88. Quanwei Cai, Jingqiang Lin, Fengjun Li, Qiongxiao Wang, Daren Zha, “EFS: Efficient and Fault-Scalable Byzantine Fault Tolerant Systems against Faulty Clients”, 10th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 305-322, 2014.
-89. Quanwei Cai, Jingqiang Lin, Fengjun Li, Qiongxiao Wang, “SEDB: Building Secure Database Services for Sensitive Data”, 16th International Conference on Information and Communications Security (ICICS), pp. 16-30, 2014.
-90. Ming Shang, Jingqiang Lin, Xiaokun Zhang, Changwei Xu, “A Game-Theory Analysis of the Rat-group Attack in Smart Grids”, 9th IEEE International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2014.
-91. Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Potential of GPUs for Modular Multiplication in ECC”, 15th International Workshop on Information Security Applications (WISA), pp. 295-306, 2014.
-92. Ming Shang, Yuan Ma, Jingqiang Lin, Jiwu Jing, “A Threshold Scheme for the SM2 Algorithm”, Chinese Journal of Cryptologic Research, Vol. 1, No. 2, pp. 155-166, 2014.
-93. Jingqiang Lin, Peng Liu, Jiwu Jing, Qiongxiao Wang, “Impossibility of Finding Any Third Family of Server Protocols Integrating Byzantine Quorum Systems with Threshold Signature Schemes”, Security and Communication Networks (SCN), Vol. 6, No. 5, pp. 612-630, 2013.
-94. Jiwu Jing, Pingjian Wang, Neng Gao, Ji Xiang, Jingqiang Lin, Zongbin Liu, “Emerging E-Business - Security Architecture and Certification Technologies”, Tsinghua University Press of China, ISBN 9787302324348, 2013.
-95. Jingqiang Lin, Bo Luo, Jiwu Jing, Xiaokun Zhang, “GRADE: Graceful Degradation in Byzantine Quorum Systems”, 31st IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 171-180, 2012.
-96. Nan Zhang, Jingqiang Lin, Jiwu Jing, Neng Gao, “RIKE: Using Revocable Identities to Support Key Escrow in PKIs”, 10th International Conference on Applied Cryptography and Network Security (ACNS), pp. 48-65, 2012.
-97. Jingqiang Lin, Peng Liu, Jiwu Jing, “Using Signaling Games to Model the Multi-step Attack-defense Scenarios on Confidentiality”, 3rd Conference on Decision and Game Theory for Security (GameSec), pp. 118-137, 2012.
-98. Yuan Ma, Luning Xia, Jingqiang Lin, Jiwu Jing, Zongbin Liu, Xingjie Yu, “Hardware Performance Optimization and Evaluation of SM3 Hash Algorithm on FPGA”, 14th International Conference on Information and Communications Security (ICICS), pp. 105-118, 2012.
-99. Cunqing Ma, Jingqiang Lin, Yuewu Wang, “Efficient Missing Tag Detection in a Large RFID System”, 11th IEEE International Conference on Trust, Security, and Privacy in Computing and Communications (TrustCom), pp. 185-192, 2012.
-100. Cunqing Ma, Jingqiang Lin, Yuewu Wang, Ming Shang, “Offline RFID Grouping Proofs with Trusted Timestamps”, 11th IEEE International Conference on Trust, Security, and Privacy in Computing and Communications (TrustCom), pp. 674-681, 2012.
-101. Jingqiang Lin, Jiwu Jing, Peng Liu, “Evaluating Intrusion Tolerant Certification Authority Systems”, Quality and Reliability Engineering International (QREI), Vol. 28, No. 8, pp. 825-841, 2012.
-102. Wentao Wang, Jingqiang Lin, Jiwu Jing, Bo Luo, “Graceful Degradation in TSS-BQS Systems”, Chinese Journal of Computers, Vol. 35, No. 9, pp. 1793-1803, 2012.
-103. Quanwei Cai, Jingqiang Lin, Jiwu Jing, Ming Shang, “An Interoperability Evaluation Tool of PKI Applications”, Journal of Graduate University of Chinese Academy of Sciences, Vol. 29, No. 6, pp. 799-804, 2012.
-104. Chunli Lv, Xiaoqi Jia, Jingqiang Lin, Jiwu Jing, Lijun Tian, “An Efficient Group-based Secret Sharing Scheme”, 7th Information Security Practice and Experience Conference (ISPEC), pp. 288-301, 2011.
-105. Chunli Lv, Xiaoqi Jia, Jingqiang Lin, Jiwu Jing, Lijun Tian, Mingli Sun, “Efficient Secret Sharing Schemes”, 8th FTRA International Conference on Secure and Trust Computing, Data management, and Applications (STA), pp. 114-121, 2011.
-106. Jingqiang Lin, Peng Liu, Jiwu Jing, Qiongxiao Wang, “Impossibility of Finding Any Third Family of Server Protocols Integrating Byzantine Quorum Systems with Threshold Signature Schemes”, 6th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 307-325, 2010.
+
+
 107. Daren Zha, Jiwu Jing, Peng Liu, Jingqiang Lin, Xiaoqi Jia, “Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control”, 10th International Conference on Computational Science and Its Applications (ICCSA), pp. 468-481, 2010.
 108. Qiongxiao Wang, Jiwu Jing, Jingqiang Lin, “A Secure Storage System Combining Secret Sharing Schemes and Byzantine Quorum Mechanisms”, 10th IEEE International Conference on Computer and Information Technology (CIT), pp. 596-603, 2010.
 109. Jiwu Jing, Jing Wang, Jingqiang Lin, Yongquan Xie, Qing Gu, “Server Protocols of Byzantine Quorum Systems Implemented Utilizing Threshold Signature Schemes”, Chinese Journal of Software, Vol. 21, No. 10, pp. 2631-2641, 2010.
