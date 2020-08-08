@@ -10,10 +10,14 @@
 - Bingyu Li, Dawei Chu, Jingqiang Lin, Quanwei Cai, Congli Wang, Lingjia Meng, “The Weakest Link of Certificate Transparency: Exploring the TLS/HTTPS Configurations of Third-Party Monitors”, 18th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), pp. 216-223, 2019.
 - Quanwei Cai, Jonathan Lutes, Jingqiang Lin, Bo Luo, “A-Tor: Accountable Anonymity in Tor”, 13th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 838-851, 2017.
 - Wen-Tao Zhu, Jingqiang Lin, “Generating Correlated Digital Certificates: Framework and Applications”, IEEE Transactions on Information Forensics and Security (TIFS), Vol. 11, No. 6, pp. 1117-1127, 2016.
+- Jiwu Jing, Jingqiang Lin, Zhan Wang, Neng Gao, “Report on Authentication Technologies”, chapter in Report on Advances in Cryptology, China Science and Technology Press, ISBN 9787504670663, pp. 119-134, 2016.
+- Jingqiang Lin, Wen-Tao Zhu, Qiongxiao Wang, Nan Zhang, Jiwu Jing, Neng Gao, “RIKE+: Using Revocable Identities to Support Key Escrow in Public Key Infrastructures with Flexibility”, IET Information Security (IET-IFS), Vol. 9, No. 2, pp. 136-147, 2015.
+- Congwu Li, Wuqiong Pan, Jingqiang Lin, “An AD-based Private Cloud Storage Access Control Scheme”, Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 676-681, 2015.
 ### Fault Tolerance, Blockchain and Transparency
 - Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Tianlin Song, Jingqiang Lin, Wei Wang, Quanwei Cai, “Traceable Revocable Anonymous Registration Scheme with Zero-knowledge Proof on Blockchain”, 54th IEEE International Conference on Communications (ICC), 2020.
 - Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Jiwu Jing, Daren Zha, “Blockchain-based Certificate Transparency and Revocation Transparency”, 5th Workshop on Bitcoin and Blockchain Research (BITCOIN), in conjunction with 21st International Conference on Financial Cryptography and Data Security (FC), 2018, pp. 144-162.
+- Jingqiang Lin, Jiwu Jing, Qionglu Zhang, Zhan Wang, “Recent Advances in PKI Technologies”, Chinese Journal of Cryptologic Research, Vol. 2, No. 6, pp. 487-496, 2015.
 ### Cryptographic Key Protection and Side Channel
 - Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Bo Luo, Jiwu Jing, “Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers”, Journal of Computer Security (JCS), Vol. 27, No. 5, pp. 547-580, 2019.
@@ -26,6 +30,9 @@
 - Congwu Li, Jingqiang Lin, Quanwei Cai, Bo Luo, “Peapods: OS-Independent Memory Confidentiality for Cryptographic Engines”, 16th IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), pp. 862-869, 2018.
 - Huorong Li, Wuqiong Pan, Jingqiang Lin, Wangzhao Cheng, Bingyu Li, “SSUKey: A CPU-based Solution Protecting Private Keys on Untrusted OS”, 18th International Conference on Information and Communications Security (ICICS), pp. 51-62, 2017.
 - Jingqiang Lin, Bo Luo, Le Guan, Jiwu Jing, “Secure Computing using Registers and Caches: The Problem, Challenges and Solutions”, IEEE Security & Privacy, Vol. 14, No. 6, pp. 63-70, 2016.
+- Yuan Zhao, Jingqiang Lin, Wuqiong Pan, Cong Xue, Fangyu Zheng, Ziqiang Ma, “RegRSA: Using Registers as Buffers to Resist Memory Disclosure Attacks”, 31st International Conference on Systems Security and Privacy Protection (IFIP SEC), pp. 293-307, 2016.
+- Kaijie Zhu, Quanwei Cai, Jingqiang Lin, Jiwu Jing, “Cryptographic Key Security and the Advances with Virtualization”, Chinese Journal of Cryptologic Research, Vol. 3, No. 1, pp. 12-21, 2016.
+- Le Guan, Jingqiang Lin, Bo Luo, Jiwu Jing, Jing Wang, “Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, 36th IEEE Symposium on Security and Privacy (Oakland), pp. 3-19, 2015.
 ### High-performace Cryptographic Implementation
 - Jiankuo Dong, Fangyu Zheng, Jingqiang Lin, “Implementing High-performance X25519/448 Key Agreement Scheme in General Purpose GPUs”, Chinese Journal of Cyber Security, accepted.
 - Lili Gao, Fangyu Zheng, Niall Emmart, Jiankuo Dong, Jingqiang Lin, Charles Weems, “DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs”, 34nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 494-504, 2020.
@@ -34,6 +41,8 @@
 - Jiankuo Dong, Fangyu Zheng, Juanjuan Cheng, Jingqiang Lin, Wuqiong Pan, Ziyang Wang, “Towards High-performance X25519/448 Key Agreement in General Purpose GPUs”, 6th IEEE Conference on Communications and Network Security (CNS), 2018.
 - Jiankuo Dong, Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Utilizing the Double-precision Floating-point Computing Power of GPUs for RSA Acceleration”, Security and Communication Networks (SCN), Article 3508786, 2017.
 - Wangzhao Cheng, Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Huorong Li, Bingyu Li, “High-Performance Symmetric Cryptography Server with GPU Acceleration”, 18th International Conference on Information and Communications Security (ICICS), pp. 529-540, 2017.
+- Yuan Zhao, Wuqiong Pan, Jingqiang Lin, Peng Liu, Cong Xue, Fangyu Zheng, “PhiRSA: Exploiting the Computing Power of Vector Instructions on Intel Xeon Phi for RSA”, 23rd Conference on Selected Areas in Cryptography (SAC), pp. 482-500, 2016.
+- Yuan Ma, Qinglong Zhang, Liu Zongbin, Chenyang Tu, Jingqiang Lin, “Low-Cost Hardware Implementation of Elliptic Curve Cryptography for General Prime Fields”, 18th International Conference on Information and Communications Security (ICICS), pp. 292-306, 2016.
 ### Cloud Security
 - Dongzheng Jia, Yang Zhang, Shijie Jia, Limin Liu, Jingqiang Lin, “DPVGeo: Delay-based Public Verification of Cloud Data Geolocation”, 25th IEEE Symposium on Computers and Communications (ISCC), 2020.
 - Yang Zhang, Dongzheng Jia (co-first author), Shijie Jia, Limin Liu, Jingqiang Lin, “Splitter: An Efficient Scheme to Determine the Geolocation of Cloud Data Publicly”, 29th International Conference on Computer Communications and Networks (ICCCN), 2020.
@@ -46,6 +55,12 @@
 - Peng Xu, Jingqiang Lin, Hai Jin, Wei Wang, Qiongxiao Wang, “Cloud Data Security”, China Machine Press, ISBN 9787111605096, 2018.
 - Fangjie Jiang, Quanwei Cai, Le Guan, Jingqiang Lin, “Enforcing Access Controls for the Cryptographic Cloud Service Invocation based on Virtual Machine Introspection”, 21st Information Security Conference (ISC), pp. 213-230, 2018.
 - Wangzhao Cheng, Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Huorong Li, Bingyu Li, “Building Your Private Cloud Storage on Public Cloud Service Using Embedded GPUs”, 14th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 512-528, 2018.
+- Weiyu Jiang, Jingqiang Lin, Zhan Wang, Bo Chen, Kun Sun, “Cloud Security Key Management: Cloud User Controls”, chapter in Cloud Computing Security: Foundations and Challenges, CRC Press, ISBN 9781482260946, pp. 151-177, 2016.
+- Lei Lei, Quanwei Cai, Bo Chen, Jingqiang Lin, “Towards Efficient Re-encryption for Secure Client-side Deduplication in Public Clouds”, 18th International Conference on Information and Communications Security (ICICS), pp. 71-84, 2016.
+- Lei Lei, Quanwei Cai, Jiwu Jing, Jingqiang Lin, Zhan Wang, Bo Chen, “Enforcing Access Controls on Encrypted Cloud Storage with Policy Hiding”, Chinese Journal of Software, Vol. 27, No. 6, pp. 1432-1450, 2016.
+- Manogna Thimma, Fang Liu, Jingqiang Lin, Bo Luo, “HyXAC: Hybrid XML Access Control Integrating View-based and Query-rewriting Approaches”, IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 27, No. 8, pp. 2190-2202, 2015.
+- Weiyu Jiang, Jingqiang Lin, Zhan Wang, Huorong Li, Lei Wang, “LightCore: Lightweight Collaborative Editing Cloud Services for Sensitive Data”, 13th International Conference on Applied Cryptography and Network Security (ACNS), pp. 215-239, 2015.
+- Xueyan Lin, Jingqiang Lin, Le Guan, Lei Wang, “China Standard Cryptographic Algorithm Implementation in Virtual Desktop System”, Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 701-707, 2015.
 ### Ramdonness Theory and Applications
 - Shuangyi Zhu, Jing Yang, Xusheng Li, Yuan Ma, Jingqiang Lin, Jiwu Jing, “On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data”, IEEE Transactions on Information Forensics and Security (TIFS), Vol. 15, No. 1, pp. 1696-1708, 2020.
 - Na Lv, Tianyu Chen, Shuangyi Zhu, Jing Yang, Yuan Ma, Jiwu Jing, Jingqiang Lin, “High-efficiency Min-entropy Estimation based on Neural Network for Random Number Generators”, Security and Communication Networks (SCN), Article 4241713, 2020.
@@ -55,6 +70,9 @@
 - Shuangyi Zhu, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Analysis and Improvement of the Entropy Estimators in NIST SP 800-90B for Non-IID Entropy Sources”, 25th International Conference on Fast Software Encryption (FSE), 2018.
 - Yuan Ma, Jingqiang Lin, Jiwu Jing, “On the Entropy of Oscillator-based True Random Number Generators”, the Cryptographer’s Track at RSA Conference (CT-RSA), pp. 165-180, 2017.
 - Shuangyi Zhu, Yuan Ma, Jingqiang Lin, Jia Zhuang, Jiwu Jing, “More Powerful and Reliable Second-level Statistical Randomness Tests for NIST SP 800-22”, 22nd Annual International Conference on the Theory and Applications of Cryptology and Information Security (AsiaCrypt), pp. 307-329, 2016.
+- Jing Yang, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Extracting More Entropy for TRNGs based on the Coherent Sampling”, 12th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 694-709, 2016.
+- Jia Zhuang, Yuan Ma, Shuangyi Zhu, Jingqiang Lin, Jiwu Jing, “Q-Value Test: A New Method on Randomness Statistical Test”, Chinese Journal of Cryptologic Research, Vol. 3, No. 2, pp. 192-201, 2016.
+- Tianyu Chen, Yuan Ma, Jingqiang Lin, Zhan Wang, Jiwu Jing, “An Efficiency Optimization Scheme for the On-the-fly Statistical Randomness Test”, 2nd IEEE International Conference on Cyber Security and Cloud Computing (CSCloud), pp. 515-517, 2015.
 ### Threshold Cryptography and Group Communication
 - Maomao Fu, Xiaozhuo Gu, Wenhao Dai, Jingqiang Lin, Han Wang, “Secure Multi-receiver Communications: Models, Proofs, and Implementation”, 19th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), pp. 689-709, 2019.
 ### Mobile/IoT Security
@@ -65,6 +83,10 @@
 - Chen Cao, Le Guan, Peng Liu, Neng Gao, Jingqiang Lin, Ji Xiang, “Hey, You, Keep away from My Device: Remotely Implanting a Virus Expeller to Defeat Mirai on IoT Devices”, 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec), in conjunction with 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI), 2018.
 - Abdulmalik Humayed, Jingqiang Lin, Fengjun Li, Bo Luo, “Cyber-Physical Systems Security - A Survey”, IEEE Internet of Things Journal (IoT-J), Vol. 4, No. 6, pp. 1802-1831, 2017.
 - Le Guan, Shijie Jia, Bo Chen, Fengwei Zhang, Bo Luo, Jingqiang Lin, Peng Liu, Xinyu Xing, Luning Xia, “Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices”, 33rd Annual Computer Security Applications Conference (ACSAC), Outstanding Paper Award, pp. 339-349, 2017.
+- Wei Wang, Jingqiang Lin, Zhan Wang, Ze Wang, Luning Xia, “vBox: Proactively Establishing Secure Channels between Wireless Devices without Prior Knowledge”, 20th European Symposium on Research in Computer Security (ESORICS), pp. 332-351, 2015.
+- Shijie Jia, Luning Xia, Zhan Wang, Jingqiang Lin, Guozhu Zhang, Yafei Ji, “Extracting Robust Keys from NAND Flash Physical Unclonable Functions”, 18th Information Security Conference (ISC), pp. 437-454, 2015.
+- Yafei Ji, Luning Xia, Jingqiang Lin, Jian Zhou, Guozhu Zhang, Shijie Jia, “Chameleon: A Lightweight Method for Thwarting Relay Attacks in Near Field Communication”, 17th International Conference on Information and Communications Security (ICICS), pp. 346-355, 2015.
+
 
 
 - Jingqiang Lin, Jiwu Jing, “The Taxonomy towards the Security Application of Cryptography”, Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 14-22, 2019.
@@ -76,27 +98,6 @@
 
 
 
-64. Yuan Zhao, Wuqiong Pan, Jingqiang Lin, Peng Liu, Cong Xue, Fangyu Zheng, “PhiRSA: Exploiting the Computing Power of Vector Instructions on Intel Xeon Phi for RSA”, 23rd Conference on Selected Areas in Cryptography (SAC), pp. 482-500, 2016.
-65. Yuan Zhao, Jingqiang Lin, Wuqiong Pan, Cong Xue, Fangyu Zheng, Ziqiang Ma, “RegRSA: Using Registers as Buffers to Resist Memory Disclosure Attacks”, 31st International Conference on Systems Security and Privacy Protection (IFIP SEC), pp. 293-307, 2016.
-66. Jing Yang, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Extracting More Entropy for TRNGs based on the Coherent Sampling”, 12th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 694-709, 2016.
-67. Weiyu Jiang, Jingqiang Lin, Zhan Wang, Bo Chen, Kun Sun, “Cloud Security Key Management: Cloud User Controls”, chapter in Cloud Computing Security: Foundations and Challenges, CRC Press, ISBN 9781482260946, pp. 151-177, 2016.
-68. Yuan Ma, Qinglong Zhang, Liu Zongbin, Chenyang Tu, Jingqiang Lin, “Low-Cost Hardware Implementation of Elliptic Curve Cryptography for General Prime Fields”, 18th International Conference on Information and Communications Security (ICICS), pp. 292-306, 2016.
-69. Lei Lei, Quanwei Cai, Bo Chen, Jingqiang Lin, “Towards Efficient Re-encryption for Secure Client-side Deduplication in Public Clouds”, 18th International Conference on Information and Communications Security (ICICS), pp. 71-84, 2016.
-70. Jiwu Jing, Jingqiang Lin, Zhan Wang, Neng Gao, “Report on Authentication Technologies”, chapter in Report on Advances in Cryptology, China Science and Technology Press, ISBN 9787504670663, pp. 119-134, 2016.
-71. Lei Lei, Quanwei Cai, Jiwu Jing, Jingqiang Lin, Zhan Wang, Bo Chen, “Enforcing Access Controls on Encrypted Cloud Storage with Policy Hiding”, Chinese Journal of Software, Vol. 27, No. 6, pp. 1432-1450, 2016.
-72. Kaijie Zhu, Quanwei Cai, Jingqiang Lin, Jiwu Jing, “Cryptographic Key Security and the Advances with Virtualization”, Chinese Journal of Cryptologic Research, Vol. 3, No. 1, pp. 12-21, 2016.
-73. Jia Zhuang, Yuan Ma, Shuangyi Zhu, Jingqiang Lin, Jiwu Jing, “Q-Value Test: A New Method on Randomness Statistical Test”, Chinese Journal of Cryptologic Research, Vol. 3, No. 2, pp. 192-201, 2016.
-74. Le Guan, Jingqiang Lin, Bo Luo, Jiwu Jing, Jing Wang, “Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, 36th IEEE Symposium on Security and Privacy (Oakland), pp. 3-19, 2015.
-75. Manogna Thimma, Fang Liu, Jingqiang Lin, Bo Luo, “HyXAC: Hybrid XML Access Control Integrating View-based and Query-rewriting Approaches”, IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 27, No. 8, pp. 2190-2202, 2015.
-76. Wei Wang, Jingqiang Lin, Zhan Wang, Ze Wang, Luning Xia, “vBox: Proactively Establishing Secure Channels between Wireless Devices without Prior Knowledge”, 20th European Symposium on Research in Computer Security (ESORICS), pp. 332-351, 2015.
-77. Jingqiang Lin, Wen-Tao Zhu, Qiongxiao Wang, Nan Zhang, Jiwu Jing, Neng Gao, “RIKE+: Using Revocable Identities to Support Key Escrow in Public Key Infrastructures with Flexibility”, IET Information Security (IET-IFS), Vol. 9, No. 2, pp. 136-147, 2015.
-78. Weiyu Jiang, Jingqiang Lin, Zhan Wang, Huorong Li, Lei Wang, “LightCore: Lightweight Collaborative Editing Cloud Services for Sensitive Data”, 13th International Conference on Applied Cryptography and Network Security (ACNS), pp. 215-239, 2015.
-79. Shijie Jia, Luning Xia, Zhan Wang, Jingqiang Lin, Guozhu Zhang, Yafei Ji, “Extracting Robust Keys from NAND Flash Physical Unclonable Functions”, 18th Information Security Conference (ISC), pp. 437-454, 2015.
-80. Yafei Ji, Luning Xia, Jingqiang Lin, Jian Zhou, Guozhu Zhang, Shijie Jia, “Chameleon: A Lightweight Method for Thwarting Relay Attacks in Near Field Communication”, 17th International Conference on Information and Communications Security (ICICS), pp. 346-355, 2015.
-81. Tianyu Chen, Yuan Ma, Jingqiang Lin, Zhan Wang, Jiwu Jing, “An Efficiency Optimization Scheme for the On-the-fly Statistical Randomness Test”, 2nd IEEE International Conference on Cyber Security and Cloud Computing (CSCloud), pp. 515-517, 2015.
-82. Jingqiang Lin, Jiwu Jing, Qionglu Zhang, Zhan Wang, “Recent Advances in PKI Technologies”, Chinese Journal of Cryptologic Research, Vol. 2, No. 6, pp. 487-496, 2015.
-83. Xueyan Lin, Jingqiang Lin, Le Guan, Lei Wang, “China Standard Cryptographic Algorithm Implementation in Virtual Desktop System”, Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 701-707, 2015.
-84. Congwu Li, Wuqiong Pan, Jingqiang Lin, “An AD-based Private Cloud Storage Access Control Scheme”, Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 676-681, 2015.
 85. Le Guan, Jingqiang Lin, Bo Luo, Jiwu Jing, “Copker: Computing with Private Keys without RAM”, 21st ISOC Network and Distributed System Security Symposium (NDSS), 2014.
 86. Yuan Ma, Jingqiang Lin, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, “Entropy Evaluation for Oscillator-based True Random Number Generators”, 16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES), pp. 544-561, 2014.
 87. Fangyu Zheng, Wuqiong Pan, Jingqiang Lin, Jiwu Jing, Yuan Zhao, “Exploiting the Floating-Point Computing Power of GPUs for RSA”, 17th Information Security Conference (ISC), Best Student Paper Award, pp. 198-215, 2014.
