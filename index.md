@@ -1,4 +1,3 @@
-## Welcome to Jingqiang Lin's Pages
 - 2020.8 - , Professor, School of Cyber Security, University of Science and Technology of China
 - 2015.10 - 2020.7, Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 - 2012.10 - 2015.10, Associate Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
