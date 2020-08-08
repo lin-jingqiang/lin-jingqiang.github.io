@@ -18,9 +18,10 @@ Applied Cryptography, Network Security, and System Security
 - Cryptographic Key Protection and Side Channel
 - High-performace Cryptographic Implementation
 - Cloud Security
+- Ramdonness Theory and Applications
 - Threshold Cryptography and Group Communication
 - Mobile/IoT Security
-- Ramdonness Theory and Applications
+- Game Theory for Security
 
 ## Selected Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
