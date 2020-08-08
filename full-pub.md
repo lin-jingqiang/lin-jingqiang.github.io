@@ -1,4 +1,5 @@
-### Full Publication
+# Welcome to Jingqiang Lin Scholar Pages
+## Full Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 2. Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 3. Bingyu Li, Jingqiang Lin, Qiongxiao Wang, Ze Wang, Jiwu Jing, “Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems”, IEEE Transactions on Information Forensics and Security (TIFS), accepted.
