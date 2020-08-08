@@ -4,11 +4,21 @@
 - 2015.10 - 2020.7, Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 - 2012.10 - 2015.10, Associate Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 
+### Research Interest
+Applied Cryptography, Network Security, and System Security
+
 ### Funding and Project
 - Key Technologies of Cryptographic Service Supporting Infrastructures in the Mobile Internet (Grant No. 2017YFB0802100), Cyber Security Program of National Key RD Plan of China
 - 国家重点研发计划网络空间安全重点专项 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
 - Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518), National Natural Science Foundation of China
 - 国家自然科学基金 通用计算平台的密钥保护技术研究 (项目号61772518)
+
+- PKI and Authentication
+- Fault Tolerance, Blockchain and Transparency
+- High-performace Cryptographic Implementation
+- Threshold Cryptography
+- Mobile/IoT Security
+- Ramdonness Theory and Applications
 
 ### Selected Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
