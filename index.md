@@ -15,6 +15,7 @@ Applied Cryptography, Network Security, and System Security
 
 - PKI and Authentication
 - Fault Tolerance, Blockchain and Transparency
+- Cryptographic Key Protection and Side Channel
 - High-performace Cryptographic Implementation
 - Cloud Security
 - Threshold Cryptography and Group Communication
