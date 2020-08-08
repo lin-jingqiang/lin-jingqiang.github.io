@@ -17,6 +17,14 @@
 - Nan Zhang, Jingqiang Lin, Jiwu Jing, Neng Gao, “RIKE: Using Revocable Identities to Support Key Escrow in PKIs”, 10th International Conference on Applied Cryptography and Network Security (ACNS), pp. 48-65, 2012.
 - Jingqiang Lin, Jiwu Jing, Peng Liu, “Evaluating Intrusion Tolerant Certification Authority Systems”, Quality and Reliability Engineering International (QREI), Vol. 28, No. 8, pp. 825-841, 2012.
 - Quanwei Cai, Jingqiang Lin, Jiwu Jing, Ming Shang, “An Interoperability Evaluation Tool of PKI Applications”, Journal of Graduate University of Chinese Academy of Sciences, Vol. 29, No. 6, pp. 799-804, 2012.
+- Daren Zha, Jiwu Jing, Peng Liu, Jingqiang Lin, Xiaoqi Jia, “Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control”, 10th International Conference on Computational Science and Its Applications (ICCSA), pp. 468-481, 2010.
+- Jiwu Jing, Chuankun Wu, Jingqiang Lin, “Advances in Key Management and PKI Technologies”, chapter in Report on Advances in Cryptology, China Science and Technology Press, ISBN 9787504650207, pp. 107-125, 2010.
+- Fan Zhang, Qing Gu, Jiwu Jing, Jingqiang Lin, Dare Zha, “PKI Application Interoperability Evaluation”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 27, No. 6, pp. 824-830, 2010.
+- Jingjing Wu, Jiwu Jing, Yuewu Wang, Jingqiang Lin, Yicong Liu, “Trust Model for Public Key Infrastructure in the Real-world Environment”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 26, No. 3, pp. 389-399, 2009.
+- Jiwu Jing, Jingqiang Lin, Dengguo Feng, “PKI Technology”, Science Press of China, ISBN 9787030219060, 2008.
+- Jingqiang Lin, Jiwu Jing, Peng Liu, “A Framework for Intrusion Tolerant Certification Authority System Evaluation”, 26th IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 231-241, 2007.
+- Jingqiang Lin, Dengguo Feng, “Temporary RSA Key and OCSP Server Implementation”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 22, No. 1, pp. 59-63, 2005.
+- Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, Jingqiang Lin, “ARECA: A Highly Attack Resilient Certification Authority”, ACM Workshop on Survivable and Self-Regenerative Systems (SSRS), in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
 ### Fault Tolerance, Blockchain and Transparency
 - Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Tianlin Song, Jingqiang Lin, Wei Wang, Quanwei Cai, “Traceable Revocable Anonymous Registration Scheme with Zero-knowledge Proof on Blockchain”, 54th IEEE International Conference on Communications (ICC), 2020.
@@ -27,6 +35,9 @@
 - Jingqiang Lin, Bo Luo, Jiwu Jing, Xiaokun Zhang, “GRADE: Graceful Degradation in Byzantine Quorum Systems”, 31st IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 171-180, 2012.
 - Wentao Wang, Jingqiang Lin, Jiwu Jing, Bo Luo, “Graceful Degradation in TSS-BQS Systems”, Chinese Journal of Computers, Vol. 35, No. 9, pp. 1793-1803, 2012.
 - Jingqiang Lin, Peng Liu, Jiwu Jing, Qiongxiao Wang, “Impossibility of Finding Any Third Family of Server Protocols Integrating Byzantine Quorum Systems with Threshold Signature Schemes”, 6th International Conference on Security and Privacy in Communication Networks (SecureComm), pp. 307-325, 2010.
+- Qiongxiao Wang, Jiwu Jing, Jingqiang Lin, “A Secure Storage System Combining Secret Sharing Schemes and Byzantine Quorum Mechanisms”, 10th IEEE International Conference on Computer and Information Technology (CIT), pp. 596-603, 2010.
+- Jiwu Jing, Jing Wang, Jingqiang Lin, Yongquan Xie, Qing Gu, “Server Protocols of Byzantine Quorum Systems Implemented Utilizing Threshold Signature Schemes”, Chinese Journal of Software, Vol. 21, No. 10, pp. 2631-2641, 2010.
+- Haijiao Liu, Jiwu Jing, Jingqiang Lin, Jiao Du, “Building an Intrusion Tolerant Repository”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 23, No. 1, pp. 46-51, 2006.
 ### Cryptographic Key Protection and Side Channel
 - Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Bo Luo, Jiwu Jing, “Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers”, Journal of Computer Security (JCS), Vol. 27, No. 5, pp. 547-580, 2019.
@@ -119,18 +130,3 @@
 - Jingqiang Lin, Fangyu Zheng, Yuewu Wang, “Advances in Cryptographic Key Protection”, Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 68-74, 2019.
 - Fangyu Zheng, Jiankuo Dong, Jingqiang Lin, Lili Gao, “High-performance Cryptographic Computations in GPUs”, Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 88-96, 2019.
 
-
-
-
-
-107. Daren Zha, Jiwu Jing, Peng Liu, Jingqiang Lin, Xiaoqi Jia, “Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control”, 10th International Conference on Computational Science and Its Applications (ICCSA), pp. 468-481, 2010.
-108. Qiongxiao Wang, Jiwu Jing, Jingqiang Lin, “A Secure Storage System Combining Secret Sharing Schemes and Byzantine Quorum Mechanisms”, 10th IEEE International Conference on Computer and Information Technology (CIT), pp. 596-603, 2010.
-109. Jiwu Jing, Jing Wang, Jingqiang Lin, Yongquan Xie, Qing Gu, “Server Protocols of Byzantine Quorum Systems Implemented Utilizing Threshold Signature Schemes”, Chinese Journal of Software, Vol. 21, No. 10, pp. 2631-2641, 2010.
-110. Jiwu Jing, Chuankun Wu, Jingqiang Lin, “Advances in Key Management and PKI Technologies”, chapter in Report on Advances in Cryptology, China Science and Technology Press, ISBN 9787504650207, pp. 107-125, 2010.
-111. Fan Zhang, Qing Gu, Jiwu Jing, Jingqiang Lin, Dare Zha, “PKI Application Interoperability Evaluation”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 27, No. 6, pp. 824-830, 2010.
-112. Jingjing Wu, Jiwu Jing, Yuewu Wang, Jingqiang Lin, Yicong Liu, “Trust Model for Public Key Infrastructure in the Real-world Environment”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 26, No. 3, pp. 389-399, 2009.
-113. Jiwu Jing, Jingqiang Lin, Dengguo Feng, “PKI Technology”, Science Press of China, ISBN 9787030219060, 2008.
-114. Jingqiang Lin, Jiwu Jing, Peng Liu, “A Framework for Intrusion Tolerant Certification Authority System Evaluation”, 26th IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 231-241, 2007.
-115. Haijiao Liu, Jiwu Jing, Jingqiang Lin, Jiao Du, “Building an Intrusion Tolerant Repository”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 23, No. 1, pp. 46-51, 2006.
-116. Jingqiang Lin, Dengguo Feng, “Temporary RSA Key and OCSP Server Implementation”, Journal of Graduate School of Chinese Academy of Sciences, Vol. 22, No. 1, pp. 59-63, 2005.
-117. Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, Jingqiang Lin, “ARECA: A Highly Attack Resilient Certification Authority”, ACM Workshop on Survivable and Self-Regenerative Systems (SSRS), in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
