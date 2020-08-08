@@ -1,3 +1,5 @@
+## Welcome to Jingqiang Lin' Scholar Pages
+
 - 2020.8 - , Professor, School of Cyber Security, University of Science and Technology of China
 - 2015.10 - 2020.7, Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 - 2012.10 - 2015.10, Associate Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
@@ -21,7 +23,7 @@
 12. Le Guan, Jingqiang Lin, Ziqiang Ma, Bo Luo, Luning Xia, Jiwu Jing, “Copker: A Cryptographic Engine against Cold-Boot Attacks”, IEEE Transactions on Dependable and Secure Computing (TDSC), Vol. 15, No. 5, pp. 742-754, 2018.
 13. Jiankuo Dong, Fangyu Zheng, Niall Emmart, Jingqiang Lin, Charles C. Weems, “sDPF-RSA: Utilizing Floating-point Computing Power of GPUs for Massive Digital Signature Computations”, 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 599-609, 2018.
 14. Chen Cao, Le Guan, Ning Zhang, Neng Gao, Jingqiang Lin, Bo Luo, Peng Liu, Ji Xiang, Wenjing Lou, “CryptMe: Data Leakage Prevention for Unmodified Programs on ARM Devices”, 21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID), pp. 380-400, 2018.
-15. Shuangyi Zhu, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Analysis and Improvement of the Entropy Estimators in NIST SP 800-90B for Non-IID Entropy Sources”, 25th International Conference on Fast Software Encryption (FSE), 2018; also in IACR Transactions on Symmetric Cryptology (ToSC), Vol. 2017, No. 3, pp. 151-168.
+15. Shuangyi Zhu, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, “Analysis and Improvement of the Entropy Estimators in NIST SP 800-90B for Non-IID Entropy Sources”, 25th International Conference on Fast Software Encryption (FSE), 2018.
 16. Le Guan, Shijie Jia, Bo Chen, Fengwei Zhang, Bo Luo, Jingqiang Lin, Peng Liu, Xinyu Xing, Luning Xia, “Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices”, 33rd Annual Computer Security Applications Conference (ACSAC), Outstanding Paper Award, pp. 339-349, 2017.
 17. Shuangyi Zhu, Yuan Ma, Jingqiang Lin, Jia Zhuang, Jiwu Jing, “More Powerful and Reliable Second-level Statistical Randomness Tests for NIST SP 800-22”, 22nd Annual International Conference on the Theory and Applications of Cryptology and Information Security (AsiaCrypt), pp. 307-329, 2016.
 18. Wen-Tao Zhu, Jingqiang Lin, “Generating Correlated Digital Certificates: Framework and Applications”, IEEE Transactions on Information Forensics and Security (TIFS), Vol. 11, No. 6, pp. 1117-1127, 2016.
