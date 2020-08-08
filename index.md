@@ -1,13 +1,13 @@
-## Welcome to Jingqiang Lin' Scholar Pages
-### Career
+# Welcome to Jingqiang Lin' Scholar Pages
+## Career
 - 2020.8 - , Professor, School of Cyber Security, University of Science and Technology of China
 - 2015.10 - 2020.7, Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 - 2012.10 - 2015.10, Associate Professor, State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences
 
-### Research Interest
+## Research Interest
 Applied Cryptography, Network Security, and System Security
 
-### Funding and Project
+## Funding and Project
 - Key Technologies of Cryptographic Service Supporting Infrastructures in the Mobile Internet (Grant No. 2017YFB0802100), Cyber Security Program of National Key RD Plan of China
 - 国家重点研发计划网络空间安全重点专项 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
 - Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518), National Natural Science Foundation of China
@@ -20,7 +20,7 @@ Applied Cryptography, Network Security, and System Security
 - Mobile/IoT Security
 - Ramdonness Theory and Applications
 
-### Selected Publication
+## Selected Publication
 1. Ze Wang, Jingqiang Lin, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, “Blockchain-based Certificate Transparency and Revocation Transparency”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 2. Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, “Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory”, IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 3. Bingyu Li, Jingqiang Lin, Qiongxiao Wang, Ze Wang, Jiwu Jing, “Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems”, IEEE Transactions on Information Forensics and Security (TIFS), accepted.
@@ -48,8 +48,8 @@ Applied Cryptography, Network Security, and System Security
 25. Jingqiang Lin, Bo Luo, Jiwu Jing, Xiaokun Zhang, “GRADE: Graceful Degradation in Byzantine Quorum Systems”, 31st IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 171-180, 2012.
 26. Jingqiang Lin, Jiwu Jing, Peng Liu, “A Framework for Intrusion Tolerant Certification Authority System Evaluation”, 26th IEEE Symposium on Reliable Distributed Systems (SRDS), pp. 231-241, 2007.
 
-### Full Publication
+## Full Publication
 [Here](./full-pub.html)
 
-### Contact
+## Contact
 jingqiang_lin@hotmail.com
