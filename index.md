@@ -60,10 +60,10 @@ Applied Cryptography, Network Security, and System Security
 - Cryptographic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2016. 中国密码学会密码创新二等奖.
 - "The Software Implementation Security Technology of Commercial Cryptographic Algorithms and Its Applications in Critical Fields", Cryptologic Science and Technology Progress Award of China (1st place, 2nd co-winner), 2015. 党政密码科技进步一等奖.
 - "Exploiting the Floating-Point Computing Power of GPUs for RSA", 17th Information Security Conference (ISC), Best Student Paper Award, 2014.
-- Outstanding Employee Award, Institute of Information Engineering, Chinese Academy of Sciences, 2013 and 2014.
-- Youth Star Talent Program, Institute of Information Engineering, Chinese Academy of Sciences, 2013-2015.
-- Outstanding Employee Award, Graduate University of Chinese Academy of Sciences, 2009 and 2011.
-- Outstanding Student Award, Graduate University of Chinese Academy of Sciences, SY 2006-2007 and SY 2008-2009.
+- Outstanding Employee Award, Institute of Information Engineering, Chinese Academy of Sciences, 2013 and 2014. 中国科学院信息工程研究所优秀员工.
+- Youth Star Talent Program, Institute of Information Engineering, Chinese Academy of Sciences, 2013-2015. 中国科学院信息工程研究所"青年之星".
+- Outstanding Employee Award, Graduate University of Chinese Academy of Sciences, 2009 and 2011. 中国科学院研究生院优秀员工.
+- Outstanding Student Award, Graduate University of Chinese Academy of Sciences, SY 2006-2007 and SY 2008-2009. 中国科学院研究生院优秀学生.
 - "Research and Applications of Public Key Infrastructure Technologies", National Science and Technology Progress Award of China (2nd place, 6th co-winner), 2005. 国家科技进步二等奖.
 - "The Key Technologies of Public Key Infrastructures", Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
 
