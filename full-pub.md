@@ -93,7 +93,7 @@
 - Xueyan Lin, Jingqiang Lin, Le Guan, Lei Wang, "China Standard Cryptographic Algorithm Implementation in Virtual Desktop System", Journal of University of Chinese Academy of Sciences, Vol. 32, No. 5, pp. 701-707, 2015.
 - Quanwei Cai, Jingqiang Lin, Fengjun Li, Qiongxiao Wang, "SEDB: Building Secure Database Services for Sensitive Data", 16th International Conference on Information and Communications Security (ICICS), pp. 16-30, 2014.
 
-### Ramdonness Theory and Applications
+### Randomness Theory and Applications
 - Shuangyi Zhu, Jing Yang, Xusheng Li, Yuan Ma, Jingqiang Lin, Jiwu Jing, "On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data", IEEE Transactions on Information Forensics and Security (TIFS), Vol. 15, No. 1, pp. 1696-1708, 2020.
 - Na Lv, Tianyu Chen, Shuangyi Zhu, Jing Yang, Yuan Ma, Jiwu Jing, Jingqiang Lin, "High-efficiency Min-entropy Estimation based on Neural Network for Random Number Generators", Security and Communication Networks (SCN), Article 4241713, 2020.
 - Yuan Ma, Tianyu Chen, Jingqiang Lin, Jing Yang, Jiwu Jing, "Entropy Estimation for ADC Sampling based True Random Number Generators", IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 11, pp. 2887-2900, 2019.
