@@ -13,7 +13,7 @@ Applied Cryptography, Network Security, and System Security
 - Cryptographic Key Protection and Side Channel
 - High-performace Cryptographic Implementation
 - Cloud Security
-- Ramdonness Theory and Applications
+- Randomness Theory and Applications
 - Threshold Cryptography and Group Communication
 - Mobile/IoT Security
 - Game Theory for Security
