@@ -59,7 +59,7 @@
 - Le Guan, Jingqiang Lin, Bo Luo, Jiwu Jing, Jing Wang, "Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", 36th IEEE Symposium on Security and Privacy (Oakland), pp. 3-19, 2015.
 - Le Guan, Jingqiang Lin, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", 21st ISOC Network and Distributed System Security Symposium (NDSS), 2014.
 
-### High-performace Cryptographic Implementation
+### High-performance Cryptographic Implementation
 - Jiankuo Dong, Fangyu Zheng, Jingqiang Lin, "Implementing High-performance X25519/448 Key Agreement Scheme in General Purpose GPUs", Chinese Journal of Cyber Security, accepted.
 - Lili Gao, Fangyu Zheng, Niall Emmart, Jiankuo Dong, Jingqiang Lin, Charles Weems, "DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs", 34th IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 494-504, 2020.
 - Zhaohui Chen, Yuan Ma, Tianyu Chen, Jingqiang Lin, Jiwu Jing, "Towards Efficient Kyber on FPGAs: A Processor for Vector of Polynomials", 25th Asia and South Pacific Design Automation Conference (ASP-DAC), pp. 247-252, 2020.
