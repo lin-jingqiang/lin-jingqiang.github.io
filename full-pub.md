@@ -43,7 +43,7 @@
 - Haijiao Liu, Jiwu Jing, Jingqiang Lin, Jiao Du, "Building an Intrusion Tolerant Repository", Journal of Graduate School of Chinese Academy of Sciences, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
-- Congwu Li, Le Guan, Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
+- Congwu Li, Le Guan (co-first author), Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Bo Luo, Jiwu Jing, "Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers", Journal of Computer Security (JCS), Vol. 27, No. 5, pp. 547-580, 2019.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Jiwu Jing, Dingfeng Ye, Lingjia Meng, "Evaluating the Cache Side Channel Attacks against ECDSA", 15th International Conference on Information Security and Cryptology (Inscrypt), pp. 325-345, 2019.
 - Congwu Li, Jingqiang Lin, Quanwei Cai, Bo Luo, "Applying Transactional Memory in System Security: Present and Future", Chinese Journal of Cyber Security, Vol. 4, No. 6, pp. 45-55, 2019.
