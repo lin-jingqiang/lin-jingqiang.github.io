@@ -139,3 +139,4 @@
 - Jingqiang Lin, Fangyu Zheng, Yuewu Wang, "Advances in Cryptographic Key Protection", Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 68-74, 2019.
 - Fangyu Zheng, Jiankuo Dong, Jingqiang Lin, Lili Gao, "High-performance Cryptographic Computations in GPUs", Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 88-96, 2019.
 
+[Back to Home](./index.html)
