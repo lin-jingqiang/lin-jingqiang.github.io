@@ -15,7 +15,7 @@
 - 雷蕾 Lei Lei
 - 董建阔 Jiankuo Dong
 
-### Master Student
+### Master Students
 - 王聪丽 Congli Wang
 - 方金霞 Jinxia Fang
 - 成娟娟 Juanjuan Cheng
