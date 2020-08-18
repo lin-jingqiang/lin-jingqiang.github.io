@@ -23,6 +23,8 @@ Applied Cryptography, Network Security, and System Security
 - 国家重点研发计划网络空间安全重点专项 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
 - Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518), National Natural Science Foundation of China
 - 国家自然科学基金 通用计算平台的密钥保护技术研究 (项目号61772518)
+- Tenant-controlled Cloud Data, National 973 Program (Grant No. 2014CB340603)
+- 国家重点基础研究发展计划 租户可控的云数据安全理论与方法研究（项目号2014CB340603）
 
 ## Selected Publication
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
@@ -66,6 +68,9 @@ Applied Cryptography, Network Security, and System Security
 - Outstanding Student Award, Graduate University of Chinese Academy of Sciences, SY 2006-2007 and SY 2008-2009. 中国科学院研究生院优秀学生.
 - "Research and Applications of Public Key Infrastructure Technologies", National Science and Technology Progress Award of China (2nd place, 6th co-winner), 2005. 国家科技进步二等奖.
 - "The Key Technologies of Public Key Infrastructures", Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
+
+## Students
+- [Here](./students.html)
 
 ## Contact
 - jingqiang_lin \at hotmail.com
