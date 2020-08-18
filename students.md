@@ -1,6 +1,6 @@
 # Welcome to Jingqiang Lin's Scholar Pages
 
-## PhD/Master Students (Supervised or Co-supervised, Defensed)
+## Defensed PhD/Master Students (Supervised or Co-supervised)
 
 ### Phd Students
 - 贾东征 Dongzheng Jia
