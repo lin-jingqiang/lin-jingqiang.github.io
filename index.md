@@ -54,7 +54,7 @@ Applied Cryptography, Network Security, and System Security
 25. *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
 ## Full Publication
-- [Here](./full-pub.html)
+- [List](./full-pub.html)
 
 ## Award
 - Zhuliyuehua Award for Outstanding Teachers, Chinese Academy of Sciences, 2017. 中国科学院朱李月华优秀教师奖.
