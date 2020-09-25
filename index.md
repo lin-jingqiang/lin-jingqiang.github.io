@@ -73,4 +73,4 @@ Applied Cryptography, Network Security, and System Security
 - [Here](./students.html)
 
 ## Contact
-- jingqiang_lin \at hotmail.com
+- linjq \at ustc.edu.cn
