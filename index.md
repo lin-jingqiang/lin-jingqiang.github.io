@@ -29,7 +29,7 @@ Applied Cryptography, Network Security, and System Security
 - Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518), National Natural Science Foundation of China
 - 国家自然科学基金 通用计算平台的密钥保护技术研究 (项目号61772518)
 - Tenant-controlled Cloud Data Security, National 973 Program of China (Grant No. 2014CB340603)
-- 国家重点基础研究发展计划 租户可控的云数据安全理论与方法研究 (项目号2014CB340603)
+- 国家重点基础研究发展计划课题 租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
 
 ## Selected Publication
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
