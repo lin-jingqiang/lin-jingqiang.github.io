@@ -1,10 +1,15 @@
 # Welcome to Jingqiang Lin's Scholar Pages
 ## Career
-- 2020.07 - , Professor, School of Cyber Security, University of Science and Technology of China
-- 2018.04 - 2020.07, Associate Director, State Key Laboratory of Information Security
-- 2015.10 - 2020.07, Professor, Institute of Information Engineering, Chinese Academy of Sciences
+- 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
+- 中国科学技术大学网络空间安全学院，教授
+- 2018.04 - 2020.08, Associate Director, State Key Laboratory of Information Security
+- 信息安全国家重点实验室，副主任
+- 2015.10 - 2020.08, Professor, Institute of Information Engineering, Chinese Academy of Sciences
+- 中国科学院信息工程研究所，研究员
 - 2015.09 - , Adjunct Professor, University of Chinese Academy of Sciences
+- 中国科学院大学，客座教授
 - 2012.10 - 2015.10, Associate Professor, Institute of Information Engineering, Chinese Academy of Sciences
+- 中国科学院信息工程研究所，副研究员
 
 ## Research Interest
 Applied Cryptography, Network Security, and System Security
