@@ -45,6 +45,7 @@
 
 ### Cryptographic Key Protection and Side Channel
 - Congwu Li, Le Guan (co-first author), Jingqiang Lin, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", IEEE Transactions on Dependable and Secure Computing (TDSC), accepted.
+- Fan Lang, Huorong Li, Wei Wang, Jingqiang Lin, Fengwei Zhang, Wuqiong Pan, Qiongxiao Wang, "E-SGX: Cache Side-Channel Protection for Intel SGX on Untrusted OS", 16th International Conference on Information Security and Cryptology (Inscrypt), 2020.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Bo Luo, Jiwu Jing, "Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers", Journal of Computer Security (JCS), Vol. 27, No. 5, pp. 547-580, 2019.
 - Ziqiang Ma, Quanwei Cai, Jingqiang Lin, Jiwu Jing, Dingfeng Ye, Lingjia Meng, "Evaluating the Cache Side Channel Attacks against ECDSA", 15th International Conference on Information Security and Cryptology (Inscrypt), pp. 325-345, 2019.
 - Congwu Li, Jingqiang Lin, Quanwei Cai, Bo Luo, "Applying Transactional Memory in System Security: Present and Future", Chinese Journal of Cyber Security, Vol. 4, No. 6, pp. 45-55, 2019.
