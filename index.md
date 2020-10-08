@@ -64,7 +64,7 @@ Applied Cryptography, Network Security, and System Security
 ## Award
 - Zhuliyuehua Award for Outstanding Teachers, Chinese Academy of Sciences, 2017. 中国科学院朱李月华优秀教师奖.
 - "Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices", 33rd Annual Computer Security Applications Conference (ACSAC), Outstanding Paper Award, 2017.
-- Cryptographic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2016. 中国密码学会密码创新二等奖.
+- Cryptologic Innovation Award (2nd place), Chinese Association for Cryptologic Research, 2016. 中国密码学会密码创新二等奖.
 - "The Software Implementation Security Technology of Commercial Cryptographic Algorithms and Its Applications in Critical Fields", Cryptologic Science and Technology Progress Award of China (1st place, 2nd co-winner), 2015. 党政密码科技进步一等奖.
 - "Exploiting the Floating-Point Computing Power of GPUs for RSA", 17th Information Security Conference (ISC), Best Student Paper Award, 2014.
 - Outstanding Employee Award, Institute of Information Engineering, Chinese Academy of Sciences, 2013 and 2014. 中国科学院信息工程研究所优秀员工.
