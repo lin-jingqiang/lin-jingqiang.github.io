@@ -133,7 +133,7 @@
 - Ming Shang, Jingqiang Lin, Xiaokun Zhang, Changwei Xu, "A Game-Theory Analysis of the Rat-group Attack in Smart Grids", 9th IEEE International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), 2014.
 - Jingqiang Lin, Peng Liu, Jiwu Jing, "Using Signaling Games to Model the Multi-step Attack-defense Scenarios on Confidentiality", 3rd Conference on Decision and Game Theory for Security (GameSec), pp. 118-137, 2012.
 
-### Special Issue on the Security Application of Cryptography \[in Chinese\]
+### Special Issue on the Security Application of Cryptography (in Chinese)
 - Jingqiang Lin, Jiwu Jing, "The Taxonomy towards the Security Application of Cryptography", Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 14-22, 2019.
 - Yuan Ma, Tianyu Chen, Xinying Wu, Jing Yang, Jingqiang Lin, Jiwu Jing, "Design, Implementation and Testing of Random Number Generators", Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 39-49, 2019.
 - Qiongxiao Wang, Congli Wang, Jingqiang Lin, Li Song, "Security Enhancement of Certificate Services in Public Key Infrastructures", Chinese Journal of Information Security Research, Vol. 5, No. 1, pp. 50-58, 2019.
