@@ -2,6 +2,8 @@
 ## Career
 - 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
 - 中国科学技术大学网络空间安全学院，教授
+- 2020.08 - , Research Professor, Beijing Institute of USTC
+- 北京中科研究院，研究员
 - 2018.04 - 2020.08, Associate Director, State Key Laboratory of Information Security
 - 信息安全国家重点实验室，副主任
 - 2015.10 - 2020.08, Professor, Institute of Information Engineering, Chinese Academy of Sciences
