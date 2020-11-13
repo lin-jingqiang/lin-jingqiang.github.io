@@ -26,12 +26,14 @@ Applied Cryptography, Network Security, and System Security
 - Game Theory for Security
 
 ## Funding and Project
+- The Security of Cryptography Applied in Blockchain (Grant No. 2020YFB1005803), Cyber Security Program of National Key RD Plan of China
+- 国家重点研发计划网络空间安全重点专项课题 面向区块链关键机制的安全分析与增强技术/区块链密码应用安全技术研究 (课题号2020YFB1005803)
 - Key Technologies of Cryptographic Service Supporting Infrastructures in the Mobile Internet (Grant No. 2017YFB0802100), Cyber Security Program of National Key RD Plan of China
 - 国家重点研发计划网络空间安全重点专项 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
 - Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518), National Natural Science Foundation of China
 - 国家自然科学基金 通用计算平台的密钥保护技术研究 (项目号61772518)
 - Tenant-controlled Cloud Data Security, National 973 Program of China (Grant No. 2014CB340603)
-- 国家重点基础研究发展计划课题 租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
+- 国家重点基础研究发展计划课题 云计算安全基础理论与方法/租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
 
 ## Selected Publication
 - Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
