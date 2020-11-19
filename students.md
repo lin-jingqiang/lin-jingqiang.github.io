@@ -3,6 +3,7 @@
 ## Defensed PhD/Master Students (Supervised or Co-supervised)
 
 ### Phd Students
+- 宋天林 Tianlin Song (中科院信工所)
 - 王子阳 Ziyang Wang (中科院信工所)
 - 贾东征 Dongzheng Jia (中科院信工所)
 - 李冰雨 Bingyu Li (中科院信工所)
