@@ -1,5 +1,3 @@
-# Welcome to Jingqiang Lin's Scholar Pages
-
 ## Full Publication
 
 ### PKI and Authentication
