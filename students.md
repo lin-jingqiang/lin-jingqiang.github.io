@@ -1,5 +1,3 @@
-# Welcome to Jingqiang Lin's Scholar Pages
-
 ## Defensed PhD/Master Students (Supervised or Co-supervised)
 
 ### Phd Students
