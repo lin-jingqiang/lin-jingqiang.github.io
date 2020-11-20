@@ -1,4 +1,3 @@
-# Welcome to Jingqiang Lin's Scholar Pages
 ## Career
 - 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
 - 中国科学技术大学网络空间安全学院，教授
