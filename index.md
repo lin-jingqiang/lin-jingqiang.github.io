@@ -81,5 +81,4 @@ Applied Cryptography, Network Security, and System Security
 
 ### [Student List](./students.html)
 
-## Contact
-- linjq \at ustc.edu.cn
+### Contact: linjq \at ustc.edu.cn
