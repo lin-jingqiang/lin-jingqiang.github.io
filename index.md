@@ -77,8 +77,11 @@ Applied Cryptography, Network Security, and System Security
 - *Jingqiang Lin*, Bo Luo, Jiwu Jing, Xiaokun Zhang, "GRADE: Graceful Degradation in Byzantine Quorum Systems", **31st IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 171-180, 2012.
 - *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
-### [Full Publication List](./full-pub.html)
+### Full Publication
+- [List](./full-pub.html)
 
-### [Student List](./students.html)
+### Student
+- [List](./students.html)
 
-### Contact: linjq \at ustc.edu.cn
+### Contact
+- linjq \at ustc.edu.cn
