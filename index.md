@@ -63,7 +63,7 @@ Applied Cryptography, Network Security, and System Security
 - Yuan Ma, *Jingqiang Lin*, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, "Entropy Evaluation for Oscillator-based True Random Number Generators", **16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES)**, pp. 544-561, 2014.
 - *Jingqiang Lin*, Bo Luo, Jiwu Jing, Xiaokun Zhang, "GRADE: Graceful Degradation in Byzantine Quorum Systems", **31st IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 171-180, 2012.
 - *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
-- [Full Publication List](./full-pub.html)
+### [Full Publication List](./full-pub.html)
 
 ## Award
 - Zhuliyuehua Award for Outstanding Teachers, Chinese Academy of Sciences, 2017. 中国科学院朱李月华优秀教师奖.
