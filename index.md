@@ -16,15 +16,15 @@
 
 ## Research Interest
 Applied Cryptography, Network Security, and System Security
-- PKI and Authentication
-- Fault Tolerance, Blockchain and Transparency
-- Cryptographic Key Protection and Side Channel
-- High-performance Cryptographic Implementation
-- Cloud Security
-- Randomness Theory and Applications
-- Threshold Cryptography and Group Communication
-- Mobile/IoT Security
-- Game Theory for Security
+- **PKI and Authentication
+- **Fault Tolerance, Blockchain and Transparency
+- **Cryptographic Key Protection and Side Channel
+- **High-performance Cryptographic Implementation**
+- **Cloud Security**
+- **Randomness Theory and Applications**
+- **Threshold Cryptography and Group Communication**
+- **Mobile/IoT Security**
+- **Game Theory for Security**
 
 ## Funding and Project
 - Cyber Security Program of National Key RD Plan of China, the Security of Cryptography Applied in Blockchain (Grant No. 2020YFB1005803)
