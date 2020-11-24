@@ -1,4 +1,5 @@
-## Defensed PhD/Master Students (Supervised or Co-supervised)
+## Defensed Students
+(Supervised or Co-supervised)
 
 ### Phd Students
 - 宋天林 Tianlin Song (中科院信工所)
