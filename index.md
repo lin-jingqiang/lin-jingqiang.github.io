@@ -15,7 +15,7 @@
 - 中国科学院信息工程研究所，副研究员
 
 ## Research Interest
-Applied Cryptography, Network Security, and System Security
+**Applied Cryptography**, **Network Security**, and **System Security**
 - **PKI and Authentication**
 - **Fault Tolerance, Blockchain and Transparency**
 - **Cryptographic Key Protection and Side Channel**
