@@ -1,4 +1,5 @@
 # Welcome to Jingqiang Lin's Pages
+Applied cryptography in the real world, security in different views
 
 ## Career
 - 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
