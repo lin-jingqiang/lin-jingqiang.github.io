@@ -81,6 +81,7 @@
 - Yuan Ma, *Jingqiang Lin*, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, "Entropy Evaluation for Oscillator-based True Random Number Generators", **16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES)**, pp. 544-561, 2014.
 - *Jingqiang Lin*, Bo Luo, Jiwu Jing, Xiaokun Zhang, "GRADE: Graceful Degradation in Byzantine Quorum Systems", **31st IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 171-180, 2012.
 - Nan Zhang, *Jingqiang Lin*, Jiwu Jing, Neng Gao, "RIKE: Using Revocable Identities to Support Key Escrow in PKIs", **10th International Conference on Applied Cryptography and Network Security (ACNS)**, pp. 48-65, 2012.
+- Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology", **Science Press of China**, **ISBN 9787030219060**, 2008.
 - *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
 ### Full Publication
