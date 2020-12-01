@@ -1,4 +1,4 @@
-## Defensed Students
+## Graduated Students
 (Supervised or Co-supervised)
 
 ### Phd Students
