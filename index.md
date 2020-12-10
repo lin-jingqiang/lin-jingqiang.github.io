@@ -52,7 +52,7 @@
 
 ## Selected Publication
 - Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
-- Congwu Li, Le Guan, *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
+- Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 - Bingyu Li, *Jingqiang Lin*, Qiongxiao Wang, Ze Wang, Jiwu Jing, "Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
 - Abdulmalik Humayed, Fengjun Li, *Jingqiang Lin*, Bo Luo, "CANSentry: Securing CAN-Based Cyber-Physical Systems against Denial and Spoofing Attacks", **25th European Symposium on Research in Computer Security (ESORICS)**, 2020.
 - Shuangyi Zhu, Jing Yang, Xusheng Li, Yuan Ma, *Jingqiang Lin*, Jiwu Jing, "On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 15, No. 1, pp. 1696-1708, 2020.
@@ -63,7 +63,7 @@
 - Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jing Yang, Jiwu Jing, "Entropy Estimation for ADC Sampling based True Random Number Generators", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 14, No. 11, pp. 2887-2900, 2019.
 - Ziqiang Ma, Quanwei Cai, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers", **Journal of Computer Security (JCS)**, Vol. 27, No. 5, pp. 547-580, 2019.
 - Xin Xu, Quanwei Cai, *Jingqiang Lin*, Shiran Pan, Liangqin Ren, "Enforcing Access Control in Distributed Version Control Systems", **IEEE International Conference on Multimedia and Expo (ICME)**, pp. 772-777, 2019.
-- Dawei Chu, Kaijie Zhu (co-first authors), Quanwei Cai, *Jingqiang Lin*, Fengjun Li, Le Guan, Lingchen Zhang, "Secure Cryptography Infrastructures in the Cloud", **IEEE Global Communications Conference (GLOBECOM)**, 2019.
+- Dawei Chu, Kaijie Zhu (co-first author), Quanwei Cai, *Jingqiang Lin*, Fengjun Li, Le Guan, Lingchen Zhang, "Secure Cryptography Infrastructures in the Cloud", **IEEE Global Communications Conference (GLOBECOM)**, 2019.
 - Congli Wang, *Jingqiang Lin*, Bingyu Li, Qi Li, Qiongxiao Wang, Xiaokun Zhang, "Analyzing the Browser Security Warnings on HTTPS Errors", **53rd IEEE International Conference on Communications (ICC)**, 2019.
 - Le Guan, *Jingqiang Lin*, Ziqiang Ma, Bo Luo, Luning Xia, Jiwu Jing, "Copker: A Cryptographic Engine against Cold-Boot Attacks", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 15, No. 5, pp. 742-754, 2018.
 - Jiankuo Dong, Fangyu Zheng, Niall Emmart, *Jingqiang Lin*, Charles C. Weems, "sDPF-RSA: Utilizing Floating-point Computing Power of GPUs for Massive Digital Signature Computations", **32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, pp. 599-609, 2018.
