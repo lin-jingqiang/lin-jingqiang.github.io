@@ -115,7 +115,7 @@
 
 ### Mobile/IoT Security
 - Wenqiang Li, Le Guan, *Jingqiang Lin*, Jiameng Shi, Fengjun Li, “From Library Portability to Para-rehosting: Natively Executing Open-source Microcontroller OSs on Commodity Hardware”, **28th ISOC Network and Distributed System Security Symposium (NDSS)**, 2021.
-- Abdulmalik Humayed, Fengjun Li, *Jingqiang Lin*, Bo Luo, "CANSentry: Securing CAN-Based Cyber-Physical Systems against Denial and Spoofing Attacks", **25th European Symposium on Research in Computer Security (ESORICS)**, 2020.
+- Abdulmalik Humayed, Fengjun Li, *Jingqiang Lin*, Bo Luo, "CANSentry: Securing CAN-Based Cyber-Physical Systems against Denial and Spoofing Attacks", **25th European Symposium on Research in Computer Security (ESORICS)**, pp. 153-173, 2020.
 - Le Guan, Chen Cao, Sencun Zhu, *Jingqiang Lin*, Peng Liu, Yubin Xia, Bo Luo, "Protecting Mobile Devices from Physical Memory Attacks with Targeted Encryption", **12th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)**, pp. 34-44, 2019.
 - Chen Cao, Le Guan, Ning Zhang, Neng Gao, *Jingqiang Lin*, Bo Luo, Peng Liu, Ji Xiang, Wenjing Lou, "CryptMe: Data Leakage Prevention for Unmodified Programs on ARM Devices", **21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)**, pp. 380-400, 2018.
 - Yafei Ji, Luning Xia, *Jingqiang Lin*, Qiongxiao Wang, Lingguang Lei, Li Song, "Chord: Thwarting Relay Attacks among Near Field Communications", **14th International Conference on Information Security and Cryptology (Inscrypt)**, pp. 329-348, 2018.
