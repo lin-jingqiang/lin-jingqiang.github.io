@@ -22,7 +22,7 @@
 - *Jingqiang Lin*, Dengguo Feng, "Temporary RSA Key and OCSP Server Implementation", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 22, No. 1, pp. 59-63, 2005.
 - Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, *Jingqiang Lin*, "ARECA: A Highly Attack Resilient Certification Authority", **ACM Workshop on Survivable and Self-Regenerative Systems (SSRS)**, in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
 
-### Authentication
+### Authentication and Anonymity
 - Dawei Chu, *Jingqiang Lin*, Fengjun Li, Xiaokun Zhang, Qiongxiao Wang, "Ticket Transparency: Accountable Single Sign-On with Privacy-Preserving Public Logs", **15th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 511-531, 2019.
 - Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
 - Quanwei Cai, Jonathan Lutes, *Jingqiang Lin*, Bo Luo, "A-Tor: Accountable Anonymity in Tor", **13th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 838-851, 2017.
