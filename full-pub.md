@@ -1,24 +1,19 @@
 ## Full Publication (by area / year)
 
-### PKI and Authentication
+### PKI and Certificate
 - Bingyu Li, *Jingqiang Lin*, Qiongxiao Wang, Ze Wang, Jiwu Jing, "Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 16, pp. 1380-1395, 2021.
+- Wanling Huang, *Jingqiang Lin*, Qiongxiao Wang, Yajun Teng, Huiqing Wan, Wei Wang, “Certificate Transparency for ECQV Implicit Certificates”, **54th IEEE International Conference on Communications (ICC)**, 2021.
 - Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Qi Li, Jiwu Jing, Congli Wang, "Certificate Transparency in the Wild: Exploring the Reliability of Monitors", **26th ACM Conference on Computer and Communications Security (CCS)**, pp. 2505-2520, 2019.
 - Bingyu Li, Wei Wang, Lingjia Meng, *Jingqiang Lin*, Xuezhong Liu, Congli Wang, "Elaphurus: Ensemble Defense against Fraudulent Certificates in TLS", **15th International Conference on Information Security and Cryptology (Inscrypt)**, pp. 246-259, 2019.
-- Dawei Chu, *Jingqiang Lin*, Fengjun Li, Xiaokun Zhang, Qiongxiao Wang, "Ticket Transparency: Accountable Single Sign-On with Privacy-Preserving Public Logs", **15th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 511-531, 2019.
-- Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
 - Congli Wang, *Jingqiang Lin*, Bingyu Li, Qi Li, Qiongxiao Wang, Xiaokun Zhang, "Analyzing the Browser Security Warnings on HTTPS Errors", **53rd IEEE International Conference on Communications (ICC)**, 2019.
 - Bingyu Li, Dawei Chu, *Jingqiang Lin*, Quanwei Cai, Congli Wang, Lingjia Meng, "The Weakest Link of Certificate Transparency: Exploring the TLS/HTTPS Configurations of Third-Party Monitors", **18th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, pp. 216-223, 2019.
-- Quanwei Cai, Jonathan Lutes, *Jingqiang Lin*, Bo Luo, "A-Tor: Accountable Anonymity in Tor", **13th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 838-851, 2017.
 - Wen-Tao Zhu, *Jingqiang Lin*, "Generating Correlated Digital Certificates: Framework and Applications", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 11, No. 6, pp. 1117-1127, 2016.
-- Jiwu Jing, *Jingqiang Lin*, Zhan Wang, Neng Gao, "Report on Authentication Technologies", chapter in Report on Advances in Cryptology, **China Science and Technology Press**, **ISBN 9787504670663**, pp. 119-134, 2016.
 - *Jingqiang Lin*, Wen-Tao Zhu, Qiongxiao Wang, Nan Zhang, Jiwu Jing, Neng Gao, "RIKE+: Using Revocable Identities to Support Key Escrow in Public Key Infrastructures with Flexibility", **IET Information Security (IET-IFS)**, Vol. 9, No. 2, pp. 136-147, 2015.
 - *Jingqiang Lin*, Jiwu Jing, Qionglu Zhang, Zhan Wang, "Recent Advances in PKI Technologies", **Chinese Journal of Cryptologic Research**, Vol. 2, No. 6, pp. 487-496, 2015.
 - Congwu Li, Wuqiong Pan, *Jingqiang Lin*, "An AD-based Private Cloud Storage Access Control Scheme", **Journal of University of Chinese Academy of Sciences**, Vol. 32, No. 5, pp. 676-681, 2015.
-- Jiwu Jing, Pingjian Wang, Neng Gao, Ji Xiang, *Jingqiang Lin*, Zongbin Liu, "Emerging E-Business - Security Architecture and Certification Technologies", **Tsinghua University Press of China**, **ISBN 9787302324348**, 2013.
 - Nan Zhang, *Jingqiang Lin*, Jiwu Jing, Neng Gao, "RIKE: Using Revocable Identities to Support Key Escrow in PKIs", **10th International Conference on Applied Cryptography and Network Security (ACNS)**, pp. 48-65, 2012.
 - *Jingqiang Lin*, Jiwu Jing, Peng Liu, "Evaluating Intrusion Tolerant Certification Authority Systems", **Quality and Reliability Engineering International (QREI)**, Vol. 28, No. 8, pp. 825-841, 2012.
 - Quanwei Cai, *Jingqiang Lin*, Jiwu Jing, Ming Shang, "An Interoperability Evaluation Tool of PKI Applications", **Journal of Graduate University of Chinese Academy of Sciences**, Vol. 29, No. 6, pp. 799-804, 2012.
-- Daren Zha, Jiwu Jing, Peng Liu, *Jingqiang Lin*, Xiaoqi Jia, "Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control", **10th International Conference on Computational Science and Its Applications (ICCSA)**, pp. 468-481, 2010.
 - Jiwu Jing, Chuankun Wu, *Jingqiang Lin*, "Advances in Key Management and PKI Technologies", chapter in Report on Advances in Cryptology, **China Science and Technology Press**, **ISBN 9787504650207**, pp. 107-125, 2010.
 - Fan Zhang, Qing Gu, Jiwu Jing, *Jingqiang Lin*, Dare Zha, "PKI Application Interoperability Evaluation", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 27, No. 6, pp. 824-830, 2010.
 - Jingjing Wu, Jiwu Jing, Yuewu Wang, *Jingqiang Lin*, Yicong Liu, "Trust Model for Public Key Infrastructure in the Real-world Environment", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 26, No. 3, pp. 389-399, 2009.
@@ -26,6 +21,14 @@
 - *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 - *Jingqiang Lin*, Dengguo Feng, "Temporary RSA Key and OCSP Server Implementation", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 22, No. 1, pp. 59-63, 2005.
 - Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, *Jingqiang Lin*, "ARECA: A Highly Attack Resilient Certification Authority", **ACM Workshop on Survivable and Self-Regenerative Systems (SSRS)**, in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
+
+### Authentication
+- Dawei Chu, *Jingqiang Lin*, Fengjun Li, Xiaokun Zhang, Qiongxiao Wang, "Ticket Transparency: Accountable Single Sign-On with Privacy-Preserving Public Logs", **15th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 511-531, 2019.
+- Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
+- Quanwei Cai, Jonathan Lutes, *Jingqiang Lin*, Bo Luo, "A-Tor: Accountable Anonymity in Tor", **13th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 838-851, 2017.
+- Jiwu Jing, *Jingqiang Lin*, Zhan Wang, Neng Gao, "Report on Authentication Technologies", chapter in Report on Advances in Cryptology, **China Science and Technology Press**, **ISBN 9787504670663**, pp. 119-134, 2016.
+- Jiwu Jing, Pingjian Wang, Neng Gao, Ji Xiang, *Jingqiang Lin*, Zongbin Liu, "Emerging E-Business - Security Architecture and Certification Technologies", **Tsinghua University Press of China**, **ISBN 9787302324348**, 2013.
+- Daren Zha, Jiwu Jing, Peng Liu, *Jingqiang Lin*, Xiaoqi Jia, "Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control", **10th International Conference on Computational Science and Its Applications (ICCSA)**, pp. 468-481, 2010.
 
 ### Fault Tolerance, Blockchain and Transparency
 - Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
