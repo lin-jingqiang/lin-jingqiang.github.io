@@ -10,7 +10,6 @@
 - Wen-Tao Zhu, *Jingqiang Lin*, "Generating Correlated Digital Certificates: Framework and Applications", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 11, No. 6, pp. 1117-1127, 2016.
 - *Jingqiang Lin*, Wen-Tao Zhu, Qiongxiao Wang, Nan Zhang, Jiwu Jing, Neng Gao, "RIKE+: Using Revocable Identities to Support Key Escrow in Public Key Infrastructures with Flexibility", **IET Information Security (IET-IFS)**, Vol. 9, No. 2, pp. 136-147, 2015.
 - *Jingqiang Lin*, Jiwu Jing, Qionglu Zhang, Zhan Wang, "Recent Advances in PKI Technologies", **Chinese Journal of Cryptologic Research**, Vol. 2, No. 6, pp. 487-496, 2015.
-- Congwu Li, Wuqiong Pan, *Jingqiang Lin*, "An AD-based Private Cloud Storage Access Control Scheme", **Journal of University of Chinese Academy of Sciences**, Vol. 32, No. 5, pp. 676-681, 2015.
 - Nan Zhang, *Jingqiang Lin*, Jiwu Jing, Neng Gao, "RIKE: Using Revocable Identities to Support Key Escrow in PKIs", **10th International Conference on Applied Cryptography and Network Security (ACNS)**, pp. 48-65, 2012.
 - *Jingqiang Lin*, Jiwu Jing, Peng Liu, "Evaluating Intrusion Tolerant Certification Authority Systems", **Quality and Reliability Engineering International (QREI)**, Vol. 28, No. 8, pp. 825-841, 2012.
 - Quanwei Cai, *Jingqiang Lin*, Jiwu Jing, Ming Shang, "An Interoperability Evaluation Tool of PKI Applications", **Journal of Graduate University of Chinese Academy of Sciences**, Vol. 29, No. 6, pp. 799-804, 2012.
@@ -27,6 +26,7 @@
 - Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
 - Quanwei Cai, Jonathan Lutes, *Jingqiang Lin*, Bo Luo, "A-Tor: Accountable Anonymity in Tor", **13th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 838-851, 2017.
 - Jiwu Jing, *Jingqiang Lin*, Zhan Wang, Neng Gao, "Report on Authentication Technologies", chapter in Report on Advances in Cryptology, **China Science and Technology Press**, **ISBN 9787504670663**, pp. 119-134, 2016.
+- Congwu Li, Wuqiong Pan, *Jingqiang Lin*, "An AD-based Private Cloud Storage Access Control Scheme", **Journal of University of Chinese Academy of Sciences**, Vol. 32, No. 5, pp. 676-681, 2015.
 - Jiwu Jing, Pingjian Wang, Neng Gao, Ji Xiang, *Jingqiang Lin*, Zongbin Liu, "Emerging E-Business - Security Architecture and Certification Technologies", **Tsinghua University Press of China**, **ISBN 9787302324348**, 2013.
 - Daren Zha, Jiwu Jing, Peng Liu, *Jingqiang Lin*, Xiaoqi Jia, "Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control", **10th International Conference on Computational Science and Its Applications (ICCSA)**, pp. 468-481, 2010.
 
