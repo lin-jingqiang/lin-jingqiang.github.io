@@ -18,7 +18,7 @@
 ## Research Interest
 **Applied Cryptography**, **Network Security**, and **System Security**
 - **PKI and Certificate**
-- **Authentication and Anonymity**
+- **Authentication, Anonymity and Privacy**
 - **Fault Tolerance, Blockchain and Transparency**
 - **Cryptographic Key Protection and Side Channel**
 - **High-performance Cryptographic Implementation**
