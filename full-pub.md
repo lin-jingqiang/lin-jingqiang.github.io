@@ -64,7 +64,7 @@
 - Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
-- Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, "Implementing High-performance X25519/448 Key Agreement Scheme in General Purpose GPUs", **Chinese Journal of Cyber Security**, accepted.
+- Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, "Implementing High-performance X25519/448 Key Agreement Scheme in General Purpose GPUs", **Chinese Journal of Cyber Security**, Vol. 5, No. 6, pp. 60-74, 2020.
 - Lili Gao, Fangyu Zheng, Niall Emmart, Jiankuo Dong, *Jingqiang Lin*, Charles Weems, "DPF-ECC: Accelerating Elliptic Curve Cryptography with Floating-point Computing Power of GPUs", **34th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, pp. 494-504, 2020.
 - Zhaohui Chen, Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jiwu Jing, "Towards Efficient Kyber on FPGAs: A Processor for Vector of Polynomials", **25th Asia and South Pacific Design Automation Conference (ASP-DAC)**, pp. 247-252, 2020.
 - Jiankuo Dong, Fangyu Zheng, Niall Emmart, *Jingqiang Lin*, Charles C. Weems, "sDPF-RSA: Utilizing Floating-point Computing Power of GPUs for Massive Digital Signature Computations", **32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, pp. 599-609, 2018.
