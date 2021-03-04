@@ -3,17 +3,17 @@
 
 ## Career
 - 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
-- 中国科学技术大学网络空间安全学院，教授
+- 2020.08 - , 中国科学技术大学网络空间安全学院，教授
 - 2020.08 - , Research Professor, Beijing Institute of USTC
-- 北京中科研究院，研究员
+- 2020.08 - , 北京中科研究院，研究员
 - 2018.04 - 2020.08, Associate Director, State Key Laboratory of Information Security
-- 信息安全国家重点实验室，副主任
+- 2018.04 - 2020.08, 信息安全国家重点实验室，副主任
 - 2015.10 - 2020.08, Professor, Institute of Information Engineering, Chinese Academy of Sciences
-- 中国科学院信息工程研究所，研究员
+- 2015.10 - 2020.08, 中国科学院信息工程研究所，研究员
 - 2015.09 - , Adjunct Professor, University of Chinese Academy of Sciences
-- 中国科学院大学，客座教授
+- 2015.09 - , 中国科学院大学，客座教授
 - 2012.10 - 2015.10, Associate Professor, Institute of Information Engineering, Chinese Academy of Sciences
-- 中国科学院信息工程研究所，副研究员
+- 2012.10 - 2015.10, 中国科学院信息工程研究所，副研究员
 
 ## Research Interest
 **Applied Cryptography**, **Network Security**, and **System Security**
@@ -31,6 +31,8 @@
 ## Funding and Project
 - Cyber Security Program of National Key RD Plan of China, the Security of Cryptography Applied in Blockchain (Grant No. 2020YFB1005803)
 - 国家重点研发计划云计算和大数据专项课题 面向区块链关键机制的安全分析与增强技术/区块链密码应用安全技术研究 (课题号2020YFB1005803)
+- Technical Committee of Cryptologic Industry Standardization, Research on Cryptologic Technologies of Secure Multi-Party Computation
+- 密码行业标准化技术委员会 多方安全计算密码技术研究
 - Cyber Security Program of National Key RD Plan of China, Key Technologies of Cryptographic Service Supporting Infrastructures in the Mobile Internet (Grant No. 2017YFB0802100)
 - 国家重点研发计划网络空间安全专项项目 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
 - National Natural Science Foundation of China, Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518)
