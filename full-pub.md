@@ -3,6 +3,7 @@
 ### PKI and Certificate
 - Bingyu Li, *Jingqiang Lin*, Qiongxiao Wang, Ze Wang, Jiwu Jing, "Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 16, pp. 1380-1395, 2021.
 - Wanling Huang, *Jingqiang Lin*, Qiongxiao Wang, Yajun Teng, Huiqing Wan, Wei Wang, “Certificate Transparency for ECQV Implicit Certificates”, **55th IEEE International Conference on Communications (ICC)**, 2021.
+- Yunkun Wu, Xiaokun Zhang, Yajun Teng, Zhenya Liu, Liang Huang, *Jingqiang Lin*, Xuhua Bao, “Recent Advances in the Web PKI and the Technical Challenges in SCMS”, **1st EAI International Conference on Applied Cryptography in Computer and Communications (AC3)**, 2021.
 - Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Qi Li, Jiwu Jing, Congli Wang, "Certificate Transparency in the Wild: Exploring the Reliability of Monitors", **26th ACM Conference on Computer and Communications Security (CCS)**, pp. 2505-2520, 2019.
 - Bingyu Li, Wei Wang, Lingjia Meng, *Jingqiang Lin*, Xuezhong Liu, Congli Wang, "Elaphurus: Ensemble Defense against Fraudulent Certificates in TLS", **15th International Conference on Information Security and Cryptology (Inscrypt)**, pp. 246-259, 2019.
 - Congli Wang, *Jingqiang Lin*, Bingyu Li, Qi Li, Qiongxiao Wang, Xiaokun Zhang, "Analyzing the Browser Security Warnings on HTTPS Errors", **53rd IEEE International Conference on Communications (ICC)**, 2019.
