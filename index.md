@@ -29,6 +29,8 @@
 - **Game Theory for Security**
 
 ## Funding and Project
+- Key RD Plan of Shandong Province, Critical Technology Research and Product Development of Chinese Cryptographic Algorithms (Grant No. 2020CXGC010115)
+- 山东省重点研发计划 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
 - Huawei Technologies Co., Ltd., Identification and Detection of Cryptographic Algorithms (Grant No. YBN2020105060)
 - 华为技术有限公司 密码算法检测识别 (课题号YBN2020105060)
 - Cyber Security Program of National Key RD Plan of China, the Security of Cryptography Applied in Blockchain (Grant No. 2020YFB1005803)
