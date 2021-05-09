@@ -57,5 +57,9 @@
 - 程广深 Guangshen Cheng (中国科技大学)
 - 周天 Tian Zhou (中国科技大学)
 - 刘振亚 Zhenya Liu (中国科技大学)
+- 贾云昊 Yunhao Jia (中国科技大学)
+- 张可臻 Kezhen Zhang (中国科技大学)
+- 张弘毅 Hongyi Zhang (中国科技大学)
+- 何慧阳 Huiyang He (中国科技大学)
 
 [Back to Home](./index.html)
