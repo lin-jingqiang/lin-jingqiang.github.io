@@ -17,6 +17,8 @@
 - 董建阔 Jiankuo Dong (中科院信工所)
 
 ### Master Students
+- 王开轩 Kaixuan Wang (中科院信工所)
+- 黄婉玲 Wanling Huang (中科院信工所)
 - 王倩舒 Qianshu Wang (北京大学)
 - 王聪丽 Congli Wang (中科院信工所)
 - 方金霞 Jinxia Fang (中科院信工所)
@@ -47,8 +49,6 @@
 - 腾亚均 Yajun Teng (中科院信工所)
 - 万会庆 Huiqing Wan (中科院信工所)
 - 王文杰 Wenjie Wang (中科院信工所)
-- 王开轩 Kaixuan Wang (中科院信工所)
-- 黄婉玲 Wanling Huang (中科院信工所)
 - 欧阳文宜 Wenyi Ouyang (中科院信工所)
 - 付裕 Yu Fu (中科院信工所)
 - 何雅茜 Yaqian He (中科院信工所)
