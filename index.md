@@ -59,8 +59,8 @@
 - Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
 
 ## Service
-- 2020 - , Steering Committee Member: EAI AC3
-- 2020 - , PC Co-Chair: SCI Workshop, in conjunction with ACNS
+- Steering Committee Member: EAI AC3 (2020 - )
+- PC Co-Chair: SCI Workshop, in conjunction with ACNS (2020 - )
 - 2021, TPC Member: ICICS, IEEE ICC, IEEE MASS, Inscrypt
 - 2020, TPC Member: IEEE GLOBECOM, IEEE ICC, Inscrypt
 - 2019, TPC Member: SecureComm, IEEE GLOBECOM, IEEE ICME, IEEE MASS, IEEE DSC, Inscrypt, SECUREWARE
