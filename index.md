@@ -59,13 +59,15 @@
 - Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
 
 ## Service
-- 2021, TPC Member (ICICS, IEEE ICC, IEEE MASS), PC Co-Chair (SCI Workshop), Steering Committee Member (EAI AC3)
-- 2020, TPC Member (IEEE GLOBECOM, IEEE ICC, Inscrypt), PC Co-Chair (SCI Workshop)
+- 2020 - , Steering Committee Member (EAI AC3)
+- 2020 - , PC Co-Chair (SCI Workshop)
+- 2021, TPC Member (ICICS, IEEE ICC, IEEE MASS, Inscrypt)
+- 2020, TPC Member (IEEE GLOBECOM, IEEE ICC, Inscrypt)
 - 2019, TPC Member (SecureComm, IEEE GLOBECOM, IEEE ICME, IEEE MASS, IEEE DSC, Inscrypt, SECUREWARE)
 - 2018, TPC Member (ACM CCS, IEEE GLOBECOM, IEEE MASS, IEEE DSC)
 - 2017, TPC Member (SecureComm, IEEE GLOBECOM, IEEE DSC)
 - 2016, TPC Member (ACM AsiaCCS, IEEE GLOBECOM)
-- 2014, TPC Member (SecureComm, CSS, IEEE ISSNIP), PC Co-Chair (DAPRO Workshop)
+- 2014, TPC Member (SecureComm, CSS, IEEE ISSNIP)
 
 ## Selected Publication
 - Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
