@@ -34,7 +34,7 @@
 ### Bachelor Students, Defensed
 - 贾云昊 Yunhao Jia (中国科技大学)
 - 张可臻 Kezhen Zhang (电子科技大学)
-- 李孟想 Kaixuan Wang (中国科技大学)
+- 李孟想 Mengxiang Li (中国科技大学)
 
 ## PhD/Master Students in Study
 (Supervised or Co-supervised)
