@@ -47,8 +47,8 @@
 - Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
-- Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 - *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
+- Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 - Fan Lang, Huorong Li, Wei Wang, *Jingqiang Lin*, Fengwei Zhang, Wuqiong Pan, Qiongxiao Wang, "E-SGX: Cache Side-Channel Protection for Intel SGX on Untrusted OS", **16th International Conference on Information Security and Cryptology (Inscrypt)**, 2020.
 - Ziqiang Ma, Quanwei Cai, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers", **Journal of Computer Security (JCS)**, Vol. 27, No. 5, pp. 547-580, 2019.
 - Ziqiang Ma, Quanwei Cai, *Jingqiang Lin*, Jiwu Jing, Dingfeng Ye, Lingjia Meng, "Evaluating the Cache Side Channel Attacks against ECDSA", **15th International Conference on Information Security and Cryptology (Inscrypt)**, pp. 325-345, 2019.
