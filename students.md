@@ -54,7 +54,7 @@
 - 王文杰 Wenjie Wang (中科院信工所)
 - 欧阳文宜 Wenyi Ouyang (中科院信工所)
 - 付裕 Yu Fu (中科院信工所)
-- 何雅茜 Yaqian He (中科院信工所)
+- 何雅茜 Yaxi He (中科院信工所)
 - 付彦铎 Yanduo Fu (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
 - 程广深 Guangshen Cheng (中国科技大学)
