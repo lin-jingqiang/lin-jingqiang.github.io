@@ -69,6 +69,7 @@
 - Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
+- Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
 - Lipeng Wan, Fangyu Zheng, *Jingqiang Lin*, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", **17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2021.
 - Guang Fan, Fangyu Zheng, Jiankuo Dong, *Jingqiang Lin*, Lili Gao, Rong Wei, Lipeng Wan, "SECCEG: A Secure and Efficient Cryptographic Co-processor based on Embedded GPU System", **16th International Conference on Wireless Algorithms, Systems, and Application (WASA)**, 2021.
 - Jiankuo Dong, Guang Fan, Fangyu Zheng, *Jingqiang Lin*, Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", **16th International Conference on Wireless Algorithms, Systems, and Application (WASA)**, 2021.
