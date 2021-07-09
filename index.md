@@ -61,7 +61,7 @@
 ## Service
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: SCI Workshop (2020 - , in conjunction with ACNS), EAI AC3 2022
-- 2022, TPC Member: ACM AsiaCCS
+- 2022, TPC Member: ACM AsiaCCS, IEEE ICC
 - 2021, TPC Member: ICICS, IEEE ICC, IEEE GLOBECOM, IEEE MASS, Inscrypt
 - 2020, TPC Member: IEEE ICC, IEEE GLOBECOM, Inscrypt
 - 2019, TPC Member: SecureComm, IEEE GLOBECOM, IEEE ICME, IEEE MASS, IEEE DSC, Inscrypt, SECUREWARE
