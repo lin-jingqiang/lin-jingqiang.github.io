@@ -1,7 +1,7 @@
-## Graduated Students
+# Students
 (Supervised or Co-supervised)
 
-### Phd Students, Defensed
+## Phd Students, Defensed
 - 宋天林 Tianlin Song (中科院信工所)
 - 王子阳 Ziyang Wang (中科院信工所)
 - 贾东征 Dongzheng Jia (中科院信工所)
@@ -17,7 +17,7 @@
 - 董建阔 Jiankuo Dong (中科院信工所)
 - 郑昉昱 Fangyu Zheng (中科院信工所)
 
-### Master Students, Defensed
+## Master Students, Defensed
 - 王开轩 Kaixuan Wang (中科院信工所)
 - 黄婉玲 Wanling Huang (中科院信工所)
 - 王倩舒 Qianshu Wang (北京大学)
@@ -31,7 +31,7 @@
 - 李健 Jian Li (中科院信工所)
 - 李飞 Fei Li (中科院信工所)
 
-### Bachelor Students, Defensed
+## Bachelor Students, Defensed
 - 贾云昊 Yunhao Jia (中国科技大学)
 - 张可臻 Kezhen Zhang (电子科技大学)
 - 李孟想 Mengxiang Li (中国科技大学)
