@@ -25,6 +25,7 @@
 
 ### Authentication, Anonymity and Privacy
 - Mingwu Zhang, Yu Chen, *Jingqiang Lin*, "A Privacy-Preserving Optimization of Neighborhood-based Recommendation for Medical-Aided Diagnosis and Treatment", **IEEE Internet of Things Journal (IoT-J)**, Vol. 8, No. 13, pp. 10830-10842, 2021.
+- Chengqian Guo, Quanwei Cai, Qiongxiao Wang, *Jingqiang Lin*, "Extending Registration and Authentication Processes of FIDO2 External Authenticator with QR Codes", **19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2020.
 - Dawei Chu, *Jingqiang Lin*, Fengjun Li, Xiaokun Zhang, Qiongxiao Wang, "Ticket Transparency: Accountable Single Sign-On with Privacy-Preserving Public Logs", **15th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 511-531, 2019.
 - Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
 - Quanwei Cai, Jonathan Lutes, *Jingqiang Lin*, Bo Luo, "A-Tor: Accountable Anonymity in Tor", **13th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 838-851, 2017.
@@ -52,6 +53,7 @@
 - Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 - Yu Fu, Wei Wang, Lingjia Meng, Qiongxiao Wang, Yuan Zhao, *Jingqiang Lin*, "VIRSA: Vectorized In-Register RSA Computation with Memory Disclosure Resistance", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
 - Fan Lang, Wei Wang, Lingjia Meng, Qiongxiao Wang, *Jingqiang Lin*, Li Song, "Informer: Protecting Intel SGX from Cross-core Side Channel Threats", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
+- Ziyang Wang, Fangyu Zheng, *Jingqiang Lin*, Guang Fan, Jiankuo Dong, "SEGIVE: A Practical Framework of Secure GPU Execution in Virtualization Environment", **39th IEEE International Performance Computing and Communications Conference (IPCCC)**, 2020.
 - Fan Lang, Huorong Li, Wei Wang, *Jingqiang Lin*, Fengwei Zhang, Wuqiong Pan, Qiongxiao Wang, "E-SGX: Cache Side-Channel Protection for Intel SGX on Untrusted OS", **16th International Conference on Information Security and Cryptology (Inscrypt)**, 2020.
 - Ziqiang Ma, Quanwei Cai, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Towards the Optimal Performance of Integrating Warm and Delay against Remote Cache Timing Side Channels on Block Ciphers", **Journal of Computer Security (JCS)**, Vol. 27, No. 5, pp. 547-580, 2019.
 - Ziqiang Ma, Quanwei Cai, *Jingqiang Lin*, Jiwu Jing, Dingfeng Ye, Lingjia Meng, "Evaluating the Cache Side Channel Attacks against ECDSA", **15th International Conference on Information Security and Cryptology (Inscrypt)**, pp. 325-345, 2019.
@@ -71,6 +73,7 @@
 ### High-performance Cryptographic Implementation
 - Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
 - Lipeng Wan, Fangyu Zheng, *Jingqiang Lin*, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", **17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2021.
+- Zhaohui Chen, Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jiwu Jing, "High-performance Area-efficient Polynomial Ring Processor for CRYSTALS-Kyber on FPGAs", **Integration, the VLSI Journal**, Vol. 78, pp. 25-35, 2021.
 - Guang Fan, Fangyu Zheng, Jiankuo Dong, *Jingqiang Lin*, Lili Gao, Rong Wei, Lipeng Wan, "SECCEG: A Secure and Efficient Cryptographic Co-processor based on Embedded GPU System", **16th International Conference on Wireless Algorithms, Systems, and Application (WASA)**, 2021.
 - Jiankuo Dong, Guang Fan, Fangyu Zheng, *Jingqiang Lin*, Fu Xiao, "TX-RSA: A High Performance RSA Implementation Scheme on NVIDIA Tegra X2", **16th International Conference on Wireless Algorithms, Systems, and Application (WASA)**, 2021.
 - Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, "Implementing High-performance X25519/448 Key Agreement Scheme in General Purpose GPUs", **Chinese Journal of Cyber Security**, Vol. 5, No. 6, pp. 60-74, 2020.
@@ -107,6 +110,7 @@
 - Quanwei Cai, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, "SEDB: Building Secure Database Services for Sensitive Data", **16th International Conference on Information and Communications Security (ICICS)**, pp. 16-30, 2014.
 
 ### Randomness Theory and Applications
+- Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, accepted.
 - Shuangyi Zhu, Yuan Ma, Xusheng Li, Jing Yang, *Jingqiang Lin*, Jiwu Jing, "On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 15, pp. 1696-1708, 2020.
 - Na Lv, Tianyu Chen, Shuangyi Zhu, Jing Yang, Yuan Ma, Jiwu Jing, *Jingqiang Lin*, "High-efficiency Min-entropy Estimation based on Neural Network for Random Number Generators", **Security and Communication Networks (SCN)**, Article 4241713, 2020.
 - Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jing Yang, Jiwu Jing, "Entropy Estimation for ADC Sampling based True Random Number Generators", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 14, No. 11, pp. 2887-2900, 2019.
