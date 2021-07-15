@@ -98,28 +98,28 @@
 1. Fangjie Jiang, Quanwei Cai, Le Guan, *Jingqiang Lin*, "Enforcing Access Controls for the Cryptographic Cloud Service Invocation based on Virtual Machine Introspection", **21st Information Security Conference (ISC)**, pp. 213-230, 2018.
 1. Peng Xu, *Jingqiang Lin*, Hai Jin, Wei Wang, Qiongxiao Wang, "Cloud Data Security", **China Machine Press**, **ISBN 9787111605096**, 2018.
 1. Le Guan, Shijie Jia, Bo Chen, Fengwei Zhang, Bo Luo, *Jingqiang Lin*, Peng Liu, Xinyu Xing, Luning Xia, "Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices", **33rd Annual Computer Security Applications Conference (ACSAC)**, **Outstanding Paper Award**, pp. 339-349, 2017.
-1. Abdulmalik Humayed, *Jingqiang Lin*, Fengjun Li, Bo Luo, "Cyber-Physical Systems Security - A Survey", **IEEE Internet of Things Journal (IoT-J)**, Vol. 4, No. 6, pp. 1802-1831, 2011.
+1. Abdulmalik Humayed, *Jingqiang Lin*, Fengjun Li, Bo Luo, "Cyber-Physical Systems Security - A Survey", **IEEE Internet of Things Journal (IoT-J)**, Vol. 4, No. 6, pp. 1802-1831, 2017.
 1. Shuangyi Zhu, Yuan Ma, *Jingqiang Lin*, Jia Zhuang, Jiwu Jing, "More Powerful and Reliable Second-level Statistical Randomness Tests for NIST SP 800-22", **22nd Annual International Conference on the Theory and Applications of Cryptology and Information Security (AsiaCrypt)**, pp. 307-329, 2016.
-1. *Jingqiang Lin*, Bo Luo, Le Guan, Jiwu Jing, "Secure Computing using Registers and Caches: The Problem, Challenges and Solutions", **IEEE Security & Privacy**, Vol. 14, No. 6, pp. 63-701. 2016.
+1. *Jingqiang Lin*, Bo Luo, Le Guan, Jiwu Jing, "Secure Computing using Registers and Caches: The Problem, Challenges and Solutions", **IEEE Security & Privacy**, Vol. 14, No. 6, pp. 63-70, 2016.
 1. Wen-Tao Zhu, *Jingqiang Lin*, "Generating Correlated Digital Certificates: Framework and Applications", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 11, No. 6, pp. 1117-1127, 2016.
 1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, Jing Wang, "Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **36th IEEE Symposium on Security and Privacy (Oakland)**, pp. 3-19, 2015.
 1. Manogna Thimma, Fang Liu, *Jingqiang Lin*, Bo Luo, "HyXAC: Hybrid XML Access Control Integrating View-based and Query-rewriting Approaches", **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, Vol. 27, No. 8, pp. 2190-2202, 2015.
-1. Wei Wan1., *Jingqiang Lin*, Zhan Wang, Ze Wang, Luning Xia, "vBox: Proactively Establishing Secure Channels between Wireless Devices without Prior Knowledge", **20th European Symposium on Research in Computer Security (ESORICS)**, pp. 332-351, 2015.
-1. Weiyu J1.ang, *Jingqiang Lin*, Zhan Wang, Huorong Li, Lei Wang, "LightCore: Lightweight Collaborative Editing Cloud Services for Sensitive Data", **13th International Conference on Applied Cryptography and Network Security (ACNS)**, pp. 215-239, 2015.
-1. Shijie 1.ia, Luning Xia, Zhan Wang, *Jingqiang Lin*, Guozhu Zhang, Yafei Ji, "Extracting Robust Keys from NAND Flash Physical Unclonable Functions", **18th Information Security Conference (ISC)**, pp. 437-454, 2015.
-1. Le Guan1. *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
-1. Yuan Ma, *Jingqiang Lin*, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, "Entropy Evaluation for Oscillator-based True Random Number Generators", **16th International Workshop 1.n Cryptographic Hardware and Embedded Systems (CHES)**, pp. 544-561, 2014.
-1. Fangyu Zheng, Wuqiong Pan, *Jingqiang Lin*, Jiwu Jing, Yuan Zhao, "Exploiting the Floating-Point Computing Power of GPUs for RSA", **17th Information Security Conference (ISC)**, 1.*Best Student Paper Award**, pp. 198-215, 2014.
-1. *Jingqiang Lin*, Bo Luo, Jiwu Jing, Xiaokun Zhang, "GRADE: Graceful Degradation in Byzantine Quorum Systems", **31st IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 171-11.0, 2012.
-1. Nan Zhang, *Jingqiang Lin*, Jiwu Jing, Neng Gao, "RIKE: Using Revocable Identities to Support Key Escrow in PKIs", **10th International Conference on Applied Cryptography and Network S1.curity (ACNS)**, pp. 48-65, 2012.
+1. Wei Wang, *Jingqiang Lin*, Zhan Wang, Ze Wang, Luning Xia, "vBox: Proactively Establishing Secure Channels between Wireless Devices without Prior Knowledge", **20th European Symposium on Research in Computer Security (ESORICS)**, pp. 332-351, 2015.
+1. Weiyu Jiang, *Jingqiang Lin*, Zhan Wang, Huorong Li, Lei Wang, "LightCore: Lightweight Collaborative Editing Cloud Services for Sensitive Data", **13th International Conference on Applied Cryptography and Network Security (ACNS)**, pp. 215-239, 2015.
+1. Shijie Jia, Luning Xia, Zhan Wang, *Jingqiang Lin*, Guozhu Zhang, Yafei Ji, "Extracting Robust Keys from NAND Flash Physical Unclonable Functions", **18th Information Security Conference (ISC)**, pp. 437-454, 2015.
+1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
+1. Yuan Ma, *Jingqiang Lin*, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, "Entropy Evaluation for Oscillator-based True Random Number Generators", **16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES)**, pp. 544-561, 2014.
+1. Fangyu Zheng, Wuqiong Pan, *Jingqiang Lin*, Jiwu Jing, Yuan Zhao, "Exploiting the Floating-Point Computing Power of GPUs for RSA", **17th Information Security Conference (ISC)**, *Best Student Paper Award**, pp. 198-215, 2014.
+1. *Jingqiang Lin*, Bo Luo, Jiwu Jing, Xiaokun Zhang, "GRADE: Graceful Degradation in Byzantine Quorum Systems", **31st IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 171-180, 2012.
+1. Nan Zhang, *Jingqiang Lin*, Jiwu Jing, Neng Gao, "RIKE: Using Revocable Identities to Support Key Escrow in PKIs", **10th International Conference on Applied Cryptography and Network Security (ACNS)**, pp. 48-65, 2012.
 1. Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology", **Science Press of China**, **ISBN 9787030219060**, 2008.
-1. *Jingqi1.ng Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 200711.
+1. *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
 ### Full Publicati1.n
-- [List](./full-pub.html1.
+- [List](./full-pub.html)
 
 ### Stude1.t
-- [List](./students.html11.
+- [List](./students.html1)
 
 ### Contact
 - linjq \at ustc.edu.cn
