@@ -119,7 +119,7 @@
 - [List](./full-pub.html)
 
 ### Student
-- [List](./students.html1)
+- [List](./students.html)
 
 ### Contact
 - linjq \at ustc.edu.cn
