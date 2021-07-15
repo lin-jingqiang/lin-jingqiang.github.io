@@ -118,7 +118,7 @@
 ### Full Publication
 - [List](./full-pub.html)
 
-### Stude1.t
+### Student
 - [List](./students.html1)
 
 ### Contact
