@@ -115,7 +115,7 @@
 1. Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology", **Science Press of China**, **ISBN 9787030219060**, 2008.
 1. *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
-### Full Publicati1.n
+### Full Publication
 - [List](./full-pub.html)
 
 ### Stude1.t
