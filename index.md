@@ -74,7 +74,7 @@
 ## Selected Publication
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 1. Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
-1. Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**, accepted.
+1. Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCADICS)**, accepted.
 1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
 1. Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 1. Wenqiang Li, Le Guan, *Jingqiang Lin*, Jiameng Shi, Fengjun Li, "From Library Portability to Para-rehosting: Natively Executing Open-source Microcontroller OSs on Commodity Hardware", **28th ISOC Network and Distributed System Security Symposium (NDSS)**, 2021.
