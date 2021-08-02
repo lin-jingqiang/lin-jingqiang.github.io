@@ -59,6 +59,7 @@
 - Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
 
 ## Service
+- Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: SCI Workshop (2020 - , in conjunction with ACNS), EAI AC3 2022
 - 2022, TPC Member: ACM AsiaCCS, IEEE ICC
