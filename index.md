@@ -72,10 +72,10 @@
 - 2014, TPC Member: SecureComm, CSS, IEEE ISSNIP
 
 ## Selected Publication
-1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 1. Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
+1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 1. Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCADICS)**, accepted.
-1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security / 密码软件实现与密钥安全", **China Machine Press**, **ISBN 9787111679578**, 2021.
+1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security / 密码软件实现与密钥安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111679578**, 2021.
 1. Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 1. Wenqiang Li, Le Guan, *Jingqiang Lin*, Jiameng Shi, Fengjun Li, "From Library Portability to Para-rehosting: Natively Executing Open-source Microcontroller OSs on Commodity Hardware", **28th ISOC Network and Distributed System Security Symposium (NDSS)**, 2021.
 1. Bingyu Li, *Jingqiang Lin*, Qiongxiao Wang, Ze Wang, Jiwu Jing, "Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 16, pp. 1380-1395, 2021.
@@ -91,7 +91,7 @@
 1. Jiankuo Dong, Fangyu Zheng, Niall Emmart, *Jingqiang Lin*, Charles C. Weems, "sDPF-RSA: Utilizing Floating-point Computing Power of GPUs for Massive Digital Signature Computations", **32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, pp. 599-609, 2018.
 1. Chen Cao, Le Guan, Ning Zhang, Neng Gao, *Jingqiang Lin*, Bo Luo, Peng Liu, Ji Xiang, Wenjing Lou, "CryptMe: Data Leakage Prevention for Unmodified Programs on ARM Devices", **21st International Symposium on Research in Attacks, Intrusions and Defenses (RAID)**, pp. 380-400, 2018.
 1. Shuangyi Zhu, Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jiwu Jing, "Analysis and Improvement of the Entropy Estimators in NIST SP 800-90B for Non-IID Entropy Sources", **25th International Conference on Fast Software Encryption (FSE)**, 2018.
-1. Peng Xu, *Jingqiang Lin*, Hai Jin, Wei Wang, Qiongxiao Wang, "Cloud Data Security / 云数据安全", **China Machine Press**, **ISBN 9787111605096**, 2018.
+1. Peng Xu, *Jingqiang Lin*, Hai Jin, Wei Wang, Qiongxiao Wang, "Cloud Data Security / 云数据安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111605096**, 2018.
 1. Le Guan, Shijie Jia, Bo Chen, Fengwei Zhang, Bo Luo, *Jingqiang Lin*, Peng Liu, Xinyu Xing, Luning Xia, "Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices", **33rd Annual Computer Security Applications Conference (ACSAC)**, **Outstanding Paper Award**, pp. 339-349, 2017.
 1. Shuangyi Zhu, Yuan Ma, *Jingqiang Lin*, Jia Zhuang, Jiwu Jing, "More Powerful and Reliable Second-level Statistical Randomness Tests for NIST SP 800-22", **22nd Annual International Conference on the Theory and Applications of Cryptology and Information Security (AsiaCrypt)**, pp. 307-329, 2016.
 1. Wen-Tao Zhu, *Jingqiang Lin*, "Generating Correlated Digital Certificates: Framework and Applications", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 11, No. 6, pp. 1117-1127, 2016.
