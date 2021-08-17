@@ -25,7 +25,7 @@
 1. Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, *Jingqiang Lin*, "ARECA: A Highly Attack Resilient Certification Authority", **ACM Workshop on Survivable and Self-Regenerative Systems (SSRS)**, in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
 
 ### Authentication, Anonymity and Privacy
-1. Mingwu Zhang, Yu Chen, *Jingqiang Lin*, "A Privacy-Preserving Optimization of Neighborhood-based Recommendation for Medical-Aided Diagnosis and Treatment", **IEEE Internet of Things Journal (IoT-J)**, Vol. 8, No. 13, pp. 10830-10842, 2021.
+23. Mingwu Zhang, Yu Chen, *Jingqiang Lin*, "A Privacy-Preserving Optimization of Neighborhood-based Recommendation for Medical-Aided Diagnosis and Treatment", **IEEE Internet of Things Journal (IoT-J)**, Vol. 8, No. 13, pp. 10830-10842, 2021.
 1. Chengqian Guo, Quanwei Cai, Qiongxiao Wang, *Jingqiang Lin*, "Extending Registration and Authentication Processes of FIDO2 External Authenticator with QR Codes", **19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2020.
 1. Dawei Chu, *Jingqiang Lin*, Fengjun Li, Xiaokun Zhang, Qiongxiao Wang, "Ticket Transparency: Accountable Single Sign-On with Privacy-Preserving Public Logs", **15th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 511-531, 2019.
 1. Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
