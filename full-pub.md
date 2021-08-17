@@ -36,7 +36,7 @@
 1. Daren Zha, Jiwu Jing, Peng Liu, *Jingqiang Lin*, Xiaoqi Jia, "Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control", **10th International Conference on Computational Science and Its Applications (ICCSA)**, pp. 468-481, 2010.
 
 ### Fault Tolerance, Blockchain and Transparency
-*12. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
+15. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 1. Tianlin Song, *Jingqiang Lin*, Wei Wang, Quanwei Cai, "Traceable Revocable Anonymous Registration Scheme with Zero-knowledge Proof on Blockchain", **54th IEEE International Conference on Communications (ICC)**, 2020.
 1. Tianlin Song, Wei Wang, Fan Lang, Wenyi Ouyang, Qiongxiao Wang, *Jingqiang Lin*, "P2A: Privacy Preserving Anonymous Authentication based on Blockchain and SGX", **16th International Conference on Information Security and Cryptology (Inscrypt)**, 2020.
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Jiwu Jing, Daren Zha, "Blockchain-based Certificate Transparency and Revocation Transparency", **5th Workshop on Bitcoin and Blockchain Research (BITCOIN)**, in conjunction with 21st International Conference on Financial Cryptography and Data Security (FC), 2018, pp. 144-162.
