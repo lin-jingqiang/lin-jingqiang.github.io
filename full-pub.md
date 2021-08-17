@@ -25,7 +25,7 @@
 1. Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, *Jingqiang Lin*, "ARECA: A Highly Attack Resilient Certification Authority", **ACM Workshop on Survivable and Self-Regenerative Systems (SSRS)**, in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
 
 ### Authentication, Anonymity and Privacy
-23. Mingwu Zhang, Yu Chen, *Jingqiang Lin*, "A Privacy-Preserving Optimization of Neighborhood-based Recommendation for Medical-Aided Diagnosis and Treatment", **IEEE Internet of Things Journal (IoT-J)**, Vol. 8, No. 13, pp. 10830-10842, 2021.
+1. Mingwu Zhang, Yu Chen, *Jingqiang Lin*, "A Privacy-Preserving Optimization of Neighborhood-based Recommendation for Medical-Aided Diagnosis and Treatment", **IEEE Internet of Things Journal (IoT-J)**, Vol. 8, No. 13, pp. 10830-10842, 2021.
 1. Chengqian Guo, Quanwei Cai, Qiongxiao Wang, *Jingqiang Lin*, "Extending Registration and Authentication Processes of FIDO2 External Authenticator with QR Codes", **19th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2020.
 1. Dawei Chu, *Jingqiang Lin*, Fengjun Li, Xiaokun Zhang, Qiongxiao Wang, "Ticket Transparency: Accountable Single Sign-On with Privacy-Preserving Public Logs", **15th International Conference on Security and Privacy in Communication Networks (SecureComm)**, pp. 511-531, 2019.
 1. Xuhua Bao, Xiaokun Zhang, *Jingqiang Lin*, Dawei Chu, Qiongxiao Wang, Fengjun Li, "Towards the Trust-Enhancements of Single Sign-On Services", **3rd IEEE Conference on Dependable and Secure Computing (IDSC)**, 2019.
@@ -36,7 +36,7 @@
 1. Daren Zha, Jiwu Jing, Peng Liu, *Jingqiang Lin*, Xiaoqi Jia, "Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control", **10th International Conference on Computational Science and Its Applications (ICCSA)**, pp. 468-481, 2010.
 
 ### Fault Tolerance, Blockchain and Transparency
-32. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
+1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 1. Tianlin Song, *Jingqiang Lin*, Wei Wang, Quanwei Cai, "Traceable Revocable Anonymous Registration Scheme with Zero-knowledge Proof on Blockchain", **54th IEEE International Conference on Communications (ICC)**, 2020.
 1. Tianlin Song, Wei Wang, Fan Lang, Wenyi Ouyang, Qiongxiao Wang, *Jingqiang Lin*, "P2A: Privacy Preserving Anonymous Authentication based on Blockchain and SGX", **16th International Conference on Information Security and Cryptology (Inscrypt)**, 2020.
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Jiwu Jing, Daren Zha, "Blockchain-based Certificate Transparency and Revocation Transparency", **5th Workshop on Bitcoin and Blockchain Research (BITCOIN)**, in conjunction with 21st International Conference on Financial Cryptography and Data Security (FC), 2018, pp. 144-162.
@@ -50,7 +50,7 @@
 1. Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
-44. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
+1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
 1. Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 1. Yu Fu, Wei Wang, Lingjia Meng, Qiongxiao Wang, Yuan Zhao, *Jingqiang Lin*, "VIRSA: Vectorized In-Register RSA Computation with Memory Disclosure Resistance", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
 1. Fan Lang, Wei Wang, Lingjia Meng, Qiongxiao Wang, *Jingqiang Lin*, Li Song, "Informer: Protecting Intel SGX from Cross-core Side Channel Threats", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
@@ -73,7 +73,7 @@
 1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
-65. Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
+1. Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
 1. Lipeng Wan, Fangyu Zheng, *Jingqiang Lin*, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", **17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2021.
 1. Wenjie Wang, Wei Wang, *Jingqiang Lin*, Yu Fu, Lingjia Meng, Qiongxiao Wang, "SMCOS: Fast and Parallel Modular Multiplication on ARM NEON Architecture for ECC", **17th International Conference on Information Security and Cryptology (Inscrypt)**, 2021.
 1. Zhaohui Chen, Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jiwu Jing, "High-performance Area-efficient Polynomial Ring Processor for CRYSTALS-Kyber on FPGAs", **Integration, the VLSI Journal**, Vol. 78, pp. 25-35, 2021.
@@ -93,7 +93,7 @@
 1. Yuan Ma, Luning Xia, *Jingqiang Lin*, Jiwu Jing, Zongbin Liu, Xingjie Yu, "Hardware Performance Optimization and Evaluation of SM3 Hash Algorithm on FPGA", **14th International Conference on Information and Communications Security (ICICS)**, pp. 105-118, 2012.
 
 ### Cloud Security
-83. Dongzheng Jia, Yang Zhang, Shijie Jia, Limin Liu, *Jingqiang Lin*, "DPVGeo: Delay-based Public Verification of Cloud Data Geolocation", **25th IEEE Symposium on Computers and Communications (ISCC)**, 2020.
+1. Dongzheng Jia, Yang Zhang, Shijie Jia, Limin Liu, *Jingqiang Lin*, "DPVGeo: Delay-based Public Verification of Cloud Data Geolocation", **25th IEEE Symposium on Computers and Communications (ISCC)**, 2020.
 1. Yang Zhang, Dongzheng Jia (co-first author), Shijie Jia, Limin Liu, *Jingqiang Lin*, "Splitter: An Efficient Scheme to Determine the Geolocation of Cloud Data Publicly", **29th International Conference on Computer Communications and Networks (ICCCN)**, 2020.
 1. Li Zhu, Pingjian Wang, Xiaozhuo Gu, Yuewu Wang, *Jingqiang Lin*, "PIV4DB: Probabilistic Integrity Verification for Cloud Database", **25th IEEE Symposium on Computers and Communications (ISCC)**, 2020.
 1. Fangjie Jiang, Quanwei Cai, *Jingqiang Lin*, Bo Luo, Le Guan, Ziqiang Ma, "TF-BIV: Transparent and Fine-grained Binary Integrity Verification in the Cloud", **35th Annual Computer Security Applications Conference (ACSAC)**, pp. 57-69, 2019.
@@ -113,7 +113,7 @@
 1. Quanwei Cai, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, "SEDB: Building Secure Database Services for Sensitive Data", **16th International Conference on Information and Communications Security (ICICS)**, pp. 16-30, 2014.
 
 ### Randomness Theory and Applications
-101. Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCADICS)**, accepted.
+1. Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCADICS)**, accepted.
 1. Shuangyi Zhu, Yuan Ma, Xusheng Li, Jing Yang, *Jingqiang Lin*, Jiwu Jing, "On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 15, pp. 1696-1708, 2020.
 1. Na Lv, Tianyu Chen, Shuangyi Zhu, Jing Yang, Yuan Ma, Jiwu Jing, *Jingqiang Lin*, "High-efficiency Min-entropy Estimation based on Neural Network for Random Number Generators", **Security and Communication Networks (SCN)**, Article 4241713, 2020.
 1. Yuan Ma, Tianyu Chen, *Jingqiang Lin*, Jing Yang, Jiwu Jing, "Entropy Estimation for ADC Sampling based True Random Number Generators", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 14, No. 11, pp. 2887-2900, 2019.
