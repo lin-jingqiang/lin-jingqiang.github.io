@@ -43,6 +43,8 @@
 - 国家自然科学基金面上课题 通用计算平台的密钥保护技术研究 (项目号61772518)
 - National 973 Program of China, Tenant-controlled Cloud Data Security (Grant No. 2014CB340603)
 - 国家重点基础研究发展计划课题 云计算安全基础理论与方法/租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
+- National Cryptology Development Foundation, Key Management for the Cloud Computing Environment (Grant No. MMJJ201101002)
+- 国家密码发展基金课题 云计算环境的密钥管理研究 (课题号MMJJ201101002)
 
 ## Award
 - Cryptologic Science and Technology Progress Award of China (3rd place, 5th co-winner), 2020. 密码科技进步三等奖.
