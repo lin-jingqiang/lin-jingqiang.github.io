@@ -111,6 +111,7 @@
 
 ### Full Publication
 - [List](./full-pub.html)
+- [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID.
 
 ### Student
 - [List](./students.html)
