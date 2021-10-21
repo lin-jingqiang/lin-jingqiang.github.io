@@ -77,6 +77,7 @@
 
 ## Selected Publication
 1. Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Wei Wang, Qi Li, Guangshen Cheng, Jiwu Jing, Congli Wang, "The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild", **IEEE/ACM Transactions on Networking (TON)**, accepted.
+1. Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", **ACM Transactions on Embedded Computing Systems**, accepted.
 1. Rong Wei, Fangyu Zheng, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, *Jingqiang Lin*, Yuewu Wang, "Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment", **37th Annual Computer Security Applications Conference (ACSAC)**, 2021.
 1. Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2021.
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
