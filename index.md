@@ -113,7 +113,7 @@
 
 ### Full Publication
 - [List](./full-pub.html)
-- [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-2639-3722 in somes papers, but this ORCID was bound to an Email linjq@lois.cn, which had been destroyed completely.
+- [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-2639-3722 in somes papers, but this ORCID was bound to an Email linjq@lois.cn, which had been DESTROYED completely.
 
 ### Student
 - [List](./students.html)
