@@ -37,7 +37,6 @@
 - 李孟想 Mengxiang Li (中国科技大学)
 
 ## PhD/Master Students, still in Study
-**Supervised or Co-supervised**
 - 郭丞乾 Chengqian Guo (中科院信工所)
 - 李文强 Wenqiang Li (中科院信工所)
 - 刘广祺 Guangqi Liu (中科院信工所)
