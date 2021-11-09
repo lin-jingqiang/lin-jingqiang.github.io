@@ -29,6 +29,8 @@
 - **Game Theory for Security**
 
 ## Funding and Project
+- Technical Committee of Cryptologic Industry Standardization, Standard on the Cryptologic Technology Framework of Secure Multi-Party Computation
+- 密码行业标准化技术委员会 多方安全计算密码技术框架标准
 - Key RD Plan of Shandong Province, Critical Technology Research and Product Development of Chinese Cryptographic Algorithms (Grant No. 2020CXGC010115)
 - 山东省重点研发计划 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
 - Huawei Technologies Co., Ltd., Identification and Detection of Cryptographic Algorithms (Grant No. YBN2020105060)
