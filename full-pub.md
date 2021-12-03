@@ -137,6 +137,7 @@
 1. Chunli Lv, Xiaoqi Jia, *Jingqiang Lin*, Jiwu Jing, Lijun Tian, Mingli Sun, "Efficient Secret Sharing Schemes", **8th FTRA International Conference on Secure and Trust Computing, Data management, and Applications (STA)**, pp. 114-121, 2011.
 
 ### Mobile/IoT Security
+1. Wenqiang Li, Jiameng Shi, Fengjun Li, *Jingqiang Lin*, Wei Wang, Le Guan, "𝜇AFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware", **44th ACM/IEEE International Conference on Software Engineering (ICSE)**, 2022.
 1. Wenqiang Li, Le Guan, *Jingqiang Lin*, Jiameng Shi, Fengjun Li, “From Library Portability to Para-rehosting: Natively Executing Open-source Microcontroller OSs on Commodity Hardware”, **28th ISOC Network and Distributed System Security Symposium (NDSS)**, 2021.
 1. Abdulmalik Humayed, Fengjun Li, *Jingqiang Lin*, Bo Luo, "CANSentry: Securing CAN-Based Cyber-Physical Systems against Denial and Spoofing Attacks", **25th European Symposium on Research in Computer Security (ESORICS)**, pp. 153-173, 2020.
 1. Le Guan, Chen Cao, Sencun Zhu, *Jingqiang Lin*, Peng Liu, Yubin Xia, Bo Luo, "Protecting Mobile Devices from Physical Memory Attacks with Targeted Encryption", **12th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)**, pp. 34-44, 2019.
