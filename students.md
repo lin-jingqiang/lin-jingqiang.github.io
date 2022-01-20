@@ -8,6 +8,7 @@
 - 李冰雨 Bingyu Li (中科院信工所)
 - 江芳杰 Fangjie Jiang (中科院信工所)
 - 马自强 Ziqiang Ma (中科院信工所)
+- 褚大伟 Dawei Chu (中科院信工所)
 - 王泽 Ze Wang (中科院信工所)
 - 李从午 Congwu Li (中科院信工所)
 - 黎火荣 Huorong Li (中科院信工所)
