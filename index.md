@@ -49,6 +49,7 @@
 - 国家密码发展基金课题 云计算环境的密钥管理研究 (课题号MMJJ201101002)
 
 ## Award
+- Cryptologic Science and Technology Progress Award of China (3rd place, 1st co-winner), 2021. 密码科技进步三等奖.
 - Cryptologic Science and Technology Progress Award of China (3rd place, 5th co-winner), 2020. 密码科技进步三等奖.
 - Zhuliyuehua Award for Outstanding Teachers, Chinese Academy of Sciences, 2017. 中国科学院朱李月华优秀教师奖.
 - "Supporting Transparent Snapshot for Bare-metal Malware Analysis on Mobile Devices", 33rd Annual Computer Security Applications Conference (ACSAC), Outstanding Paper Award, 2017.
