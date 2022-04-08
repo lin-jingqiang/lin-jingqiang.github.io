@@ -38,7 +38,7 @@
 1. Daren Zha, Jiwu Jing, Peng Liu, *Jingqiang Lin*, Xiaoqi Jia, "Proactive Identification and Prevention of Unexpected Future Rule Conflicts in Attribute Based Access Control", **10th International Conference on Computational Science and Its Applications (ICCSA)**, pp. 468-481, 2010.
 
 ### Fault Tolerance, Blockchain and Transparency
-1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
+1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 19, No. 1, 681-697, 2022.
 1. Tianlin Song, *Jingqiang Lin*, Wei Wang, Quanwei Cai, "Traceable Revocable Anonymous Registration Scheme with Zero-knowledge Proof on Blockchain", **54th IEEE International Conference on Communications (ICC)**, 2020.
 1. Tianlin Song, Wei Wang, Fan Lang, Wenyi Ouyang, Qiongxiao Wang, *Jingqiang Lin*, "P2A: Privacy Preserving Anonymous Authentication based on Blockchain and SGX", **16th International Conference on Information Security and Cryptology (Inscrypt)**, 2020.
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Jiwu Jing, Daren Zha, "Blockchain-based Certificate Transparency and Revocation Transparency", **5th Workshop on Bitcoin and Blockchain Research (BITCOIN)**, in conjunction with 21st International Conference on Financial Cryptography and Data Security (FC), 2018, pp. 144-162.
@@ -75,7 +75,7 @@
 1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
-1. Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", **ACM Transactions on Embedded Computing Systems (TECS)**, accepted.
+1. Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 21, No. 2, 16:1-16:25, 2022.
 1. Lili Gao, Fangyu Zheng, Rong Wei, Jinakuo Dong, Niall Emmart, Yuan Ma, *Jingqiang Lin*, Charles Weems, "DPF-ECC: A Framework for Efficient ECC with Double Precision Floating-Point Computing Power", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 16, pp. 3988-4002, 2021.
 1. Lipeng Wan, Fangyu Zheng, *Jingqiang Lin*, "TESLAC: Accelerating Lattice-based Cryptography with AI Accelerator", **17th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2021.
 1. Wenjie Wang, Wei Wang, *Jingqiang Lin*, Yu Fu, Lingjia Meng, Qiongxiao Wang, "SMCOS: Fast and Parallel Modular Multiplication on ARM NEON Architecture for ECC", **17th International Conference on Information Security and Cryptology (Inscrypt)**, 2021.
