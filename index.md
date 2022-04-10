@@ -33,7 +33,7 @@
 - 密码行业标准化技术委员会 多方安全计算密码技术框架标准
 - Key RD Plan of Shandong Province, Critical Technology Research and Product Development of Chinese Cryptographic Algorithms (Grant No. 2020CXGC010115)
 - 山东省重点研发计划 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
-- Huawei Technologies Co., Ltd., Identification and Detection of Cryptographic Algorithms (Grant No. YBN2020105060)
+- Huawei Technologies Co., Ltd., Detection and Identification of Cryptographic Algorithms (Grant No. YBN2020105060)
 - 华为技术有限公司 密码算法检测识别 (课题号YBN2020105060)
 - Cloud Computing & Big Data Program of National Key RD Plan of China, the Security of Cryptography Applied in Blockchain (Grant No. 2020YFB1005803)
 - 国家重点研发计划云计算和大数据专项课题 面向区块链关键机制的安全分析与增强技术/区块链密码应用安全技术研究 (课题号2020YFB1005803)
