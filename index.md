@@ -66,8 +66,9 @@
 ## Service
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
-- TPC Co-Chair: SCI Workshop (2020 - , in conjunction with ACNS), EAI AC3 2022
+- TPC Co-Chair: SCI Workshop (2020 - , in conjunction with ACNS)
 - 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS
+  - TPC Co-Chair: EAI AC3
   - Publicity Co-Chair: SecureComm
 - 2021, TPC Member: ICICS, IEEE ICC, IEEE GLOBECOM, IEEE MASS, Inscrypt, ICA3PP
 - 2020, TPC Member: IEEE ICC, IEEE GLOBECOM, Inscrypt
@@ -77,6 +78,7 @@
 - 2017, TPC Member: SecureComm, IEEE GLOBECOM, IEEE DSC
 - 2016, TPC Member: ACM AsiaCCS, IEEE GLOBECOM
 - 2014, TPC Member: SecureComm, CSS, IEEE ISSNIP
+  - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
 ## Selected Publication
 1. Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Wei Wang, Qi Li, Guangshen Cheng, Jiwu Jing, Congli Wang, "The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild", **IEEE/ACM Transactions on Networking (TON)**, accepted.
