@@ -98,6 +98,7 @@
 1. Yuan Ma, Luning Xia, *Jingqiang Lin*, Jiwu Jing, Zongbin Liu, Xingjie Yu, "Hardware Performance Optimization and Evaluation of SM3 Hash Algorithm on FPGA", **14th International Conference on Information and Communications Security (ICICS)**, pp. 105-118, 2012.
 
 ### Cloud Security
+1. Xin Xu, Wei Wang, *Jingqiang Lin*, Zhen Yang, Haoling Fan, Qiongxiao Wang, “LiTIV: A Lightweight Traceable Data Integrity Verification Scheme for Version Control Systems”, **31th International Conference on Computer Communications and Networks (ICCCN)**, 2022.
 1. Dongzheng Jia, Yang Zhang, Shijie Jia, Limin Liu, *Jingqiang Lin*, "DPVGeo: Delay-based Public Verification of Cloud Data Geolocation", **25th IEEE Symposium on Computers and Communications (ISCC)**, 2020.
 1. Yang Zhang, Dongzheng Jia (co-first author), Shijie Jia, Limin Liu, *Jingqiang Lin*, "Splitter: An Efficient Scheme to Determine the Geolocation of Cloud Data Publicly", **29th International Conference on Computer Communications and Networks (ICCCN)**, 2020.
 1. Li Zhu, Pingjian Wang, Xiaozhuo Gu, Yuewu Wang, *Jingqiang Lin*, "PIV4DB: Probabilistic Integrity Verification for Cloud Database", **25th IEEE Symposium on Computers and Communications (ISCC)**, 2020.
