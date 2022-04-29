@@ -67,6 +67,7 @@
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: SCI Workshop (2020 - , in conjunction with ACNS)
+- 2023, TPC Member: ACM AsiaCCS, ICA3PP
 - 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS
   - TPC Co-Chair: EAI AC3
   - Publicity Co-Chair: SecureComm
