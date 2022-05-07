@@ -15,6 +15,14 @@
 - 2012.10 - 2015.10, Associate Professor, Institute of Information Engineering, Chinese Academy of Sciences
 - 2012.10 - 2015.10, 中国科学院信息工程研究所，副研究员
 
+## Study
+- 2005.08 - 2009.03, Graduate School of Chinese Academy of Sciences, PhD (Information Security), Supervised by Prof. Jiwu Jing
+- 2005.08 - 2009.03, 中国科学院研究生院，博士（信息安全），导师：荆继武
+- 2021.08 - 2004.08, Graduate School of Chinese Academy of Sciences, Master (Communication and Information System), Supervised by Prof. Dengguo Feng
+- 2021.08 - 2004.08, 中国科学院研究生院，硕士（通信与信息系统），导师：冯登国
+- 1996.08 - 2001.08, University of Science and Technology of China, Bachelor (Electronic Engineering and Information Science)
+- 1996.08 - 2001.08, 中国科学技术大学，学士（电子工程与信息科学系）
+
 ## Research Interest
 **Applied Cryptography**, **Network Security**, and **System Security**
 - **PKI and Certificate**
