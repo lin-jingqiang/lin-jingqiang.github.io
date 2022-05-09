@@ -2,6 +2,8 @@
 **Supervised or Co-supervised**
 
 ## Phd Students, Defensed
+- 高莉莉 Lili Gao (中科院信工所)
+- 魏荣 Rong Wei (中科院信工所)
 - 宋天林 Tianlin Song (中科院信工所)
 - 王子阳 Ziyang Wang (中科院信工所)
 - 贾东征 Dongzheng Jia (中科院信工所)
@@ -45,10 +47,12 @@
 - 宋利 Li Song (中科院信工所)
 - 许新 Xin Xu (中科院信工所)
 - 孟令佳 Lingjia Meng (中科院信工所)
+- 万立鹏 Lipeng Wan (中科院信工所)
 - 郎帆 Fan Lang (中科院信工所)
 - 孙傲卓 Aozhuo Sun (中科院信工所)
 - 张运明 Yunming Zhang (中国科技大学)
 - 吴鹏一 Pengyi Wu (中科院信工所)
+- 范广 Guang Fan (中科院信工所)
 - 郭娟娟 Juanjuan Guo (中科院信工所)
 - 李文渊 Wenyuan Li (中科院信工所)
 - 徐博文 Bowen Xu (中科院信工所)
