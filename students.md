@@ -2,6 +2,8 @@
 **Supervised or Co-supervised**
 
 ## Phd Students, Defensed
+- 郭丞乾 Chengqian Guo (中科院信工所)
+- 李文强 Wenqiang Li (中科院信工所)
 - 高莉莉 Lili Gao (中科院信工所)
 - 魏荣 Rong Wei (中科院信工所)
 - 宋天林 Tianlin Song (中科院信工所)
@@ -21,6 +23,11 @@
 - 郑昉昱 Fangyu Zheng (中科院信工所)
 
 ## Master Students, Defensed
+- 付裕 Yu Fu (中科院信工所)
+- 何雅茜 Yaxi He (中科院信工所)
+- 付彦铎 Yanduo Fu (中科院信工所)
+- 王一鸣 Yiming Wang (北京大学)
+- 李凯轩 Kaixuan Li (北京大学)
 - 欧阳文宜 Wenyi Ouyang (中科院信工所)
 - 王开轩 Kaixuan Wang (中科院信工所)
 - 黄婉玲 Wanling Huang (中科院信工所)
@@ -41,8 +48,6 @@
 - 李孟想 Mengxiang Li (中国科技大学)
 
 ## PhD/Master Students, still in Study
-- 郭丞乾 Chengqian Guo (中科院信工所)
-- 李文强 Wenqiang Li (中科院信工所)
 - 刘广祺 Guangqi Liu (中科院信工所)
 - 宋利 Li Song (中科院信工所)
 - 许新 Xin Xu (中科院信工所)
@@ -61,11 +66,6 @@
 - 腾亚均 Yajun Teng (中科院信工所)
 - 万会庆 Huiqing Wan (中科院信工所)
 - 王文杰 Wenjie Wang (中科院信工所)
-- 王一鸣 Yiming Wang (北京大学)
-- 李凯轩 Kaixuan Li (北京大学)
-- 付裕 Yu Fu (中科院信工所)
-- 何雅茜 Yaxi He (中科院信工所)
-- 付彦铎 Yanduo Fu (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
 - 程广深 Guangshen Cheng (中国科技大学)
 - 周天 Tian Zhou (中国科技大学)
