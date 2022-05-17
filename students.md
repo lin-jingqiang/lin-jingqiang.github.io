@@ -47,7 +47,7 @@
 - 张可臻 Kezhen Zhang (电子科技大学)
 - 李孟想 Mengxiang Li (中国科技大学)
 
-## PhD/Master Students, still in Study
+## PhD/Master Students, in Study
 - 刘广祺 Guangqi Liu (中科院信工所)
 - 宋利 Li Song (中科院信工所)
 - 许新 Xin Xu (中科院信工所)
