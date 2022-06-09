@@ -43,6 +43,13 @@
 - 李飞 Fei Li (中科院信工所)
 
 ## Bachelor Students, Defensed
+- 朱文天 Wentian Zhu (华中科技大学)
+- 杨乐 Le Yang (西安电子科技大学)
+- 唐文煦 Wenxu Tang (中国科技大学)
+- 赖俊羽 Junyu Lai (中国科技大学)
+- 菅文浩 Wenhao Jian (中国科技大学)
+- 于孟白 Mengbai Yu (中国科技大学)
+- 成光炜 Guangwei Cheng (中国科技大学)
 - 贾云昊 Yunhao Jia (中国科技大学)
 - 张可臻 Kezhen Zhang (电子科技大学)
 - 李孟想 Mengxiang Li (中国科技大学)
@@ -74,5 +81,12 @@
 - 张可臻 Kezhen Zhang (中国科技大学)
 - 张弘毅 Hongyi Zhang (中国科技大学)
 - 何慧阳 Huiyang He (中国科技大学)
+- 高志权 Zhiquan Gao (中国科技大学)
+- 付裕 Yu Fu (中国科技大学)
+- 唐文煦 Wenxu Tang (中国科技大学)
+- 朱文天 Wentian Zhu (中国科技大学)
+- 杨乐 Le Yang (中国科技大学)
+- 刘冯润 Fengrun Liu (中国科技大学)
+- 郭祥鑫 Xiangxin Guo (中国科技大学)
 
 [Back to Home](./index.html)
