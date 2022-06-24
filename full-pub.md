@@ -54,6 +54,7 @@
 1. Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
+1. Ziqiang Ma, Shuaigang Li, *Jingqiang Lin*, Shuqin Fan, Fan Zhang, Bo Luo, Quanwei Cai, "Another Lattice Attack against ECDSA with the wNAF to Recover More Bits per Signature", **18th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2022.
 1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
 1. Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 1. Yu Fu, Wei Wang, Lingjia Meng, Qiongxiao Wang, Yuan Zhao, *Jingqiang Lin*, "VIRSA: Vectorized In-Register RSA Computation with Memory Disclosure Resistance", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
@@ -135,6 +136,7 @@
 1. Yuan Ma, *Jingqiang Lin*, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, "Entropy Evaluation for Oscillator-based True Random Number Generators", **16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES)**, pp. 544-561, 2014.
 
 ### Threshold Cryptography and Group Communication
+1. Juanjuan Guo, Mengjie Shuai, Qiongxiao Wang, Wenyuan Li, *Jingqiang Lin*, "Replicated Additive Secret Sharing with the Optimized Number of Shares", **18th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2022.
 1. Maomao Fu, Xiaozhuo Gu, Wenhao Dai, *Jingqiang Lin*, Han Wang, "Secure Multi-receiver Communications: Models, Proofs, and Implementation", **19th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)**, pp. 689-709, 2019.
 1. Ming Shang, Yuan Ma, *Jingqiang Lin*, Jiwu Jing, "A Threshold Scheme for the SM2 Algorithm", **Chinese Journal of Cryptologic Research**, Vol. 1, No. 2, pp. 155-166, 2014.
 1. Chunli Lv, Xiaoqi Jia, *Jingqiang Lin*, Jiwu Jing, Lijun Tian, "An Efficient Group-based Secret Sharing Scheme", **7th Information Security Practice and Experience Conference (ISPEC)**, pp. 288-301, 2011.
