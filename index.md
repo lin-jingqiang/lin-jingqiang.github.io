@@ -35,6 +35,7 @@
 - **Threshold Cryptography and Group Communication**
 - **Mobile/IoT Security**
 - **Game Theory for Security**
+- **Multi-Party Computation and Machine Learning Security**
 
 ## Funding and Project
 - Technical Committee of Cryptologic Industry Standardization, Standard on the Cryptologic Technology Framework of Secure Multi-Party Computation
