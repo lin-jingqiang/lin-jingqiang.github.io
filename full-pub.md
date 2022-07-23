@@ -162,6 +162,9 @@
 1. Ming Shang, *Jingqiang Lin*, Xiaokun Zhang, Changwei Xu, "A Game-Theory Analysis of the Rat-group Attack in Smart Grids", **9th IEEE International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP)**, 2014.
 1. *Jingqiang Lin*, Peng Liu, Jiwu Jing, "Using Signaling Games to Model the Multi-step Attack-defense Scenarios on Confidentiality", **3rd Conference on Decision and Game Theory for Security (GameSec)**, pp. 118-137, 2012.
 
+### Multi-Party Computation and Machine Learning Security
+1. Zeyan Liu, Fengjun Li, *Jingqiang Lin*, Zhu Li, Bo Luo, "Hide and Seek: On the Stealthiness of Attacks against Deep Learning Systems", **27th European Symposium on Research in Computer Security (ESORICS)**, 2022.
+
 ### Special Issue on the Security Application of Cryptography (in Chinese) [密码应用安全专题](http://www.sicris.cn/CN/Y2019/V5/I1/14)
 - *Jingqiang Lin*, Jiwu Jing, "The Taxonomy towards the Security Application of Cryptography / 密码应用安全的技术体系探讨", Chinese Journal of Information Security Research / 信息安全研究, Vol. 5, No. 1, pp. 14-22, 2019.
 - Yuan Ma, Tianyu Chen, Xinying Wu, Jing Yang, *Jingqiang Lin*, Jiwu Jing, "Design, Implementation and Testing of Random Number Generators / 随机数发生器的设计与检测", Chinese Journal of Information Security Research / 信息安全研究, Vol. 5, No. 1, pp. 39-49, 2019.
