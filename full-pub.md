@@ -54,7 +54,7 @@
 1. Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
-1. Ziqiang Ma, Shuaigang Li, *Jingqiang Lin*, Shuqin Fan, Fan Zhang, Bo Luo, Quanwei Cai, "Another Lattice Attack against ECDSA with the wNAF to Recover More Bits per Signature", **18th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2022.
+1. Ziqiang Ma, Shuaigang Li, *Jingqiang Lin*, Quanwei Cai, Shuqin Fan, Fan Zhang, Bo Luo, "Another Lattice Attack against ECDSA with the wNAF to Recover More Bits per Signature", **18th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2022.
 1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
 1. Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
 1. Yu Fu, Wei Wang, Lingjia Meng, Qiongxiao Wang, Yuan Zhao, *Jingqiang Lin*, "VIRSA: Vectorized In-Register RSA Computation with Memory Disclosure Resistance", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
