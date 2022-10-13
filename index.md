@@ -77,7 +77,7 @@
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: [SCI Workshop](https://sci.ittc.ku.edu/) (2020 - , in conjunction with ACNS)
 - 2023, TPC Member: ACM AsiaCCS, ICA3PP
-- 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS
+- 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS, Inscrypt
   - TPC Co-Chair: EAI AC3
   - Publicity Co-Chair: SecureComm
 - 2021, TPC Member: ICICS, IEEE ICC, IEEE GLOBECOM, IEEE MASS, Inscrypt, ICA3PP
