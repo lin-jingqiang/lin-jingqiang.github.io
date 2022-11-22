@@ -2,6 +2,10 @@
 **Supervised or Co-supervised**
 
 ## Phd Students, Defensed
+- 万立鹏 Lipeng Wan (中科院信工所)
+- 郎帆 Fan Lang (中科院信工所)
+- 宋利 Li Song (中科院信工所)
+- 许新 Xin Xu (中科院信工所)
 - 郭丞乾 Chengqian Guo (中科院信工所)
 - 李文强 Wenqiang Li (中科院信工所)
 - 高莉莉 Lili Gao (中科院信工所)
@@ -56,11 +60,7 @@
 
 ## PhD/Master Students, in Study
 - 刘广祺 Guangqi Liu (中科院信工所)
-- 宋利 Li Song (中科院信工所)
-- 许新 Xin Xu (中科院信工所)
 - 孟令佳 Lingjia Meng (中科院信工所)
-- 万立鹏 Lipeng Wan (中科院信工所)
-- 郎帆 Fan Lang (中科院信工所)
 - 孙傲卓 Aozhuo Sun (中科院信工所)
 - 张运明 Yunming Zhang (中国科技大学)
 - 吴鹏一 Pengyi Wu (中科院信工所)
