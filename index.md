@@ -91,6 +91,7 @@
   - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
 ## Selected Publication
+1. Guang Fan, Fangyu Zheng, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, *Jingqiang Lin*, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs", **37th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, 2023.
 1. Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Wei Wang, Qi Li, Guangshen Cheng, Jiwu Jing, Congli Wang, "The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild", **IEEE/ACM Transactions on Networking (TON)**, Vol. 30, No. 2, pp. 749-765, 2022.
 1. Ze Wang, *Jingqiang Lin*, Quanwei Cai, Qiongxiao Wang, Daren Zha, Jiwu Jing, "Blockchain-based Certificate Transparency and Revocation Transparency", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 19. No. 1, pp. 681-697, 2022.
 1. Wenqiang Li, Jiameng Shi, Fengjun Li, *Jingqiang Lin*, Wei Wang, Le Guan, "𝜇AFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware", **44th ACM/IEEE International Conference on Software Engineering (ICSE)**, 2022.
