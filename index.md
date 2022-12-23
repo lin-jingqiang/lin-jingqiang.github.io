@@ -75,7 +75,7 @@
 ## Service
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
-- Judge, FinCrypto Cup (2020, 2022)
+- Judge, Global FinCryptography Contest (2020, 2022)
 - TPC Co-Chair: [SCI Workshop](https://sci.ittc.ku.edu/) (2020 - , in conjunction with ACNS)
 - 2023, TPC Member: ACM AsiaCCS, ICA3PP
 - 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS, Inscrypt
