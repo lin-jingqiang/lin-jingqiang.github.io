@@ -83,7 +83,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: [SCI Workshop](https://sci.ittc.ku.edu/) (2020 - , in conjunction with ACNS)
 - Judge, Global FinCryptography Contest (2020, 2022)
-- 2023, TPC Member: ACM AsiaCCS, ICA3PP, ICICS, SVCC
+- 2023, TPC Member: ACM AsiaCCS, SecureComm, ICA3PP, ICICS, SVCC, FCS
 - 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS, Inscrypt
   - TPC Co-Chair: EAI AC3
   - Publicity Co-Chair: SecureComm
