@@ -28,6 +28,7 @@
 
 ### Authentication, Anonymity and Privacy
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, “A Longitudinal and Comprehensive Measurement of DNS Strict Privacy”, **IEEE/ACM Transactions on Networking (TON)**, accepted.
+1. Bowen Xu, Shijie Jia, *Jingqiang Lin*, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu, Li Song, "The Achilles Heel of JWT: Key Management Vulnerability Detection in JWT Applications", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Li Song, Qiongxiao Wang, *Jingqiang Lin*, Shijie Jia, Yingjiu Li, Yikai Chen, “Approach then Connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme”, **IEEE Wireless Communications and Network Conference (WCNC)**, 2022.
 1. Yaxi He, Wei Wang, Yajun Teng, Qiongxiao Wang, Mingyue Wang, *Jingqiang Lin*, “ABLE: Zero-effort Two-factor Authentication Exploiting BLE Co-location”, **IEEE Wireless Communications and Network Conference (WCNC)**, 2022.
 1. Rong Wei, Fangyu Zheng, Lili Gao, Jiankuo Dong, Guang Fan, Lipeng Wan, *Jingqiang Lin*, Yuewu Wang, “Heterogeneous-PAKE: Bridging the Gap between PAKE Protocols and their Real-World Deployment”, **37th Annual Computer Security Applications Conference (ACSAC)**, 2021.
