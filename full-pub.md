@@ -1,7 +1,7 @@
 ## Full Publication (by area / year)
 
 ### PKI and Certificate
-1. Huiqing Wan, Qiongxiao Wang, Yajun Teng, Cunqing Ma, *Jingqiang Lin*, Mingyu Wang, "ImCT: A Feasible Scheme for Deploying Implicit Certificates with Certificate Transparency in IoT", 32nd International Conference on Computer Communications and Networks (ICCCN), 2023.
+1. Huiqing Wan, Qiongxiao Wang, Yajun Teng, Cunqing Ma, *Jingqiang Lin*, Mingyu Wang, "ImCT: A Feasible Scheme for Deploying Implicit Certificates with Certificate Transparency in IoT", **32nd International Conference on Computer Communications and Networks (ICCCN)**, 2023.
 1. Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Wei Wang, Qi Li, Guangshen Cheng, Jiwu Jing, Congli Wang, "The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild", **IEEE/ACM Transactions on Networking (TON)**, Vol. 30, No. 2, pp. 749-765, 2022.
 1. Li Song, Qiongxiao Wang, Shijie Jia, *Jingqiang Lin*, Linli Lu, Yanduo Fu, "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks", **21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2022.
 1. Bingyu Li, *Jingqiang Lin*, Qiongxiao Wang, Ze Wang, Jiwu Jing, "Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 16, pp. 1380-1395, 2021.
