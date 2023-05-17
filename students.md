@@ -6,9 +6,6 @@
 - 孟令佳 Lingjia Meng (中科院信工所)
 - 孙傲卓 Aozhuo Sun (中科院信工所)
 - 张运明 Yunming Zhang (中国科技大学)
-- 吴鹏一 Pengyi Wu (中科院信工所)
-- 范广 Guang Fan (中科院信工所)
-- 郭娟娟 Juanjuan Guo (中科院信工所)
 - 李文渊 Wenyuan Li (中科院信工所)
 - 徐博文 Bowen Xu (中科院信工所)
 - 范浩玲 Haoling Fan (中科院信工所)
@@ -34,6 +31,9 @@
 - 汪恒生 Hengsheng Wang (中国科技大学)
 
 ## Phd Students, Defensed
+- 吴鹏一 Pengyi Wu (中科院信工所)
+- 范广 Guang Fan (中科院信工所)
+- 郭娟娟 Juanjuan Guo (中科院信工所)
 - 万立鹏 Lipeng Wan (中科院信工所)
 - 郎帆 Fan Lang (中科院信工所)
 - 宋利 Li Song (中科院信工所)
