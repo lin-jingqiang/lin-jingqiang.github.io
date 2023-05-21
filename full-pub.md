@@ -1,6 +1,9 @@
 ## Full Publication (by area / year)
 
 ### PKI and Certificate
+1. Aozhuo Sun, Bingyu Li, Qiongxiao Wang, Huiqing Wan, *Jingqiang Lin*, Wei Wang, "Semi-CT: Certificates Transparent to Identity Owners but Opaque to Snoopers", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
+1. Huiqing Wan, Qiongxiao Wang, Cunqing Ma, Yajun Teng, *Jingqiang Lin*, Dingfeng Ye, "ESCORT: Efficient Status Check and Revocation Transparency for Linkage-Based Pseudonym Certificates in VANETs", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
+1. Guangqi Liu, Qiongxiao Wang, Cunqing Ma, *Jingqiang Lin*, Yanduo Fu, Dingfeng Ye, "Inspections at Verification Tools for Microsoft Code-Signing Signatures", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
 1. Huiqing Wan, Qiongxiao Wang, Yajun Teng, Cunqing Ma, *Jingqiang Lin*, Mingyu Wang, "ImCT: A Feasible Scheme for Deploying Implicit Certificates with Certificate Transparency in IoT", **32nd International Conference on Computer Communications and Networks (ICCCN)**, 2023.
 1. Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Wei Wang, Qi Li, Guangshen Cheng, Jiwu Jing, Congli Wang, "The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild", **IEEE/ACM Transactions on Networking (TON)**, Vol. 30, No. 2, pp. 749-765, 2022.
 1. Li Song, Qiongxiao Wang, Shijie Jia, *Jingqiang Lin*, Linli Lu, Yanduo Fu, "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks", **21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2022.
