@@ -89,6 +89,7 @@
 
 ### High-performance Cryptographic Implementation
 1. Guang Fan, Fangyu Zheng, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, *Jingqiang Lin*, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs", **37th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, 2023.
+1. Jiankuo Dong, Pinchang Zhang, Kaisheng Sun, Fu Xiao, Fangyu Zheng, *Jingqiang Lin*, "EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing", **IEEE Transactions on Industrial Informatics**, Vol. 19, No. 6, pp. 7291-7300, 2023.
 1. Wenjie Wang, Wei Wang, *Jingqiang Lin*, Lina Shang, Fan Lang, Dingfeng Ye, "Fast and Parallel Modular Multiplication without Borrow for ECC on ARM-NEON", **57th IEEE International Conference on Communications (ICC)**, 2023.
 1. Lipeng Wan, Fangyu Zheng, Guang Fan, Rong Wei, Lili Gao, Yuewu Wang, *Jingqiang Lin*, Jiankuo Dong, "A Novel High-performance Implementation of CRYSTALS-Kyber with AI Accelerator", **27th European Symposium on Research in Computer Security (ESORICS)**, 2022.
 1. Jiankuo Dong, Fangyu Zheng, *Jingqiang Lin*, Zhe Liu, Fu Xiao, Guang Fan, "EC-ECC: Accelerating Elliptic Curve Cryptography for Edge Computing on Embedded GPU TX2", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 21, No. 2, 16:1-16:25, 2022.
