@@ -14,9 +14,7 @@
 - 万会庆 Huiqing Wan (中科院信工所)
 - 王文杰 Wenjie Wang (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
-- 程广深 Guangshen Cheng (中国科技大学)
 - 周天 Tian Zhou (中国科技大学)
-- 刘振亚 Zhenya Liu (中国科技大学)
 - 贾云昊 Yunhao Jia (中国科技大学)
 - 张可臻 Kezhen Zhang (中国科技大学)
 - 张弘毅 Hongyi Zhang (中国科技大学)
@@ -59,6 +57,8 @@
 - 郑昉昱 Fangyu Zheng (中科院信工所)
 
 ## Master Students, Defensed
+- 程广深 Guangshen Cheng (中国科技大学)
+- 刘振亚 Zhenya Liu (中国科技大学)
 - 付裕 Yu Fu (中科院信工所)
 - 何雅茜 Yaxi He (中科院信工所)
 - 付彦铎 Yanduo Fu (中科院信工所)
