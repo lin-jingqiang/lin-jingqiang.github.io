@@ -61,6 +61,7 @@
 1. Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
+1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, accepted.
 1.	Lingjia Meng, *Jingqiang Lin*, Fangyu Zheng, Fan Lang, Mingyu Wang, "Research on Transient Execution Attacks and Their Impact on Security-Enhanced Software Cryptographic Implementation Schemes", **Chinese Journal of Cyber Security**, 2023.
 1. Fan Lang, Wei Wang, Lingjia Meng, *Jingqiang Lin*, Qiongxiao Wang, Linli Lu, "MoLE: Mitigation of Side-channel Attacks against SGX via Dynamic Data Location Escape", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
 1. Wenqing Li, Shijie Jia, Limin Liu, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, "CryptoGo: Automatic Detection of Go Cryptographic API Misuses", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
