@@ -98,6 +98,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
   - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
 ## Selected Publication
+1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, accepted.
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, "A Longitudinal and Comprehensive Measurement of DNS Strict Privacy", **IEEE/ACM Transactions on Networking (TON)**, accepted.
 1. Bowen Xu, Shijie Jia, *Jingqiang Lin*, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu, Li Song, "The Achilles Heel of JWT: Key Management Vulnerability Detection in JWT Applications", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Guang Fan, Fangyu Zheng, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, *Jingqiang Lin*, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs", **37th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, 2023.
