@@ -1,5 +1,5 @@
 # Students
-**Co-supervised or Supervised**
+**All students in this list are Co-supervised or Supervised**
 
 ## PhD/Master Students, in Study
 - 刘广祺 Guangqi Liu (中科院信工所)
