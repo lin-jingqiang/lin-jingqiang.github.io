@@ -59,6 +59,7 @@
 ## Master Students, Defensed
 - 程广深 Guangshen Cheng (中国科技大学)
 - 刘振亚 Zhenya Liu (中国科技大学)
+- 帅梦杰 Mengjie Shuai (中科院信工所)
 - 付裕 Yu Fu (中科院信工所)
 - 何雅茜 Yaxi He (中科院信工所)
 - 付彦铎 Yanduo Fu (中科院信工所)
