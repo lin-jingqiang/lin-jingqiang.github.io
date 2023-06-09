@@ -80,6 +80,10 @@
 - 李飞 Fei Li (中科院信工所)
 
 ## Bachelor Students, Defensed
+- 童宇 Yu Tong (中国科技大学)
+- 宁祎静 Yijing Ning (中国科技大学)
+- 李光正 Guangzheng Li (中国科技大学)
+- 申宇翔 Yuxiang Shen (华中科技大学)
 - 朱文天 Wentian Zhu (华中科技大学)
 - 杨乐 Le Yang (西安电子科技大学)
 - 唐文煦 Wenxu Tang (中国科技大学)
