@@ -152,7 +152,7 @@
 1. Yuan Ma, *Jingqiang Lin*, Tianyu Chen, Changwei Xu, Zongbin Liu, Jiwu Jing, "Entropy Evaluation for Oscillator-based True Random Number Generators", **16th International Workshop on Cryptographic Hardware and Embedded Systems (CHES)**, pp. 544-561, 2014.
 
 ### Threshold Cryptography and Group Communication
-1. Zhenya Liu, *Jingqiang Lin*, Dengguo Feng, "The Framework of 2-party Threshold Schemes for SM2 Digital Signature", **Chinese Journal of Software**, accepted.
+1. Zhenya Liu, *Jingqiang Lin*, "The Framework of 2-party Threshold Schemes for SM2 Digital Signature", **Chinese Journal of Software**, accepted.
 1. Juanjuan Guo, Mengjie Shuai, Qiongxiao Wang, Wenyuan Li, *Jingqiang Lin*, "Replicated Additive Secret Sharing with the Optimized Number of Shares", **18th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2022.
 1. Maomao Fu, Xiaozhuo Gu, Wenhao Dai, *Jingqiang Lin*, Han Wang, "Secure Multi-receiver Communications: Models, Proofs, and Implementation", **19th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)**, pp. 689-709, 2019.
 1. Ming Shang, Yuan Ma, *Jingqiang Lin*, Jiwu Jing, "A Threshold Scheme for the SM2 Algorithm", **Chinese Journal of Cryptologic Research**, Vol. 1, No. 2, pp. 155-166, 2014.
