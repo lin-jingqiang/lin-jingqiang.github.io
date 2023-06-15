@@ -181,6 +181,7 @@
 
 ### Multi-Party Computation and Machine Learning Security
 1. Zeyan Liu, Fengjun Li, *Jingqiang Lin*, Zhu Li, Bo Luo, "Hide and Seek: On the Stealthiness of Attacks against Deep Learning Systems", **27th European Symposium on Research in Computer Security (ESORICS)**, 2022.
+1. Juanjuan Guo, Qiongxiao Wang, Xin Xu, Tianyu Wang, Jingqiang Lin, "Secure Multiparty Computation and Application in Machine Learning", **Chinese Journal of Computer Research and Development**, Vol. 58, No. 10, pp. 2163-2186, 2021.
 
 ### Special Issue on the Security Application of Cryptography (in Chinese) [密码应用安全专题](http://www.sicris.cn/CN/Y2019/V5/I1/14)
 - *Jingqiang Lin*, Jiwu Jing, "The Taxonomy towards the Security Application of Cryptography / 密码应用安全的技术体系探讨", Chinese Journal of Information Security Research / 信息安全研究, Vol. 5, No. 1, pp. 14-22, 2019.
