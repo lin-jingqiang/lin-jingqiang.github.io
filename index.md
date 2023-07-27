@@ -42,6 +42,10 @@ I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://sci.i
 The aim of the SCI workshop is to provide an international forum of scientific research and development to explore the security issues in the implementation and deployment of cryptographic solutions. We are interested in these main aspects: (1) vulnerabilities and defenses in the implementation of cryptographic algorithms; (2) vulnerabilities and defenses in the implementation of cryptographic protocols; (3) defective cryptographic algorithms and protocols deployed in the wild; (4) weak cryptographic keys and random numbers in the cryptographic implementation; (5) runtime cryptographic key attacks and protections; (6) certificates and key management; (7) misuse or abuse of cryptographic services; and (8) other topics on secure cryptographic implementations.
 
 ## Funding and Project
+- Technical Committee of Cryptologic Industry Standardization, Secure Multi-Party Computation: Mechanisms based on Secret Sharing
+- 密码行业标准化技术委员会 多方安全计算：基于秘密分享的机制
+- Sansec Technologies Co., Ltd., Key Technology of Secure Multi-Party Computations
+- 三未信安科技股份有限公司 多方安全计算关键技术研究
 - Technical Committee of Cryptologic Industry Standardization, Standard on the Cryptologic Technology Framework of Secure Multi-Party Computation
 - 密码行业标准化技术委员会 多方安全计算密码技术框架标准
 - Key RD Plan of Shandong Province, Critical Technology Research and Product Development of Chinese Cryptographic Algorithms (Grant No. 2020CXGC010115)
