@@ -61,6 +61,7 @@
 
 ### Cryptographic Key Protection and Side Channel
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, accepted.
+1. Yunming Zhang, Quanwei Cai, Houqiang Li, *Jingqiang Lin*, Wei Wang, "mShield: Protecting In-process Sensitive Data against Vulnerable Third-Party Libraries", **19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2023.
 1.	Lingjia Meng, *Jingqiang Lin*, Fangyu Zheng, Fan Lang, Mingyu Wang, "Research on Transient Execution Attacks and Their Impact on Security-Enhanced Software Cryptographic Implementation Schemes", **Chinese Journal of Cyber Security**, 2023.
 1. Fan Lang, Wei Wang, Lingjia Meng, *Jingqiang Lin*, Qiongxiao Wang, Linli Lu, "MoLE: Mitigation of Side-channel Attacks against SGX via Dynamic Data Location Escape", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
 1. Wenqing Li, Shijie Jia, Limin Liu, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, "CryptoGo: Automatic Detection of Go Cryptographic API Misuses", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
