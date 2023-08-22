@@ -1,11 +1,10 @@
 # Students
-**All students in this list are Co-supervised or Supervised**
+**All students in this list are Co-supervised or Supervised.**
 
 ## PhD/Master Students, in Study
 - 刘广祺 Guangqi Liu (中科院信工所)
 - 孟令佳 Lingjia Meng (中科院信工所)
 - 孙傲卓 Aozhuo Sun (中科院信工所)
-- 李文渊 Wenyuan Li (中科院信工所)
 - 徐博文 Bowen Xu (中科院信工所)
 - 万会庆 Huiqing Wan (中科院信工所)
 - 王文杰 Wenjie Wang (中科院信工所)
@@ -27,13 +26,16 @@
 - 刘冯润 Fengrun Liu (中国科技大学)
 - 郭祥鑫 Xiangxin Guo (中国科技大学)
 - 汪恒生 Hengsheng Wang (中国科技大学)
+- 杨文登 Wendeng Yang (北京大学)
 - 李鹏举 Pengju Li (中国科技大学)
+- 李仲恒 Zhongheng Li (中国科技大学)
 - 申宇翔 Yuxiang Shen (中国科技大学)
 - 宁祎静 Yijing Ning (中国科技大学)
 - 童宇 Yu Tong (中国科技大学)
 - 李光正 Guangzheng Li (中国科技大学)
 
 ## Phd Students, Defensed
+- 李文渊 Wenyuan Li (中科院信工所)
 - 吴鹏一 Pengyi Wu (中科院信工所)
 - 范广 Guang Fan (中科院信工所)
 - 郭娟娟 Juanjuan Guo (中科院信工所)
