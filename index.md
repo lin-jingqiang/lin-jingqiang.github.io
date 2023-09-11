@@ -37,34 +37,23 @@
 - **Game Theory for Security**
 - **Multi-Party Computation and Machine Learning Security**
 
-I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://sci.ittc.ku.edu/) (SCI).
+I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://acns-sci.github.io/) (SCI Workshop).
 
 The aim of the SCI workshop is to provide an international forum of scientific research and development to explore the security issues in the implementation and deployment of cryptographic solutions. We are interested in these main aspects: (1) vulnerabilities and defenses in the implementation of cryptographic algorithms; (2) vulnerabilities and defenses in the implementation of cryptographic protocols; (3) defective cryptographic algorithms and protocols deployed in the wild; (4) weak cryptographic keys and random numbers in the cryptographic implementation; (5) runtime cryptographic key attacks and protections; (6) certificates and key management; (7) misuse or abuse of cryptographic services; and (8) other topics on secure cryptographic implementations.
 
 ## Funding and Project
-- Technical Committee of Cryptologic Industry Standardization - Secure Multi-Party Computation: Mechanisms based on Secret Sharing
 - 密码行业标准化技术委员会 - 多方安全计算：基于秘密分享的机制
-- Sansec Technologies Co., Ltd. - Key Technology of Secure Multi-Party Computations
 - 三未信安科技股份有限公司 - 多方安全计算关键技术研究
-- Alipay (Hangzhou) Information Technologies Co., Ltd. - GPU-Heterogeneous Acceleration for Fully Homomorphic Encryption (CKKS)
 - 支付宝（杭州）信息技术有限公司 - GPU异构加速全同态密码学算法(CKKS)
-- Technical Committee of Cryptologic Industry Standardization - Standard on the Cryptologic Technology Framework of Secure Multi-Party Computation
 - 密码行业标准化技术委员会 多方安全计算密码技术框架标准
-- Key RD Plan of Shandong Province - Critical Technology Research and Product Development of Chinese Cryptographic Algorithms (Grant No. 2020CXGC010115)
 - 山东省重点研发计划 - 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
-- Huawei Technologies Co., Ltd. - Detection and Identification of Cryptographic Algorithms (Grant No. YBN2020105060)
-- 华为技术有限公司 密码算法检测识别 (课题号YBN2020105060)
-- Cloud Computing & Big Data Program of National Key RD Plan of China - the Security of Cryptography Applied in Blockchain (Grant No. 2020YFB1005803)
+- 华为技术有限公司 密码算法检测识别
 - 国家重点研发计划云计算和大数据专项课题 - 面向区块链关键机制的安全分析与增强技术/区块链密码应用安全技术研究 (课题号2020YFB1005803)
-- Technical Committee of Cryptologic Industry Standardization - Research Task on Cryptologic Technologies of Secure Multi-Party Computation
 - 密码行业标准化技术委员会 - 多方安全计算密码技术研究
-- Cyber Security Program of National Key RD Plan of China - Key Technologies of Cryptographic Service Supporting Infrastructures in the Mobile Internet (Grant No. 2017YFB0802100)
 - 国家重点研发计划网络空间安全专项项目 - 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
-- National Natural Science Foundation of China - Cryptographic Key Protection Technologies on General Computing Platforms (Grant No. 61772518)
+- 航天恒星科技有限公司 - A星地面应用系统安全数据管理中心
 - 国家自然科学基金面上课题 - 通用计算平台的密钥保护技术研究 (项目号61772518)
-- National 973 Program of China - Tenant-controlled Cloud Data Security (Grant No. 2014CB340603)
 - 国家重点基础研究发展计划课题 - 云计算安全基础理论与方法/租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
-- National Cryptology Development Foundation - Key Management for the Cloud Computing Environment (Grant No. MMJJ201101002)
 - 国家密码发展基金课题 - 云计算环境的密钥管理研究 (课题号MMJJ201101002)
 
 ## Award
