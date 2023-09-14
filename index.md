@@ -42,18 +42,18 @@ I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://acns-
 The aim of the SCI workshop is to provide an international forum of scientific research and development to explore the security issues in the implementation and deployment of cryptographic solutions. We are interested in these main aspects: (1) vulnerabilities and defenses in the implementation of cryptographic algorithms; (2) vulnerabilities and defenses in the implementation of cryptographic protocols; (3) defective cryptographic algorithms and protocols deployed in the wild; (4) weak cryptographic keys and random numbers in the cryptographic implementation; (5) runtime cryptographic key attacks and protections; (6) certificates and key management; (7) misuse or abuse of cryptographic services; and (8) other topics on secure cryptographic implementations.
 
 ## Funding and Project
-- 密码行业标准化技术委员会 - 多方安全计算：基于秘密分享的机制
+- 密码行业标准化技术委员会标准制定 - 多方安全计算：基于秘密分享的机制
 - 三未信安科技股份有限公司 - 多方安全计算关键技术研究
 - 支付宝（杭州）信息技术有限公司 - GPU异构加速全同态密码学算法(CKKS)
-- 密码行业标准化技术委员会 多方安全计算密码技术框架标准
-- 山东省重点研发计划 - 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
-- 华为技术有限公司 密码算法检测识别
+- 密码行业标准化技术委员会标准制定 - 多方安全计算密码技术框架标准
+- 山东省重点研发计划项目 - 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
+- 华为技术有限公司 - 密码算法检测识别
 - 国家重点研发计划云计算和大数据专项课题 - 面向区块链关键机制的安全分析与增强技术/区块链密码应用安全技术研究 (课题号2020YFB1005803)
-- 密码行业标准化技术委员会 - 多方安全计算密码技术研究
+- 密码行业标准化技术委员会标准研究 - 多方安全计算密码技术研究
 - 国家重点研发计划网络空间安全专项项目 - 基于国产密码算法的移动互联网密码服务支撑基础设施关键技术 (项目号2017YFB0802100)
 - 航天恒星科技有限公司 - A星地面应用系统安全数据管理中心
 - 国家自然科学基金面上课题 - 通用计算平台的密钥保护技术研究 (项目号61772518)
-- 国家重点基础研究发展计划课题 - 云计算安全基础理论与方法/租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
+- 国家重点基础研究发展973计划课题 - 云计算安全基础理论与方法/租户可控的云数据安全理论与方法研究 (课题号2014CB340603)
 - 国家密码发展基金课题 - 云计算环境的密钥管理研究 (课题号MMJJ201101002)
 
 ## Award
@@ -95,6 +95,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 ## Selected Publication
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, accepted.
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, "A Longitudinal and Comprehensive Measurement of DNS Strict Privacy", **IEEE/ACM Transactions on Networking (TON)**, accepted.
+1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Fengjun Li, Bingyu Li, Shushang Wen, Qiongxiao Wang, Zeyan Liu, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
 1. Yajun Teng, Wei Wang, Jun Shao, Huiqing Wan, Heqing Huang, Yong Liu, *Jingqiang Lin*, "Curveball+: Exploring Curveball-like Vulnerabilities of Implicit Certificate Validation", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Bowen Xu, Shijie Jia, *Jingqiang Lin*, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu, Li Song, "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Guang Fan, Fangyu Zheng, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, *Jingqiang Lin*, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs", **37th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, 2023.
