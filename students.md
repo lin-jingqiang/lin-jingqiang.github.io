@@ -23,7 +23,6 @@
 - 唐文煦 Wenxu Tang (中国科技大学)
 - 朱文天 Wentian Zhu (中国科技大学)
 - 杨乐 Le Yang (中国科技大学)
-- 刘冯润 Fengrun Liu (中国科技大学)
 - 郭祥鑫 Xiangxin Guo (中国科技大学)
 - 汪恒生 Hengsheng Wang (中国科技大学)
 - 杨文登 Wendeng Yang (北京大学)
