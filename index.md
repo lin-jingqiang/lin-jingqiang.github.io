@@ -57,6 +57,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - 国家密码发展基金课题 - 云计算环境的密钥管理研究 (课题号MMJJ201101002)
 
 ## Award
+- 国家“万人”科技创新领军人才计划, 2023.
 - Cryptologic Science and Technology Progress Award of China (1st place, 10th co-winner), 2022. 密码科技进步一等奖.
 - Science and Technology Progress Award, Chinese Institute of Electronics (3rd place, 1st co-winner), 2022. 电子学会科技进步三等奖.
 - Cryptologic Science and Technology Progress Award of China (3rd place, 1st co-winner), 2021. 密码科技进步三等奖.
