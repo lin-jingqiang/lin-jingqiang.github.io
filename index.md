@@ -146,7 +146,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - [List](./full-pub.html)
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
-
+- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en)
 ### Student
 - [List](./students.html)
 
