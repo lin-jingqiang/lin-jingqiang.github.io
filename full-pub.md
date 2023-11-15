@@ -1,7 +1,7 @@
 ## Full Publication (by area / year)
 
 ### PKI and Certificate
-1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Fengjun Li, Bingyu Li, Shushang Wen, Qiongxiao Wang, Zeyan Liu, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
+1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Zeyan Liu, Bingyu Li, Shushang Wen, Qiongxiao Wang, Fengjun Li, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
 1. Yajun Teng, Wei Wang, Jun Shao, Huiqing Wan, Heqing Huang, Yong Liu, *Jingqiang Lin*, "Curveball+: Exploring Curveball-like Vulnerabilities of Implicit Certificate Validation", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Aozhuo Sun, Bingyu Li, Qiongxiao Wang, Huiqing Wan, *Jingqiang Lin*, Wei Wang, "Semi-CT: Certificates Transparent to Identity Owners but Opaque to Snoopers", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
 1. Huiqing Wan, Qiongxiao Wang, Cunqing Ma, Yajun Teng, *Jingqiang Lin*, Dingfeng Ye, "ESCORT: Efficient Status Check and Revocation Transparency for Linkage-Based Pseudonym Certificates in VANETs", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
