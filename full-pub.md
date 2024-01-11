@@ -96,6 +96,7 @@
 
 ### High-performance Cryptographic Implementation
 1. Zhenya Liu, *Jingqiang Lin*, Xuhua Bao, Jiankuo Dong, "An ECQV-Schnorr Signature Aggregation Scheme with Fast Error Detections in Verification for BSMs of IoV", **Chinese Journal of Cryptologic Research**, accepted.
+1. Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, *Jingqiang Lin*, "Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", **26th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2024.
 1. Guang Fan, Fangyu Zheng, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, *Jingqiang Lin*, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs", **37th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, 2023.
 1. Jiankuo Dong, Pinchang Zhang, Kaisheng Sun, Fu Xiao, Fangyu Zheng, *Jingqiang Lin*, "EG-FourQ: An Embedded GPU based Efficient ECC Cryptography Accelerator for Edge Computing", **IEEE Transactions on Industrial Informatics (TII)**, Vol. 19, No. 6, pp. 7291-7300, 2023.
 1. Wenjie Wang, Wei Wang, *Jingqiang Lin*, Lina Shang, Fan Lang, Dingfeng Ye, "Fast and Parallel Modular Multiplication without Borrow for ECC on ARM-NEON", **57th IEEE International Conference on Communications (ICC)**, 2023.
