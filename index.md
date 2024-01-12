@@ -79,7 +79,8 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: [SCI Workshop](https://acns-sci.github.io/) (2020 - , in conjunction with ACNS)
-- Judge, Global FinCryptography Contest (2020, 2022)
+- 全国密码专业学位研究生教育指导委员会委员
+- “金融密码杯”全国密码应用和技术创新大赛评委 (2020, 2022)
 - 2024, TPC Member: IEEE WCNC
 - 2023, TPC Member: ACM AsiaCCS, SecureComm, ICA3PP, ICICS, IEEE GLOBECOM, SVCC, FCS
 - 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS, Inscrypt
