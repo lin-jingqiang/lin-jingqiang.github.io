@@ -64,6 +64,8 @@
 1. Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
+1. Mingyu Wang, Lingjia Meng, Fangyu Zheng, *Jingqiang Lin*, Shijie Jia, Yuan Ma, Haoling Fan, "TLTracer: Dynamically Detecting Cache Side Channel Attacks with a Timing Loop Tracer", **58th IEEE International Conference on Communications (ICC)**, 2024.
+1. Mingyu Wang, Shijie Jia, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, Lingjia Meng, Ziqiang Ma, "TF-Timer: Mitigating Cache Side-Channel Attacks in Cloud through a Targeted Fuzzy Timer", **IEEE Wireless Communications and Network Conference (WCNC)**, 2024.
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 22, No. 6, pp. 1-12, 2023.
 1. Lingjia Meng, Yu Fu, Fangyu Zheng, Ziqiang Ma, Mingyu Wang, Dingfeng Ye, *Jingqiang Lin*, "Protecting Private Keys of Dilithium using Hardware Transactional Memory", **26th Information Security Conference (ISC)**, 2023.
 1. Yunming Zhang, Quanwei Cai, Houqiang Li, *Jingqiang Lin*, Wei Wang, "mShield: Protecting In-process Sensitive Data against Vulnerable Third-Party Libraries", **19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2023.
