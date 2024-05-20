@@ -2,15 +2,11 @@
 **All students in this list are Co-supervised or Supervised.**
 
 ## PhD/Master Students, in Study
-- 孟令佳 Lingjia Meng (中科院信工所)
 - 张运明 Yunming Zhang (中国科技大学)
-- 范浩玲 Haoling Fan (中科院信工所)
-- 王名宇 Mingyu Wang (中科院信工所)
 - 腾亚均 Yajun Teng (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
 - 周天 Tian Zhou (中国科技大学)
 - 贾云昊 Yunhao Jia (中国科技大学)
-- 张可臻 Kezhen Zhang (中国科技大学)
 - 张弘毅 Hongyi Zhang (中国科技大学)
 - 何慧阳 Huiyang He (中国科技大学)
 - 高志权 Zhiquan Gao (中国科技大学)
@@ -29,6 +25,9 @@
 - 李光正 Guangzheng Li (中国科技大学)
 
 ## Phd Students, Defensed
+- 孟令佳 Lingjia Meng (中科院信工所)
+- 王名宇 Mingyu Wang (中科院信工所)
+- 范浩玲 Haoling Fan (中科院信工所)
 - 王文杰 Wenjie Wang (中科院信工所)
 - 徐博文 Bowen Xu (中科院信工所)
 - 孙傲卓 Aozhuo Sun (中科院信工所)
@@ -64,6 +63,7 @@
 - 郑昉昱 Fangyu Zheng (中科院信工所)
 
 ## Master Students, Defensed
+- 张可臻 Kezhen Zhang (中国科技大学)
 - 程广深 Guangshen Cheng (中国科技大学)
 - 刘振亚 Zhenya Liu (中国科技大学)
 - 帅梦杰 Mengjie Shuai (中科院信工所)
