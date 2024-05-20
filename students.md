@@ -16,7 +16,6 @@
 - 杨乐 Le Yang (中国科技大学)
 - 郭祥鑫 Xiangxin Guo (中国科技大学)
 - 汪恒生 Hengsheng Wang (中国科技大学)
-- 杨文登 Wendeng Yang (北京大学)
 - 李鹏举 Pengju Li (中国科技大学)
 - 李仲恒 Zhongheng Li (中国科技大学)
 - 申宇翔 Yuxiang Shen (中国科技大学)
@@ -64,6 +63,7 @@
 
 ## Master Students, Defensed
 - 张可臻 Kezhen Zhang (中国科技大学)
+- 杨文登 Wendeng Yang (北京大学)
 - 程广深 Guangshen Cheng (中国科技大学)
 - 刘振亚 Zhenya Liu (中国科技大学)
 - 帅梦杰 Mengjie Shuai (中科院信工所)
