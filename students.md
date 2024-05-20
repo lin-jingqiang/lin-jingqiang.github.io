@@ -1,5 +1,5 @@
 # Students
-**All students in this list are Co-supervised or Supervised.**
+**Students in this list are Co-supervised or Supervised.**
 
 ## PhD/Master Students, in Study
 - 张运明 Yunming Zhang (中国科技大学)
