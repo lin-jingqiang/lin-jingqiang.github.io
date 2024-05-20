@@ -16,6 +16,7 @@
 - 杨乐 Le Yang (中国科技大学)
 - 郭祥鑫 Xiangxin Guo (中国科技大学)
 - 汪恒生 Hengsheng Wang (中国科技大学)
+- 赵楚扬 Chuyang Zhao (中国科技大学)
 - 李鹏举 Pengju Li (中国科技大学)
 - 李仲恒 Zhongheng Li (中国科技大学)
 - 申宇翔 Yuxiang Shen (中国科技大学)
