@@ -64,12 +64,13 @@
 1. Haijiao Liu, Jiwu Jing, *Jingqiang Lin*, Jiao Du, "Building an Intrusion Tolerant Repository", **Journal of Graduate School of Chinese Academy of Sciences**, Vol. 23, No. 1, pp. 46-51, 2006.
 
 ### Cryptographic Key Protection and Side Channel
+1. Mingyu Wang, Fangyu Zheng, *Jingqiang Lin*, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
 1. Mingyu Wang, Lingjia Meng, Fangyu Zheng, *Jingqiang Lin*, Shijie Jia, Yuan Ma, Haoling Fan, "TLTracer: Dynamically Detecting Cache Side Channel Attacks with a Timing Loop Tracer", **58th IEEE International Conference on Communications (ICC)**, 2024.
 1. Mingyu Wang, Shijie Jia, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, Lingjia Meng, Ziqiang Ma, "TF-Timer: Mitigating Cache Side-Channel Attacks in Cloud through a Targeted Fuzzy Timer", **IEEE Wireless Communications and Network Conference (WCNC)**, 2024.
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 22, No. 6, pp. 1-12, 2023.
 1. Lingjia Meng, Yu Fu, Fangyu Zheng, Ziqiang Ma, Mingyu Wang, Dingfeng Ye, *Jingqiang Lin*, "Protecting Private Keys of Dilithium using Hardware Transactional Memory", **26th Information Security Conference (ISC)**, 2023.
 1. Yunming Zhang, Quanwei Cai, Houqiang Li, *Jingqiang Lin*, Wei Wang, "mShield: Protecting In-process Sensitive Data against Vulnerable Third-Party Libraries", **19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2023.
-1. Haoling Fan, Fangyu Zheng, *Jingqiang Lin*, Lingjia Meng, Mingyu Wang, Qiang Wang, Shijie Jia, Yuan Ma, "A Hybrid Detection Approach for Cryptographic Algorithms of Closed Source Software", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
+1. Haoling Fan, Fangyu Zheng, *Jingqiang Lin*, Lingjia Meng, Mingyu Wang, Qiang Wang, Shijie Jia, Yuan Ma, "Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
 1. Lingjia Meng, *Jingqiang Lin*, Fangyu Zheng, Fan Lang, Mingyu Wang, "Research on Transient Execution Attacks and Their Impact on Security-Enhanced Software Cryptographic Implementation Schemes", **Chinese Journal of Cyber Security**, 2023.
 1. Fan Lang, Wei Wang, Lingjia Meng, *Jingqiang Lin*, Qiongxiao Wang, Linli Lu, "MoLE: Mitigation of Side-channel Attacks against SGX via Dynamic Data Location Escape", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
 1. Wenqing Li, Shijie Jia, Limin Liu, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, "CryptoGo: Automatic Detection of Go Cryptographic API Misuses", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
@@ -147,6 +148,7 @@
 1. Quanwei Cai, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, "SEDB: Building Secure Database Services for Sensitive Data", **16th International Conference on Information and Communications Security (ICICS)**, pp. 16-30, 2014.
 
 ### Randomness Theory and Applications
+1. Tianyu Chen, Shijie Jia, Yuan Ma, Yuan Cao, Na Lv, Wei Wang, Jing Yang, *Jingqiang Lin*, "A Design of High-Efficiency Coherent Sampling based TRNG with On-Chip Entropy Assurance", **IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I)**, Vol. 70, No. 12, pp. 5060-5073, 2023.
 1. Tianyu Chen, Yuan Ma, *Jingqiang Lin*, Yuan Cao, Na Lv, Jiwu Jing, "A Lightweight Full Entropy TRNG with On-chip Entropy Assurance", **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCADICS)**, Vol. 40, No. 12, pp. 2431-2444, 2021.
 1. Shuangyi Zhu, Yuan Ma, Xusheng Li, Jing Yang, *Jingqiang Lin*, Jiwu Jing, "On the Analysis and Improvement of Min-entropy Estimation on Time-varying Data", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 15, pp. 1696-1708, 2020.
 1. Na Lv, Tianyu Chen, Shuangyi Zhu, Jing Yang, Yuan Ma, Jiwu Jing, *Jingqiang Lin*, "High-efficiency Min-entropy Estimation based on Neural Network for Random Number Generators", **Security and Communication Networks (SCN)**, Article 4241713, 2020.
