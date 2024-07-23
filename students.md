@@ -23,6 +23,10 @@
 - 宁祎静 Yijing Ning (中国科技大学)
 - 童宇 Yu Tong (中国科技大学)
 - 李光正 Guangzheng Li (中国科技大学)
+- 王家辰 Jiachen Wang (中国科技大学)
+- 沈昕 Xin Shen (中国科技大学)
+- 张建辉 Jianhui Zhang (中国科技大学)
+- 李天赐 Tianci Li (中国科技大学)
 
 ## Phd Students, Defensed
 - 孟令佳 Lingjia Meng (中科院信工所)
@@ -86,21 +90,5 @@
 - 侯岳晗 Yuehan Hou (中科院信工所)
 - 李健 Jian Li (中科院信工所)
 - 李飞 Fei Li (中科院信工所)
-
-## Bachelor Students, Defensed
-- 童宇 Yu Tong (中国科技大学)
-- 宁祎静 Yijing Ning (中国科技大学)
-- 李光正 Guangzheng Li (中国科技大学)
-- 申宇翔 Yuxiang Shen (华中科技大学)
-- 朱文天 Wentian Zhu (华中科技大学)
-- 杨乐 Le Yang (西安电子科技大学)
-- 唐文煦 Wenxu Tang (中国科技大学)
-- 赖俊羽 Junyu Lai (中国科技大学)
-- 菅文浩 Wenhao Jian (中国科技大学)
-- 于孟白 Mengbai Yu (中国科技大学)
-- 成光炜 Guangwei Cheng (中国科技大学)
-- 贾云昊 Yunhao Jia (中国科技大学)
-- 张可臻 Kezhen Zhang (电子科技大学)
-- 李孟想 Mengxiang Li (中国科技大学)
 
 [Back to Home](./index.html)
