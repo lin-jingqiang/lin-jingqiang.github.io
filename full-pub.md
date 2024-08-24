@@ -2,13 +2,11 @@
 
 ### PKI and Certificate
 1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Zeyan Liu, Bingyu Li, Shushang Wen, Qiongxiao Wang, Fengjun Li, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
-1. Yajun Teng, Wei Wang, Jun Shao, Huiqing Wan, Heqing Huang, Yong Liu, *Jingqiang Lin*, "Curveball+: Exploring Curveball-like Vulnerabilities of Implicit Certificate Validation", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Aozhuo Sun, Bingyu Li, Qiongxiao Wang, Huiqing Wan, *Jingqiang Lin*, Wei Wang, "Semi-CT: Certificates Transparent to Identity Owners but Opaque to Snoopers", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
 1. Huiqing Wan, Qiongxiao Wang, Cunqing Ma, Yajun Teng, *Jingqiang Lin*, Dingfeng Ye, "ESCORT: Efficient Status Check and Revocation Transparency for Linkage-Based Pseudonym Certificates in VANETs", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
 1. Huiqing Wan, Qiongxiao Wang, Yajun Teng, Cunqing Ma, *Jingqiang Lin*, Mingyu Wang, "ImCT: A Feasible Scheme for Deploying Implicit Certificates with Certificate Transparency in IoT", **32nd International Conference on Computer Communications and Networks (ICCCN)**, 2023.
 1. Guangqi Liu, Qiongxiao Wang, Cunqing Ma, *Jingqiang Lin*, Yanduo Fu, Bingyu Li, Dingfeng Ye, "The Broken Verifying: Inspections at Verification Tools for Windows Code-Signing Signatures", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
 1. Bingyu Li, *Jingqiang Lin*, Fengjun Li, Qiongxiao Wang, Wei Wang, Qi Li, Guangshen Cheng, Jiwu Jing, Congli Wang, "The Invisible Side of Certificate Transparency: Exploring the Reliability of Monitors in the Wild", **IEEE/ACM Transactions on Networking (TON)**, Vol. 30, No. 2, pp. 749-765, 2022.
-1. Li Song, Qiongxiao Wang, Shijie Jia, *Jingqiang Lin*, Linli Lu, Yanduo Fu, "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks", **21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2022.
 1. Bingyu Li, *Jingqiang Lin*, Qiongxiao Wang, Ze Wang, Jiwu Jing, "Locally-centralized Certificate Validation and Its Application in Desktop Virtualization Systems", **IEEE Transactions on Information Forensics and Security (TIFS)**, Vol. 16, pp. 1380-1395, 2021.
 1. Wanling Huang, *Jingqiang Lin*, Qiongxiao Wang, Yajun Teng, Huiqing Wan, Wei Wang, “Certificate Transparency for ECQV Implicit Certificates”, **55th IEEE International Conference on Communications (ICC)**, 2021.
 1. Yanduo Fu, Qiongxiao Wang, *Jingqiang Lin*, Aozhuo Sun, Linli Lu, "Exploring the Security Issues of Trusted CA Certificate Management", **23rd International Conference on Information and Communications Security (ICICS)**, 2021.
@@ -34,7 +32,6 @@
 
 ### Authentication, Anonymity and Privacy
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, “A Longitudinal and Comprehensive Measurement of DNS Strict Privacy”, **IEEE/ACM Transactions on Networking (TON)**, Vol. 31, No. 6, pp. 2793-2808, 2023.
-1. Bowen Xu, Shijie Jia, *Jingqiang Lin*, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu, Li Song, "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
 1. Guangqi Liu, *Jingqiang Lin*, Dawei Chu, Xiaokun Zhang, Qiongxiao Wang, Cunqing Ma, Fengjun Li, Dingfeng Ye, "Enhanced Ticket Transparency (eTT) Framework for Single Sign-On Services with Pseudonyms", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
 1. Li Song, Qiongxiao Wang, *Jingqiang Lin*, Shijie Jia, Yingjiu Li, Yikai Chen, “Approach then Connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme”, **IEEE Wireless Communications and Network Conference (WCNC)**, 2022.
 1. Yaxi He, Wei Wang, Yajun Teng, Qiongxiao Wang, Mingyue Wang, *Jingqiang Lin*, “ABLE: Zero-effort Two-factor Authentication Exploiting BLE Co-location”, **IEEE Wireless Communications and Network Conference (WCNC)**, 2022.
@@ -70,10 +67,8 @@
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 22, No. 6, pp. 1-12, 2023.
 1. Lingjia Meng, Yu Fu, Fangyu Zheng, Ziqiang Ma, Mingyu Wang, Dingfeng Ye, *Jingqiang Lin*, "Protecting Private Keys of Dilithium using Hardware Transactional Memory", **26th Information Security Conference (ISC)**, 2023.
 1. Yunming Zhang, Quanwei Cai, Houqiang Li, *Jingqiang Lin*, Wei Wang, "mShield: Protecting In-process Sensitive Data against Vulnerable Third-Party Libraries", **19th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2023.
-1. Haoling Fan, Fangyu Zheng, *Jingqiang Lin*, Lingjia Meng, Mingyu Wang, Qiang Wang, Shijie Jia, Yuan Ma, "Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
 1. Lingjia Meng, *Jingqiang Lin*, Fangyu Zheng, Fan Lang, Mingyu Wang, "Research on Transient Execution Attacks and Their Impact on Security-Enhanced Software Cryptographic Implementation Schemes", **Chinese Journal of Cyber Security**, 2023.
 1. Fan Lang, Wei Wang, Lingjia Meng, *Jingqiang Lin*, Qiongxiao Wang, Linli Lu, "MoLE: Mitigation of Side-channel Attacks against SGX via Dynamic Data Location Escape", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
-1. Wenqing Li, Shijie Jia, Limin Liu, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, "CryptoGo: Automatic Detection of Go Cryptographic API Misuses", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
 1. Ziqiang Ma, Shuaigang Li, *Jingqiang Lin*, Quanwei Cai, Shuqin Fan, Fan Zhang, Bo Luo, "Another Lattice Attack against ECDSA with the wNAF to Recover More Bits per Signature", **18th EAI International Conference on Security and Privacy in Communication Networks (SecureComm)**, 2022.
 1. *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security", **China Machine Press**, **ISBN 9787111679578**, 2021.
 1. Congwu Li, Le Guan (co-first author), *Jingqiang Lin*, Bo Luo, Quanwei Cai, Jiwu Jing, Jing Wang, "Mimosa: Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, Vol. 18, No. 3, pp. 1196-1213, 2021.
@@ -129,7 +124,14 @@
 1. Yuan Ma, Luning Xia, *Jingqiang Lin*, Jiwu Jing, Zongbin Liu, Xingjie Yu, "Hardware Performance Optimization and Evaluation of SM3 Hash Algorithm on FPGA", **14th International Conference on Information and Communications Security (ICICS)**, pp. 105-118, 2012.
 
 ### Cryptographic Misuse Detection
-
+1. Yuexi Zhang, Bingyu Li, *Jingqiang Lin*, Linghui Li, Jiaju Bai, Shijie Jia, Qianhong Wu, "Gopher: High-Precision and Deep-Dive Detection of Cryptographic API Misuse in the Go Ecosystem", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
+1. Xiangxin Guo, *Jingqiang Lin*, Shijie Jia, Guangzheng Li, "Security Analysis of Cryptographic Application Code Generated by Large Language Model", **Netinfo Security (Chinese)**, Vol. 6, pp. 917-925, 2024.
+GUO Xiangxin, LIN Jingqiang, JIA Shijie, LI Guangzheng
+1. Bowen Xu, Shijie Jia, *Jingqiang Lin*, Fangyu Zheng, Yuan Ma, Limin Liu, Xiaozhuo Gu, Li Song, "JWTKey: Automatic Cryptographic Vulnerability Detection in JWT Applications", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
+1. Yajun Teng, Wei Wang, Jun Shao, Huiqing Wan, Heqing Huang, Yong Liu, *Jingqiang Lin*, "Curveball+: Exploring Curveball-like Vulnerabilities of Implicit Certificate Validation", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
+1. Haoling Fan, Fangyu Zheng, *Jingqiang Lin*, Lingjia Meng, Mingyu Wang, Qiang Wang, Shijie Jia, Yuan Ma, "Hydamc: A Hybrid Detection Approach for Misuse of Cryptographic Algorithms in Closed-Source Software", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
+1. Wenqing Li, Shijie Jia, Limin Liu, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, "CryptoGo: Automatic Detection of Go Cryptographic API Misuses", **38th Annual Computer Security Applications Conference (ACSAC)**, 2022.
+1. Li Song, Qiongxiao Wang, Shijie Jia, *Jingqiang Lin*, Linli Lu, Yanduo Fu, "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks", **21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2022.
 
 ### Cloud Security
 1. Xin Xu, Wei Wang, *Jingqiang Lin*, Zhen Yang, Haoling Fan, Qiongxiao Wang, “LiTIV: A Lightweight Traceable Data Integrity Verification Scheme for Version Control Systems”, **31th International Conference on Computer Communications and Networks (ICCCN)**, 2022.
