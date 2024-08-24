@@ -133,6 +133,7 @@
 1. Li Song, Qiongxiao Wang, Shijie Jia, *Jingqiang Lin*, Linli Lu, Yanduo Fu, "You Cannot Fully Trust Your Device: An Empirical Study of Client-Side Certificate Validation in WPA2-Enterprise Networks", **21st IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2022.
 
 ### Cloud Security
+1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, "When Virtualization Meets Applied Cryptography: Current Status and Future Trend", **Chinese Journal of Cryptologic Research**, Vol. 11, No. 1, pp. 3-21, 2024.
 1. Xin Xu, Wei Wang, *Jingqiang Lin*, Zhen Yang, Haoling Fan, Qiongxiao Wang, “LiTIV: A Lightweight Traceable Data Integrity Verification Scheme for Version Control Systems”, **31th International Conference on Computer Communications and Networks (ICCCN)**, 2022.
 1. Dongzheng Jia, Yang Zhang, Shijie Jia, Limin Liu, *Jingqiang Lin*, "DPVGeo: Delay-based Public Verification of Cloud Data Geolocation", **25th IEEE Symposium on Computers and Communications (ISCC)**, 2020.
 1. Yang Zhang, Dongzheng Jia (co-first author), Shijie Jia, Limin Liu, *Jingqiang Lin*, "Splitter: An Efficient Scheme to Determine the Geolocation of Cloud Data Publicly", **29th International Conference on Computer Communications and Networks (ICCCN)**, 2020.
