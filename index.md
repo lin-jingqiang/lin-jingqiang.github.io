@@ -100,7 +100,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
   - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
 ## Selected Publication
-1. Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using4-Directional Manipulation", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
+1. Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
 1. Yuexi Zhang, Bingyu Li, *Jingqiang Lin*, Linghui Li, Jiaju Bai, Shijie Jia, Qianhong Wu, "Gopher: High-Precision and Deep-Dive Detection of Cryptographic API Misuse in the Go Ecosystem", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
 1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Zeyan Liu, Bingyu Li, Shushang Wen, Qiongxiao Wang, Fengjun Li, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
 1. Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, *Jingqiang Lin*, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", **26th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2024.
