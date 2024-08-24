@@ -93,6 +93,7 @@
 1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
+1. Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using4-Directional Manipulation", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
 1. Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, *Jingqiang Lin*, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", **26th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2024.
 1. Jiankuo Dong, Yusheng Fu, Xusheng Qin, Zhenjiang Dong, Fu Xiao, *Jingqiang Lin*, "ECO-BIKE: Bridging the Gap Between PQC BIKE and GPU Acceleration", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
 1. Guang Fan, Fangyu Zheng, Lipeng Wan, Lili Gao, Yuan Zhao, Jiankuo Dong, Yixuan Song, Yuewu Wang, *Jingqiang Lin*, "Towards Faster Fully Homomorphic Encryption Implementation with Integer and Floating-point Computing Power of GPUs", **37th IEEE International Parallel and Distributed Processing Symposium (IPDPS)**, 2023.
@@ -200,7 +201,7 @@
 
 ### Multi-Party Computation and Machine Learning Security
 1. Zeyan Liu, Fengjun Li, *Jingqiang Lin*, Zhu Li, Bo Luo, "Hide and Seek: On the Stealthiness of Attacks against Deep Learning Systems", **27th European Symposium on Research in Computer Security (ESORICS)**, 2022.
-1. Juanjuan Guo, Qiongxiao Wang, Xin Xu, Tianyu Wang, Jingqiang Lin, "Secure Multiparty Computation and Application in Machine Learning", **Chinese Journal of Computer Research and Development**, Vol. 58, No. 10, pp. 2163-2186, 2021.
+1. Juanjuan Guo, Qiongxiao Wang, Xin Xu, Tianyu Wang, *Jingqiang Lin*, "Secure Multiparty Computation and Application in Machine Learning", **Chinese Journal of Computer Research and Development**, Vol. 58, No. 10, pp. 2163-2186, 2021.
 
 ### Special Issue on the Security Application of Cryptography (in Chinese) [密码应用安全专题](http://www.sicris.cn/CN/Y2019/V5/I1/14)
 - *Jingqiang Lin*, Jiwu Jing, "The Taxonomy towards the Security Application of Cryptography / 密码应用安全的技术体系探讨", Chinese Journal of Information Security Research / 信息安全研究, Vol. 5, No. 1, pp. 14-22, 2019.
