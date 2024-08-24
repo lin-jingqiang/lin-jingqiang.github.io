@@ -30,6 +30,7 @@
 - **Fault Tolerance, Blockchain and Transparency**
 - **Cryptographic Key Protection and Side Channel**
 - **High-performance Cryptographic Implementation**
+- **Cryptographic Misuse Detection**
 - **Cloud Security**
 - **Randomness Theory and Applications**
 - **Threshold Cryptography and Group Communication**
@@ -99,10 +100,12 @@ The aim of the SCI workshop is to provide an international forum of scientific r
   - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
 ## Selected Publication
+1. Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using4-Directional Manipulation", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
+1. Yuexi Zhang, Bingyu Li, *Jingqiang Lin*, Linghui Li, Jiaju Bai, Shijie Jia, Qianhong Wu, "Gopher: High-Precision and Deep-Dive Detection of Cryptographic API Misuse in the Go Ecosystem", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
 1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Zeyan Liu, Bingyu Li, Shushang Wen, Qiongxiao Wang, Fengjun Li, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
 1. Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, *Jingqiang Lin*, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", **26th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2024.
 1. Mingyu Wang, Fangyu Zheng, *Jingqiang Lin*, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
-1. Jiankuo Dong, Yusheng Fu, Xusheng Qin, Zhenjiang Dong, Fu Xiao, *Jingqiang Lin*, "ECO-BIKE: Bridging the Gap Between PQC BIKE and GPU Acceleration", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
+1. Jiankuo Dong, Yusheng Fu, Xusheng Qin, Zhenjiang Dong, Fu Xiao, *Jingqiang Lin*, "ECO-BIKE: Bridging the Gap between PQC BIKE and GPU Acceleration", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, "A Longitudinal and Comprehensive Measurement of DNS Strict Privacy", **IEEE/ACM Transactions on Networking (TON)**, Vol. 31, No. 6, pp. 2793-2808, 2023.
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 22, No. 6, pp. 1-12, 2023.
 1. Yajun Teng, Wei Wang, Jun Shao, Huiqing Wan, Heqing Huang, Yong Liu, *Jingqiang Lin*, "Curveball+: Exploring Curveball-like Vulnerabilities of Implicit Certificate Validation", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
