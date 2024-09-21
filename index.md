@@ -60,7 +60,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 
 ## Award
 - National 10K-Person ST Innovation Plan, 2023. 国家“万人计划”科技创新领军人才.
-- USTC Anheng-Info Distinguished Teacher, 2023. 中国科大安恒信息教师奖.
+- USTC Anheng-Info Distinguished Teacher, 2023. 中国科大安恒信息优秀教师奖.
 - Cryptologic Science and Technology Progress Award of China (1st place, 10th co-winner), 2022. 密码科技进步一等奖.
 - Science and Technology Progress Award, Chinese Institute of Electronics (3rd place, 1st co-winner), 2022. 电子学会科技进步三等奖.
 - Cryptologic Science and Technology Progress Award of China (3rd place, 1st co-winner), 2021. 密码科技进步三等奖.
