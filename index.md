@@ -153,6 +153,10 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 1. Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 1. *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
+### 技术标准
+- GB/T 29241-2012 PKI互操作性评估准则，荆继武、马存庆、林璟锵、查达仁、吴晶晶等。
+- GM/T 0127-2023 移动终端密码模块应用接口规范，林璟锵、贾世杰、郑昉昱、徐博文、马原等。
+
 ### Full Publication
 - [List](./full-pub.html)
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
