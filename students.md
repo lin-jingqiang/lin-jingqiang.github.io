@@ -23,6 +23,8 @@
 - 宁祎静 Yijing Ning (中国科技大学)
 - 童宇 Yu Tong (中国科技大学)
 - 李光正 Guangzheng Li (中国科技大学)
+- 张佰韬 Baitao Zhang (中国科技大学)
+- 冯志 Zhi Feng (中国科技大学)
 - 王家辰 Jiachen Wang (中国科技大学)
 - 沈昕 Xin Shen (中国科技大学)
 - 张建辉 Jianhui Zhang (中国科技大学)
