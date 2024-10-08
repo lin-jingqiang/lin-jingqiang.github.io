@@ -49,7 +49,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - 商用密码检测中心 - 商用密码发展动态
 - 支付宝（杭州）信息技术有限公司 - GPU异构加速全同态密码学算法(CKKS)
 - 密码行业标准化技术委员会标准制定 - 多方安全计算密码技术框架标准
-- 山东省重点研发计划项目 - 国产密码关键技术研究与产品开发 (课题号2020CXGC010115)
+- 山东省重点研发计划项目 - 国产密码关键技术研究与产品开发 (项目号2020CXGC010115)
 - 华为技术有限公司 - 密码算法检测识别
 - 国家重点研发计划课题 - 面向区块链关键机制的安全分析与增强技术/区块链密码应用安全技术研究 (课题号2020YFB1005803)
 - 密码行业标准化技术委员会标准研究 - 多方安全计算密码技术研究
@@ -110,6 +110,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 1. Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, *Jingqiang Lin*, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", **26th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2024.
 1. Mingyu Wang, Fangyu Zheng, *Jingqiang Lin*, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
 1. Jiankuo Dong, Yusheng Fu, Xusheng Qin, Zhenjiang Dong, Fu Xiao, *Jingqiang Lin*, "ECO-BIKE: Bridging the Gap between PQC BIKE and GPU Acceleration", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
+1. Xinyi Ji, Jiankuo Dong, Junhao Huang, Zhijian Yuan, Wangchen Dai, Fu Xiao, *Jingqiang Lin*, "ECO-CRYSTALS: Efficient Cryptography CRYSTALS on Standard RISC-V ISA", **IEEE Transactions on Computers (TC)**, 2024.
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, "A Longitudinal and Comprehensive Measurement of DNS Strict Privacy", **IEEE/ACM Transactions on Networking (TON)**, Vol. 31, No. 6, pp. 2793-2808, 2023.
 1. Yu Fu, *Jingqiang Lin*, Dengguo Feng, Wei Wang, Mingyu Wang, Wenjie Wang, "RegKey: A Register-based Implementation of ECC Signature Algorithms against One-shot Memory Disclosure", **ACM Transactions on Embedded Computing Systems (TECS)**, Vol. 22, No. 6, pp. 1-12, 2023.
 1. Yajun Teng, Wei Wang, Jun Shao, Huiqing Wan, Heqing Huang, Yong Liu, *Jingqiang Lin*, "Curveball+: Exploring Curveball-like Vulnerabilities of Implicit Certificate Validation", **28th European Symposium on Research in Computer Security (ESORICS)**, 2023.
