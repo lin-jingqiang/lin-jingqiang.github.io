@@ -1,6 +1,8 @@
 # Welcome to Jingqiang Lin's Pages
 **Applied cryptography in the real world, information security in different views.**
 
+林璟锵，中国科学技术大学 网络空间安全学院
+
 ## Career
 - 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
 - 2020.08 - , 中国科学技术大学网络空间安全学院，教授
@@ -164,7 +166,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
 - [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 21, i10-index 53
 
-### Technical Standard 技术标准
+### Technical Standard
 - **密码行业标准GM/T 0127-2023 移动终端密码模块应用接口规范**，林璟锵、贾世杰、郑昉昱、徐博文、马原等。
 - **国家标准GB/T 31508-2015 数字证书策略分级分类规范**，荆继武、高能、林璟锵、王展、马存庆等。
 - **国家标准GB/T 29241-2012 PKI互操作性评估准则**，荆继武、马存庆、林璟锵、查达仁、吴晶晶等。
