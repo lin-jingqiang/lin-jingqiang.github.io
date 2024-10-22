@@ -175,5 +175,13 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 ### Student
 - [List](./students.html)
 
+### 课程开设
+- **密码工程原理与实践**，中国科学技术大学
+- **通信网络的安全理论与技术**，中国科学技术大学
+- **网络认证技术**，中国科学院研究生院/中国科学院大学
+- **PKI技术**，中国科学院研究生院/中国科学院大学
+- **信息安全系统技术原理**，中国科学院研究生院
+- **入侵检测技术**，中国科学院研究生院
+
 ### Contact
 - linjq \at ustc.edu.cn
