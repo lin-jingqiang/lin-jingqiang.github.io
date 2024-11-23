@@ -2,7 +2,6 @@
 **Students in this list are Co-supervised or Supervised.**
 
 ## PhD/Master Students, in Study
-- 张运明 Yunming Zhang (中国科技大学)
 - 腾亚均 Yajun Teng (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
 - 周天 Tian Zhou (中国科技大学)
