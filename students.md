@@ -28,6 +28,9 @@
 - 沈昕 Xin Shen (中国科技大学)
 - 张建辉 Jianhui Zhang (中国科技大学)
 - 李天赐 Tianci Li (中国科技大学)
+- 周昶 Chang Zhou (中国科技大学)
+- 王子倩 Ziqian Wang (中国科技大学)
+- 黄梓熙 Zixi Huang (中国科技大学)
 
 ## Phd Students, Defensed
 - 孟令佳 Lingjia Meng (中科院信工所)
