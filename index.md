@@ -64,6 +64,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - 国家密码发展基金课题 - 云计算环境的密钥管理研究 (课题号MMJJ201101002)
 
 ## Award
+- Highest Award, "FinCrypto Cup" National Cryptographic Application and Technology Innovation Competition, Innovation Track, 2024. "金融密码杯"全国密码应用和技术创新大赛创新赛道特等奖.
 - National 10K-Person ST Innovation Plan, 2023. 国家“万人计划”科技创新领军人才.
 - USTC Anheng-Info Distinguished Teacher, 2023. 中国科大安恒信息优秀教师奖.
 - Cryptologic Science and Technology Progress Award of China (1st place, 10th co-winner), 2022. 密码科技进步一等奖.
@@ -165,7 +166,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - [List](./full-pub.html)
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
-- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 21, i10-index 53
+- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 21, i10-index 55
 
 ### Technical Standard
 - **密码行业标准GM/T 0127-2023 移动终端密码模块应用接口规范**，林璟锵、贾世杰、郑昉昱、徐博文、马原等。
