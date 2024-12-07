@@ -164,9 +164,9 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 
 ### Full Publication
 - [List](./full-pub.html)
-- [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
 - [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 21, i10-index 55
+- [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 
 ### Technical Standard
 - **密码行业标准GM/T 0127-2023 移动终端密码模块应用接口规范**，林璟锵、贾世杰、郑昉昱、徐博文、马原等。
@@ -174,16 +174,16 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - **国家标准GB/T 29241-2012 PKI互操作性评估准则**，荆继武、马存庆、林璟锵、查达仁、吴晶晶等。
 - **国家标准GB/T 29243-2012 数字证书代理认证路径构造和代理验证规范**，夏鲁宁、王琼霄、荆继武、林璟锵、向继等。
 
-### Student
-- [List](./students.html)
-
-### 课程开设
+### Course
 - **密码工程原理与实践**，中国科学技术大学
 - **通信网络的安全理论与技术**，中国科学技术大学
 - **网络认证技术**，中国科学院研究生院/中国科学院大学
 - **PKI技术**，中国科学院研究生院/中国科学院大学
 - **信息安全系统技术原理**，中国科学院研究生院
 - **入侵检测技术**，中国科学院研究生院
+
+### Student
+- [List](./students.html)
 
 ### Contact
 - linjq \at ustc.edu.cn
