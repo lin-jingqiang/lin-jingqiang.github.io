@@ -106,7 +106,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
   - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
 ## Book
-- *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security / 密码软件实现与密钥安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111679578**, 2021.
+- *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security / 密码软件实现与密钥安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111679578**, 2021. Some schemes in this book are open-sourced at [Github](https://github.com/LoCryptEn/Key-security).
 - Peng Xu, *Jingqiang Lin*, Hai Jin, Wei Wang, Qiongxiao Wang, "Cloud Data Security / 云数据安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111605096**, 2018.
 - Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 
