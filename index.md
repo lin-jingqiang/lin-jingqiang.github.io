@@ -111,7 +111,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 
 ## Selected Paper Publication
-1. Yu Fu, Yu Tong, Yijing Ning, Tianshi Tian, Meng Li, *Jingqiang Lin*, Dengguo Feng, "Swift: Fast Secure Neural Network Inference with Fully Homomorphic Encryption", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
+1. Yu Fu, Yu Tong, Yijing Ning, Tianshi Xu, Meng Li, *Jingqiang Lin*, Dengguo Feng, "Swift: Fast Secure Neural Network Inference with Fully Homomorphic Encryption", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
 1. Shushang Wen, Yiming Zhang, Yuxiang Shen, Bingyu Li, Haixin Duan, *Jingqiang Lin*, "Automatic Insecurity: Exploring Email Auto-configuration in the Wild", **32nd ISOC Network and Distributed System Security Symposium (NDSS)**, 2025.
 1. Lingjia Meng, Yu Fu, Fangyu Zheng, Mingyu Wang, Ziqiang Ma, Jiankuo Dong, *Jingqiang Lin*, "HTM-PQC: Hardening Cryptography Keys under the Trend of Post-quantum Cryptography Migration on Industrial Internet", **IEEE Transactions on Industrial Informatics (TII)**, 2025.
 1. Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
