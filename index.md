@@ -38,7 +38,7 @@
 - **Threshold Cryptography and Group Communication**
 - **Mobile/IoT Security**
 - **Game Theory for Security**
-- **Multi-Party Computation and Machine Learning Security**
+- **Secure Multi-Party Computation and Machine Learning Security**
 
 I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://acns-sci.github.io/) (SCI Workshop).
 
