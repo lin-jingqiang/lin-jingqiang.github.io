@@ -32,6 +32,8 @@
 - 王子倩 Ziqian Wang (中国科技大学)
 - 黄梓熙 Zixi Huang (中国科技大学)
 - 陈沿任 Yanren Chen (中国科技大学)
+- 兰志强 Zhiqiang Lan (中国科技大学)
+- 张勋成 Xuncheng Zhang (中国科技大学)
 
 ## Phd Students, Defensed
 - 孟令佳 Lingjia Meng (中科院信工所)
