@@ -65,7 +65,6 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 
 ## Award
 - Highest Award, "FinCrypto Cup" National Cryptographic Application and Technology Innovation Competition, Innovation Track, 2024. "金融密码杯"全国密码应用和技术创新大赛创新赛道特等奖.
-- National 10K-Person ST Innovation Plan, 2023. 国家“万人计划”科技创新领军人才.
 - USTC Anheng-Info Distinguished Teacher, 2023. 中国科大安恒信息优秀教师奖.
 - Cryptologic Science and Technology Progress Award of China (1st place, 10th co-winner), 2022. 密码科技进步一等奖.
 - Science and Technology Progress Award, Chinese Institute of Electronics (3rd place, 1st co-winner), 2022. 电子学会科技进步三等奖.
@@ -89,7 +88,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - TPC Co-Chair: [SCI Workshop](https://acns-sci.github.io/) (2020 - , in conjunction with ACNS)
 - 全国密码专业学位研究生教育指导委员会委员
 - “金融密码杯”全国密码应用和技术创新大赛评委 (2020, 2022, 2024/第二阶段赛事)
-- 2025, TPC Member: DATE, ICICS
+- 2025, TPC Member: DATE, ICICS, SecureComm
 - 2024, TPC Member: IEEE WCNC, SecureComm
 - 2023, TPC Member: ACM AsiaCCS, SecureComm, ICA3PP, ICICS, IEEE GLOBECOM, SVCC, FCS
 - 2022, TPC Member: ACM AsiaCCS, ICICS, IEEE ICC, IEEE MASS, Inscrypt
