@@ -11,11 +11,6 @@
 - 高志权 Zhiquan Gao (中国科技大学)
 - 付裕 Yu Fu (中国科技大学)
 - 唐文煦 Wenxu Tang (中国科技大学)
-- 朱文天 Wentian Zhu (中国科技大学)
-- 杨乐 Le Yang (中国科技大学)
-- 郭祥鑫 Xiangxin Guo (中国科技大学)
-- 汪恒生 Hengsheng Wang (中国科技大学)
-- 赵楚扬 Chuyang Zhao (中国科技大学)
 - 李鹏举 Pengju Li (中国科技大学)
 - 李仲恒 Zhongheng Li (中国科技大学)
 - 申宇翔 Yuxiang Shen (中国科技大学)
@@ -74,6 +69,11 @@
 - 郑昉昱 Fangyu Zheng (中科院信工所)
 
 ## Master Students, Defensed
+- 朱文天 Wentian Zhu (中国科技大学)
+- 杨乐 Le Yang (中国科技大学)
+- 郭祥鑫 Xiangxin Guo (中国科技大学)
+- 汪恒生 Hengsheng Wang (中国科技大学)
+- 赵楚扬 Chuyang Zhao (中国科技大学)
 - 张可臻 Kezhen Zhang (中国科技大学)
 - 杨文登 Wendeng Yang (北京大学)
 - 程广深 Guangshen Cheng (中国科技大学)
