@@ -95,6 +95,7 @@
 1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
+1. Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo Dong, *Jingqiang Lin*, Shoumeng Yan, Jiwu Jing, "GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power", **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, accepted to appear.
 1. Wenxu Tang, Fangyu Zheng, Guang Fan, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using4-Directional Manipulation", **31st ACM Conference on Computer and Communications Security (CCS)**, 2024.
 1. Tian Zhou, Fangyu Zheng, Guang Fan, Lipeng Wan, Wenxu Tang, Yixuan Song, Yi Bian, *Jingqiang Lin*, "ConvKyber: Unleashing the Power of AI Accelerators for Faster Kyber with Novel Iteration-based Approaches", **26th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2024.
 1. Jiankuo Dong, Yusheng Fu, Xusheng Qin, Zhenjiang Dong, Fu Xiao, *Jingqiang Lin*, "ECO-BIKE: Bridging the Gap Between PQC BIKE and GPU Acceleration", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
