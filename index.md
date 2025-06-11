@@ -45,6 +45,7 @@ I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://acns-
 The aim of the SCI workshop is to provide an international forum of scientific research and development to explore the security issues in the implementation and deployment of cryptographic solutions. We are interested in these main aspects: (1) vulnerabilities and defenses in the implementation of cryptographic algorithms; (2) vulnerabilities and defenses in the implementation of cryptographic protocols; (3) defective cryptographic algorithms and protocols deployed in the wild; (4) weak cryptographic keys and random numbers in the cryptographic implementation; (5) runtime cryptographic key attacks and protections; (6) certificates and key management; (7) misuse or abuse of cryptographic functions and services; and (8) any other topics on secure cryptographic implementations.
 
 ## Funding and Project
+- 企业横向 - 椭圆曲线及椭圆曲线同源密码技术研究服务
 - 中国科大-蔚来智能电动汽车联合实验室 - 静态分析检测能力提升与常见安全问题修正方案
 - 密码行业标准化技术委员会标准制定 - 多方安全计算：基于秘密分享的机制
 - 企业横向 - 多方安全计算关键技术研究
