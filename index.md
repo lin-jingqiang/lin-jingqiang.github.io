@@ -175,7 +175,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 
 ### Technical Standard
-- **密码行业标准GM/T 0135-2024 多方安全计算 技术规范**，林璟锵、徐葳、李智虎、高志权、王伟等。
+- **密码行业标准GM/T 0135-2024 多方安全计算 技术框架**，林璟锵、徐葳、李智虎、高志权、王伟等。
 - **密码行业标准GM/T 0127-2023 移动终端密码模块应用接口规范**，林璟锵、贾世杰、郑昉昱、徐博文、马原等。
 - **国家标准GB/T 31508-2015 数字证书策略分级分类规范**，荆继武、高能、林璟锵、王展、马存庆等。
 - **国家标准GB/T 29241-2012 PKI互操作性评估准则**，荆继武、马存庆、林璟锵、查达仁、吴晶晶等。
