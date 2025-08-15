@@ -211,6 +211,7 @@
 1. *Jingqiang Lin*, Peng Liu, Jiwu Jing, "Using Signaling Games to Model the Multi-step Attack-defense Scenarios on Confidentiality", **3rd Conference on Decision and Game Theory for Security (GameSec)**, pp. 118-137, 2012.
 
 ### Secure Multi-Party Computation and Machine Learning Security
+1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
 1. Yu Fu, Yu Tong, Yijing Ning, Tianshi Xu, Meng Li, *Jingqiang Lin*, Dengguo Feng, "Swift: Fast Secure Neural Network Inference with Fully Homomorphic Encryption", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2025.
 1. *Jingqiang Lin*, Zhiquan Gao, "The Vision of Secure Multi-Party Computation Technical Standards", **9th Security Standardisation Research Conference (SSR)**, 2024.
 1. Zeyan Liu, Fengjun Li, *Jingqiang Lin*, Zhu Li, Bo Luo, "Hide and Seek: On the Stealthiness of Attacks against Deep Learning Systems", **27th European Symposium on Research in Computer Security (ESORICS)**, 2022.
