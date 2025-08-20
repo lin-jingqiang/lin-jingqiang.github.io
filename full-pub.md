@@ -64,6 +64,7 @@
 
 ### Cryptographic Key Protection and Side Channel
 1. Lingjia Meng, Yu Fu, Fangyu Zheng, Mingyu Wang, Ziqiang Ma, Jiankuo Dong, *Jingqiang Lin*, "HTM-PQC: Hardening Cryptography Keys under the Trend of Post-quantum Cryptography Migration on Industrial Internet", **IEEE Transactions on Industrial Informatics (TII)**, 2025.
+1. Yang Li, Ziqiang Ma, *Jingqiang Lin*, Lingjia Meng, Bingyu Li, Li Miao, Fei Gao, "Survey of Transient Execution Attacks", **Chinese Journal of Computer Research and Development (CRAD)**, 2025, 62(8): 2058-2097.
 1. Mingyu Wang, Fangyu Zheng, *Jingqiang Lin*, Fangjie Jiang, Yuan Ma, "ZeroShield: Transparently Mitigating Code Page Sharing Attacks with Zero-cost Stand-by", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2024.
 1. Mingyu Wang, Lingjia Meng, Fangyu Zheng, *Jingqiang Lin*, Shijie Jia, Yuan Ma, Haoling Fan, "TLTracer: Dynamically Detecting Cache Side Channel Attacks with a Timing Loop Tracer", **58th IEEE International Conference on Communications (ICC)**, 2024.
 1. Mingyu Wang, Shijie Jia, Fangyu Zheng, Yuan Ma, *Jingqiang Lin*, Lingjia Meng, Ziqiang Ma, "TF-Timer: Mitigating Cache Side-Channel Attacks in Cloud through a Targeted Fuzzy Timer", **IEEE Wireless Communications and Network Conference (WCNC)**, 2024.
