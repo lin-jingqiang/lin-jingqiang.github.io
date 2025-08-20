@@ -2,7 +2,7 @@
 
 ### PKI Certificate and TLS/HTTPS
 1. Shushang Wen, Yiming Zhang, Yuxiang Shen, Bingyu Li, Haixin Duan, *Jingqiang Lin*, "Automatic Insecurity: Exploring Email Auto-configuration in the Wild", **32nd ISOC Network and Distributed System Security Symposium (NDSS)**, 2025.
-1. Yajun Teng, Wei Wang, *Jingqiang Lin*, Shijie Jia, Xiaoqi Jia, "An RPKI Certificate Validator for Formal Correctness", **20th International Conference on Information Security Practice and Experience**, 2025.
+1. Yajun Teng, Wei Wang, *Jingqiang Lin*, Shijie Jia, Xiaoqi Jia, "An RPKI Certificate Validator for Formal Correctness", **20th International Conference on Information Security Practice and Experience (ISPEC)**, 2025.
 1. Aozhuo Sun, *Jingqiang Lin*, Wei Wang, Zeyan Liu, Bingyu Li, Shushang Wen, Qiongxiao Wang, Fengjun Li, "Certificate Transparency Revisited: The Public Inspections on Third-party Monitors", **31st ISOC Network and Distributed System Security Symposium (NDSS)**, 2024.
 1. Aozhuo Sun, Bingyu Li, Qiongxiao Wang, Huiqing Wan, *Jingqiang Lin*, Wei Wang, "Semi-CT: Certificates Transparent to Identity Owners but Opaque to Snoopers", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
 1. Huiqing Wan, Qiongxiao Wang, Cunqing Ma, Yajun Teng, *Jingqiang Lin*, Dingfeng Ye, "ESCORT: Efficient Status Check and Revocation Transparency for Linkage-Based Pseudonym Certificates in VANETs", **28th IEEE Symposium Computers and Communications (ISCC)**, 2023.
