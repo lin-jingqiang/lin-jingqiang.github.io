@@ -4,8 +4,10 @@
 林璟锵，中国科学技术大学 网络空间安全学院
 
 ## Career
-- 2020.08 - , Professor, School of Cyber Security, University of Science and Technology of China
-- 2020.08 - , 中国科学技术大学网络空间安全学院，教授
+- 2025.04 - , Executive Dean, School of Cyber Security, University of Science and Technology of China
+- 2025.04 - , 中国科学技术大学网络空间安全学院，执行院长
+- 2020.08 - , Professor, University of Science and Technology of China
+- 2020.08 - , 中国科学技术大学，教授
 - 2020.08 - , Research Professor, Beijing Institute of USTC
 - 2020.08 - , 北京中科研究院，研究员
 - 2018.04 - 2020.08, Associate Director, State Key Laboratory of Information Security
