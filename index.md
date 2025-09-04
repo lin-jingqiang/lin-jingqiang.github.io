@@ -174,10 +174,9 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 1. *Jingqiang Lin*, Bo Luo, Jiwu Jing, Xiaokun Zhang, "GRADE: Graceful Degradation in Byzantine Quorum Systems", **31st IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 171-180, 2012.
 1. *Jingqiang Lin*, Jiwu Jing, Peng Liu, "A Framework for Intrusion Tolerant Certification Authority System Evaluation", **26th IEEE Symposium on Reliable Distributed Systems (SRDS)**, pp. 231-241, 2007.
 
-### Full Publication
-- [List](./full-pub.html)
+### Full Publication [List](./full-pub.html)
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
-- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 23, i10-index 59.
+- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 23, i10-index 60.
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 
 ### Technical Standard
