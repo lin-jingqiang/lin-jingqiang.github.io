@@ -5,6 +5,7 @@
 - 腾亚均 Yajun Teng (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
 - 周天 Tian Zhou (中国科技大学)
+- 单博深 Boshen Shan (中国科技大学)
 - 贾云昊 Yunhao Jia (中国科技大学)
 - 张弘毅 Hongyi Zhang (中国科技大学)
 - 何慧阳 Huiyang He (中国科技大学)
