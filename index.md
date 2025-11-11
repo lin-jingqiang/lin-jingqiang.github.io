@@ -86,10 +86,11 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
 
 ## Service
+- 中国密码学会理事
+- 全国密码专业学位研究生教育指导委员会委员
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
 - TPC Co-Chair: [SCI Workshop](https://acns-sci.github.io/) (2020 - , in conjunction with ACNS)
-- 全国密码专业学位研究生教育指导委员会委员
 - “金融密码杯”全国密码应用和技术创新大赛评委 (2020, 2022, 2024/第二阶段赛事)
 - 2025, TPC Member: DATE, ICICS, SecureComm, WPES
 - 2024, TPC Member: IEEE WCNC, SecureComm
@@ -177,7 +178,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 
 ### Full Publication [List](./full-pub.html)
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
-- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 23, i10-index 60.
+- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 23, i10-index 61.
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 
 ### Technical Standard
