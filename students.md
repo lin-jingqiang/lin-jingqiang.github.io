@@ -2,7 +2,6 @@
 **Students in this list are Co-supervised or Supervised.**
 
 ## PhD/Master Students, in Study
-- 腾亚均 Yajun Teng (中科院信工所)
 - 温舒尚 Shushang Wen (中国科技大学)
 - 贾云昊 Yunhao Jia (中国科技大学)
 - 张弘毅 Hongyi Zhang (中国科技大学)
@@ -32,6 +31,7 @@
 - 张勋成 Xuncheng Zhang (中国科技大学)
 
 ## Phd Students, Defensed
+- 腾亚均 Yajun Teng (中科院信工所)
 - 周天 Tian Zhou (中国科技大学)
 - 单博深 Boshen Shan (中国科技大学)
 - 孟令佳 Lingjia Meng (中科院信工所)
