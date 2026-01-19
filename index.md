@@ -114,6 +114,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 
 ## Selected Paper Publication
+1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers**, accepted.
 1. Wei Xu, Hui Zhu, Guozhang He, *Jingqiang Lin*, Jiaqi Zhao, Rongxing Lu, Dengguo Feng, "Collusion-Resistant Privacy-Preserving Outsourced Training Under Single Cloud with Semi-honest TEE", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
 1. Ruoxuan Xia, Bingyu Li, Zhenyu Chen, Pengyu Yuan, Yunjia Wang, Xiaofeng Zheng, *Jingqiang Lin*, "Starlink in the Wild: Multi-Perspective Measurements via DNS", **35th ACM Web Conference (WWW)**, 2026.
 1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
