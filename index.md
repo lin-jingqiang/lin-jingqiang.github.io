@@ -115,6 +115,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 
 ## Selected Paper Publication
 1. Wei Xu, Hui Zhu, Guozhang He, *Jingqiang Lin*, Jiaqi Zhao, Rongxing Lu, Dengguo Feng, "Collusion-Resistant Privacy-Preserving Outsourced Training Under Single Cloud with Semi-honest TEE", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, accepted.
+1. Ruoxuan Xia, Bingyu Li, Zhenyu Chen, Pengyu Yuan, Yunjia Wang, Xiaofeng Zheng, *Jingqiang Lin*, "Starlink in the Wild: Multi-Perspective Measurements via DNS", **35th ACM Web Conference (WWW)**, 2026.
 1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
 1. Tian Zhou, Fangyu Zheng, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, *Jingqiang Lin*, Jiwu Jing, "ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design", **32nd ACM Conference on Computer and Communications Security (CCS)**, 2025.
 1. Yu Tong, Yu Fu, Tianshi Xu, Cheng Hong, Meng Li, Wei Wang, Dengguo Feng, *Jingqiang Lin*, "Octopus: Fast Homomorphic Convolution for Secure Neural Network Inference", **41st Annual Computer Security Applications Conference (ACSAC)**, 2025.
