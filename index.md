@@ -86,7 +86,7 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Science and Technology Progress Award of Beijing (2nd place, 6th co-winner), 2004. 北京市科技进步二等奖.
 
 ## Service
-- 中国密码学会理事
+- 中国密码学会理事, 中国网络空间安全学会常务理事
 - 全国密码专业学位研究生教育指导委员会委员
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
