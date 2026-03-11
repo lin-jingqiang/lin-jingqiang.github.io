@@ -34,6 +34,7 @@
 1. Jiwu Jing, Peng Liu, Dengguo Feng, Ji Xiang, Neng Gao, *Jingqiang Lin*, "ARECA: A Highly Attack Resilient Certification Authority", **ACM Workshop on Survivable and Self-Regenerative Systems (SSRS)**, in conjunction with 10th ACM Conference on Computer and Communications Security (CCS), pp. 53-63, 2003.
 
 ### Authentication, Anonymity and Privacy
+1. Shushang Wen, Yuxiang Shen, Liye Zhao, Ziqian Wang, Wei Wang, *Jingqiang Lin*, A Security Analysis of Built-in Provider Configuration Lists in Mobile Email Clients, **31st European Symposium on Research in Computer Security (ESORICS)**, 2026.
 1. Ruixuan Li, Xiaofeng Jia, Zhenyong Zhang, Jun Shao, Rongxing Lu, *Jingqiang Lin*, Xiaoqi Jia, Guiyi Wei, “A Longitudinal and Comprehensive Measurement of DNS Strict Privacy”, **IEEE/ACM Transactions on Networking (TON)**, Vol. 31, No. 6, pp. 2793-2808, 2023.
 1. Guangqi Liu, *Jingqiang Lin*, Dawei Chu, Xiaokun Zhang, Qiongxiao Wang, Cunqing Ma, Fengjun Li, Dingfeng Ye, "Enhanced Ticket Transparency (eTT) Framework for Single Sign-On Services with Pseudonyms", **22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)**, 2023.
 1. Li Song, Qiongxiao Wang, *Jingqiang Lin*, Shijie Jia, Yingjiu Li, Yikai Chen, “Approach then Connect: A Physical Location-based Wi-Fi Password Dynamic Update Scheme”, **IEEE Wireless Communications and Network Conference (WCNC)**, 2022.
@@ -98,8 +99,8 @@
 1. Le Guan, *Jingqiang Lin*, Bo Luo, Jiwu Jing, "Copker: Computing with Private Keys without RAM", **21st ISOC Network and Distributed System Security Symposium (NDSS)**, 2014.
 
 ### High-performance Cryptographic Implementation
-1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers**, accepted.
-1. Yijing Ning, Jiankuo Dong, Yajie Zhao, *Jingqiang Lin*, Tian Zhou, Jiachen Wang, Fu Xiao, "X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU", **IEEE Transactions on Information Forensics and Security**, accepted.
+1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers (TC)**, accepted.
+1. Yijing Ning, Jiankuo Dong, Yajie Zhao, *Jingqiang Lin*, Tian Zhou, Jiachen Wang, Fu Xiao, "X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
 1. Tian Zhou, Fangyu Zheng, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, *Jingqiang Lin*, Jiwu Jing, "ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design", **32nd ACM Conference on Computer and Communications Security (CCS)**, 2025.
 1. Fangyu Zheng, Guang Fan, Wenxu Tang, Yixuan Song, Tian Zhou, Yuan Zhao, Jiankuo Dong, *Jingqiang Lin*, Shoumeng Yan, Jiwu Jing, "GIF-FHE: A Comprehensive Implementation and Evaluation of GPU-accelerated FHE with Integer and Floating-point Computing Power", **IEEE Transactions on Parallel and Distributed Systems (TPDS)**, Vol. 36, No. 8, pp. 1524-1541, 2025.
 1. Wen Wu, Jiankuo Dong, Zhen Xu, Zhenjiang Dong, Dung Duong, Fu Xiao, *Jingqiang Lin*, "Symphony of Speeds: Harmonizing Classic McEliece Cryptography with GPU Innovation", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2025.
