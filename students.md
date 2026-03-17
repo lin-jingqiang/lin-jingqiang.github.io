@@ -7,7 +7,6 @@
 - 张弘毅 Hongyi Zhang (中国科技大学)
 - 何慧阳 Huiyang He (中国科技大学)
 - 高志权 Zhiquan Gao (中国科技大学)
-- 付裕 Yu Fu (中国科技大学)
 - 唐文煦 Wenxu Tang (中国科技大学)
 - 李鹏举 Pengju Li (中国科技大学)
 - 李仲恒 Zhongheng Li (中国科技大学)
@@ -31,6 +30,7 @@
 - 张勋成 Xuncheng Zhang (中国科技大学)
 
 ## Phd Students, Defensed
+- 付裕 Yu Fu (中国科技大学)
 - 腾亚均 Yajun Teng (中科院信工所)
 - 周天 Tian Zhou (中国科技大学)
 - 单博深 Boshen Shan (中国科技大学)
