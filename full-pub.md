@@ -219,9 +219,9 @@
 
 ### Secure Multi-Party Computation and Machine Learning Security
 1. Yu Fu, Yu Tong, Yijing Ning, Jingqiang Lin, Dengguo Feng, "TFMD: General and Fast Secure Neural Network Inference Framework with Threshold FHE", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
+1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
 1. Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies", **28th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2026.
 1. Wei Xu, Hui Zhu, Guozhang He, *Jingqiang Lin*, Jiaqi Zhao, Rongxing Lu, Dengguo Feng, "Collusion-Resistant Privacy-Preserving Outsourced Training Under Single Cloud with Semi-honest TEE", **IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2025.
-1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
 1. Yu Tong, Yu Fu, Tianshi Xu, Cheng Hong, Meng Li, Wei Wang, Dengguo Feng, *Jingqiang Lin*, "Octopus: Fast Homomorphic Convolution for Secure Neural Network Inference", **41st Annual Computer Security Applications Conference (ACSAC)**, 2025.
 1. Yu Fu, Yu Tong, Yijing Ning, Tianshi Xu, Meng Li, *Jingqiang Lin*, Dengguo Feng, "Swift: Fast Secure Neural Network Inference with Fully Homomorphic Encryption", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2025.
 1. *Jingqiang Lin*, Zhiquan Gao, "The Vision of Secure Multi-Party Computation Technical Standards", **9th Security Standardisation Research Conference (SSR)**, 2024.
