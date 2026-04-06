@@ -114,9 +114,8 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 
 ## Selected Paper Publication
-1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers (TC)**, accepted.
-1. Yijing Ning, Jiankuo Dong, Yajie Zhao, *Jingqiang Lin*, Tian Zhou, Jiachen Wang, Fu Xiao, "X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
-1. Yu Fu, Yu Tong, Yijing Ning, Jingqiang Lin, Dengguo Feng, "TFMD: General and Fast Secure Neural Network Inference Framework with Threshold FHE", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.
+1. Yu Fu, Yu Tong, Yijing Ning, Jingqiang Lin, Dengguo Feng, "TFMD: General and Fast Secure Neural Network Inference Framework with Threshold FHE", **IEEE Transactions on Information Forensics and Security (TIFS)**, accepted.1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers (TC)**, 2026.
+1. Yijing Ning, Jiankuo Dong, Yajie Zhao, *Jingqiang Lin*, Tian Zhou, Jiachen Wang, Fu Xiao, "X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2026.
 1. Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies", **28th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2026.
 1. Ruoxuan Xia, Bingyu Li, Zhenyu Chen, Pengyu Yuan, Yunjia Wang, Xiaofeng Zheng, *Jingqiang Lin*, "Starlink in the Wild: Multi-Perspective Measurements via DNS", **35th ACM Web Conference (WWW)**, 2026.
 1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
