@@ -15,9 +15,6 @@
 - 张佰韬 Baitao Zhang (中国科技大学)
 - 冯志 Zhi Feng (中国科技大学)
 - 徐雨 Yu Xu (中国科技大学)
-- 申宇翔 Yuxiang Shen (中国科技大学)
-- 童宇 Yu Tong (中国科技大学)
-- 王家辰 Jiachen Wang (中国科技大学)
 - 沈昕 Xin Shen (中国科技大学)
 - 张建辉 Jianhui Zhang (中国科技大学)
 - 李天赐 Tianci Li (中国科技大学)
@@ -72,6 +69,8 @@
 - 郑昉昱 Fangyu Zheng (中科院信工所)
 
 ## Master Students, Defensed
+- 申宇翔 Yuxiang Shen (中国科技大学)
+- 童宇 Yu Tong (中国科技大学)
 - 朱文天 Wentian Zhu (中国科技大学)
 - 杨乐 Le Yang (中国科技大学)
 - 郭祥鑫 Xiangxin Guo (中国科技大学)
