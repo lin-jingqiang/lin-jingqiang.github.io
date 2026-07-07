@@ -90,7 +90,6 @@ The aim of the SCI workshop is to provide an international forum of scientific r
 - 全国密码专业学位研究生教育指导委员会委员
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
-- TPC Co-Chair: [SCI Workshop](https://acns-sci.github.io/) (2020 - , in conjunction with ACNS)
 - “金融密码杯”全国密码应用和技术创新大赛评委 (2020, 2022, 2024/第二阶段赛事)
 - 2025, TPC Member: DATE, ICICS, SecureComm, WPES
 - 2024, TPC Member: IEEE WCNC, SecureComm
