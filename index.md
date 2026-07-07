@@ -42,7 +42,7 @@
 - **Game Theory for Security**
 - **Secure Multi-Party Computation and Machine Learning Security**
 
-I serve for [ACNS Workshop on Secure Cryptographic Implementation](https://acns-sci.github.io/) (SCI Workshop).
+I serve for [Int'l Workshop on Secure Cryptographic Implementations and Engineering](https://scien-conf.github.io/) (SCIEN Workshop).
 
 The aim of the SCI workshop is to provide an international forum of scientific research and development to explore the security issues in the implementation and deployment of cryptographic solutions. We are interested in these main aspects: (1) vulnerabilities and defenses in the implementation of cryptographic algorithms; (2) vulnerabilities and defenses in the implementation of cryptographic protocols; (3) defective cryptographic algorithms and protocols deployed in the wild; (4) weak cryptographic keys and random numbers in the cryptographic implementation; (5) runtime cryptographic key attacks and protections; (6) certificates and key management; (7) misuse or abuse of cryptographic functions and services; and (8) any other topics on secure cryptographic implementations.
 
