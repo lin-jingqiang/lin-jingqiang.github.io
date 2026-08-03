@@ -1,6 +1,7 @@
 ## Full Publication (by area / year)
 
 ### PKI Certificate and TLS/HTTPS
+1. Liye Zhao, Shushang Wen, Jingqiang Lin, "ValidaTor++: Extending HTTP-over-Tor to DoH-over-Tor for MPIC", **IEEE Global Communications Conference (GLOBECOM)**, 2026.
 1. Shushang Wen, Yiming Zhang, Yuxiang Shen, Bingyu Li, Haixin Duan, *Jingqiang Lin*, "Automatic Insecurity: Exploring Email Auto-configuration in the Wild", **32nd ISOC Network and Distributed System Security Symposium (NDSS)**, 2025.
 1. Yuxiang Shen, Wei Wang, Shushang Wen, Yu Fu, Yunhao Jia, *Jingqiang Lin*, "Exploring the Root Store Usage in TLS-based Applications", **21st International Conference on Information Security and Cryptology (Inscrypt)**, 2025.
 1. Yajun Teng, Wei Wang, *Jingqiang Lin*, Shijie Jia, Xiaoqi Jia, "An RPKI Certificate Validator for Formal Correctness", **20th International Conference on Information Security Practice and Experience (ISPEC)**, 2025.
