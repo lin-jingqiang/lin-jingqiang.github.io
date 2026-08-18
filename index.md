@@ -115,7 +115,7 @@ The aim of the SCIEN workshops (formerly [ACNS SCI workshops](http://jianying.sp
 
 ## Selected Paper Publication
 1. Jiankuo Dong, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, *Jingqiang Lin*, "HIGH: Harnessing GPU Parallelism for Optimized HQC Performance", **IEEE Transactions on Computers**, accepted.
-Huiyang He, Weijing You, Zixi Huang, *Jingqiang Lin*, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, Jiankuo Dong, Wei Wang, "PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds", **34th ISOC Network and Distributed System Security Symposium (NDSS)**, 2027.
+1. Huiyang He, Weijing You, Zixi Huang, *Jingqiang Lin*, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, Jiankuo Dong, Wei Wang, "PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds", **34th ISOC Network and Distributed System Security Symposium (NDSS)**, 2027.
 1. Shijie Jia, Bowen Xu, Yuan Ma, Yingjiao Niu, Limin Liu, Daren Zha, *Jingqiang Lin*, "JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript", **35th USENIX Security Symposium**, 2026.
 1. Yu Fu, Yu Tong, Yijing Ning, *Jingqiang Lin*, Dengguo Feng, "TFMD: General and Fast Secure Neural Network Inference Framework with Threshold FHE", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2026.
 1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers (TC)**, 2026.
