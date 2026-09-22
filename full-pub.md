@@ -233,7 +233,7 @@
 1. Zeyan Liu, Fengjun Li, *Jingqiang Lin*, Zhu Li, Bo Luo, "Hide and Seek: On the Stealthiness of Attacks against Deep Learning Systems", **27th European Symposium on Research in Computer Security (ESORICS)**, 2022.
 1. Juanjuan Guo, Qiongxiao Wang, Xin Xu, Tianyu Wang, *Jingqiang Lin*, "Secure Multiparty Computation and Application in Machine Learning", **Chinese Journal of Computer Research and Development**, Vol. 58, No. 10, pp. 2163-2186, 2021.
 
-### UPPRESSO
+### UPPRESSO - Privacy-preserving SSO
 1. "UPPRESSO: Untraceable and Unlinkable Privacy-PREserving Single Sign-On Services", [https://arxiv.org/abs/2110.10396](https://arxiv.org/abs/2110.10396)
 2. "Understanding the Identity-Transformation Approach in OIDC-Compatible Privacy-Preserving SSO Services", [https://arxiv.org/abs/2506.01325](https://arxiv.org/abs/2506.01325)
 
