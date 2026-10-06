@@ -102,6 +102,7 @@
 
 ### High-performance Cryptographic Implementation
 1. Jiankuo Dong, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, *Jingqiang Lin*, "HIGH: Harnessing GPU Parallelism for Optimized HQC Performance", **IEEE Transactions on Computers**, accepted.
+1. Jiankuo Dong, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, *Jingqiang Lin*, Fu Xiao, "HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU", **IEEE Transactions on Computers**, accepted.
 1. Yijing Ning, Jiankuo Dong, *Jingqiang Lin*, Fangyu Zheng, Yu Fu, Fu Xiao, "GRASP: Accelerating Hash-based PQC Performance on GPU Parallel Architecture", **IEEE Transactions on Computers (TC)**, 2026.
 1. Yijing Ning, Jiankuo Dong, Yajie Zhao, *Jingqiang Lin*, Tian Zhou, Jiachen Wang, Fu Xiao, "X2O: Cross Parallel Optimization of the CROSS Post-Quantum Scheme on GPU", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2026.
 1. Tian Zhou, Fangyu Zheng, Zhuoyu Xie, Wenxu Tang, Guang Fan, Yijing Ning, Yi Bian, *Jingqiang Lin*, Jiwu Jing, "ML-Cube: Accelerating Module-Lattice-Based Cryptography using Machine Learning Accelerators with a Memory-Less Design", **32nd ACM Conference on Computer and Communications Security (CCS)**, 2025.
