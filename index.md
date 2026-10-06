@@ -115,6 +115,7 @@ The aim of the SCIEN workshops (formerly [ACNS SCI workshops](http://jianying.sp
 
 ## Selected Paper Publication
 1. Jiankuo Dong, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, *Jingqiang Lin*, "HIGH: Harnessing GPU Parallelism for Optimized HQC Performance", **IEEE Transactions on Computers**, accepted.
+1. Jiankuo Dong, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, *Jingqiang Lin*, Fu Xiao, "HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU", **IEEE Transactions on Computers**, accepted.
 1. Huiyang He, Weijing You, Zixi Huang, *Jingqiang Lin*, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, Jiankuo Dong, Wei Wang, "PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds", **34th ISOC Network and Distributed System Security Symposium (NDSS)**, 2027.
 1. Yijia Fang, Bingyu Li, Luchao Jin, *Jingqiang Lin*, Mingxun Zhou, Zhijintong Zhang, Linghui Li, Qianhong Wu, "OrionLink: Single Sign-On with Oblivious Identity Brokers", **34th ISOC Network and Distributed System Security Symposium (NDSS)**, 2027.
 1. Shijie Jia, Bowen Xu, Yuan Ma, Yingjiao Niu, Limin Liu, Daren Zha, *Jingqiang Lin*, "JScamd: An Automated Static Taint Analysis Framework for Detecting Cryptographic API Misuses in JavaScript", **35th USENIX Security Symposium**, 2026.
@@ -188,7 +189,7 @@ The aim of the SCIEN workshops (formerly [ACNS SCI workshops](http://jianying.sp
 
 ### Full Publication [List](./full-pub.html)
 - [DBLP](https://dblp.uni-trier.de/pid/57/4208.html)
-- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 26, i10-index 69.
+- [Google Scholar](https://scholar.google.com/citations?user=UimjP5sAAAAJ&hl=en), h-index 26, i10-index 70.
 - [ORCID: 0000-0003-2639-3722](https://orcid.org/0000-0003-2639-3722). I sometimes forget to label my ORCID. I had used 0000-0003-1508-4879 in somes papers, but this ORCID was bound to an Email linjq@lois.cn / linjq@is.ac.cn, which had been DESTROYED completely.
 
 ### Technical Standard
