@@ -90,6 +90,7 @@ The aim of the SCIEN workshops (formerly [ACNS SCI workshops](http://jianying.sp
 - 全国密码专业学位研究生教育指导委员会委员
 - Associate Editor: Journal of Computer Security
 - Steering Committee Member: EAI AC3 (2020 - )
+- 2027, General Chair: SecureComm
 - “金融密码杯”全国密码应用和技术创新大赛评委 (2020, 2022, 2024/第二阶段赛事)
 - 2025, TPC Member: DATE, ICICS, SecureComm, WPES
 - 2024, TPC Member: IEEE WCNC, SecureComm
@@ -107,10 +108,11 @@ The aim of the SCIEN workshops (formerly [ACNS SCI workshops](http://jianying.sp
 - 2014, TPC Member: SecureComm, CSS, IEEE ISSNIP
   - TPC Co-Chair: DAPRO Workshop (in conjunction with SecureComm)
 
-## Book
+## Book / Chapter
 - *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Yu Fu, "Cryptographic Software Implementation and Cryptographic Key Security (2nd Edition) / 密码软件实现与密钥安全 (第2版)", **China Machine Press / 机械工业出版社**, **ISBN 9787111804000**, 2026. Most schemes in this book are open-sourced at [Github](https://github.com/LoCryptEn/Key-security).
 - *Jingqiang Lin*, Fangyu Zheng, Wei Wang, Zhe Liu, Qiongxiao Wang, "Cryptographic Software Implementation and Cryptographic Key Security / 密码软件实现与密钥安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111679578**, 2021.
 - Peng Xu, *Jingqiang Lin*, Hai Jin, Wei Wang, Qiongxiao Wang, "Cloud Data Security / 云数据安全", **China Machine Press / 机械工业出版社**, **ISBN 9787111605096**, 2018.
+- Weiyu Jiang, *Jingqiang Lin*, Zhan Wang, Bo Chen, Kun Sun, "Cloud Security Key Management: Cloud User Controls", chapter in Cloud Computing Security: Foundations and Challenges, **CRC Press**, **ISBN 9781482260946**, pp. 151-177, 2016.
 - Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 
 ## Selected Paper Publication
