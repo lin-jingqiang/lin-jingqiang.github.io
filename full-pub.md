@@ -224,6 +224,7 @@
 
 ### Secure Multi-Party Computation and Machine Learning Security
 1. Huiyang He, Weijing You, Zixi Huang, *Jingqiang Lin*, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, Jiankuo Dong, Wei Wang, "PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds", **34th ISOC Network and Distributed System Security Symposium (NDSS)**, 2027.
+1. Zhongheng Li, Jiajia Chen, Xudong Huang, *Jingqiang Lin*, "More Memory, More Drift: Rate-Anchoring Prevents Belief Distortion in LLM-Based Forecasting Agents", **33rd International Conference on MultiMedia Modeling (MMM)**, 2027.
 1. Yu Fu, Yu Tong, Yijing Ning, *Jingqiang Lin*, Dengguo Feng, "TFMD: General and Fast Secure Neural Network Inference Framework with Threshold FHE", **IEEE Transactions on Information Forensics and Security (TIFS)**, 2026.
 1. Le Yang, Weijing You, Huiyang He, Kailiang Ji, *Jingqiang Lin*, "Practical Traceable Over-Threshold Multi-Party Private Set Intersection", **33rd ISOC Network and Distributed System Security Symposium (NDSS)**, 2026.
 1. Yanren Chen, Fangyu Zheng, Guang Fan, Jiankuo Dong, Wenxu Tang, Tian Zhou, *Jingqiang Lin*, Jiwu Jing, "BOLT-FHE: An Efficient Unified Framework for GPU-based TFHE Bootstrapping via On-Chip Local Tiling Strategies", **28th International Conference on Cryptographic Hardware and Embedded Systems (CHES)**, 2026.
