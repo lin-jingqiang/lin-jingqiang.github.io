@@ -116,6 +116,7 @@ The aim of the SCIEN workshops (formerly [ACNS SCI workshops](http://jianying.sp
 - Jiwu Jing, *Jingqiang Lin*, Dengguo Feng, "PKI Technology / PKI技术", **Science Press of China / 科学出版社**, **ISBN 9787030219060**, 2008.
 
 ## Selected Paper Publication
+1. Yijing Ning, Jiankuo Dong, Tian Zhou, Fangyu Zheng, Guang Fan, Mingzhe Zhang, *Jingqiang Lin*, "FORGE: FAFFT-Optimized Ring Arithmetic for GPU Execution of HQC and BIKE", **33rd IEEE International Symposium on High-Performance Computer Architecture (HPCA)**, 2027.
 1. Jiankuo Dong, Yuze Hou, Shiqin Wang, Letian Sha, Fu Xiao, Zhenjiang Dong, *Jingqiang Lin*, "HIGH: Harnessing GPU Parallelism for Optimized HQC Performance", **IEEE Transactions on Computers**, accepted.
 1. Jiankuo Dong, Qingbo Ye, Sheng Lu, Liming Feng, Zhenjiang Dong, *Jingqiang Lin*, Fu Xiao, "HPS: Speeding Up Paillier Homomorphic Cryptosystem on GPU", **IEEE Transactions on Computers**, accepted.
 1. Huiyang He, Weijing You, Zixi Huang, *Jingqiang Lin*, Wenxu Tang, Xuncheng Zhang, Kailiang Ji, Jiankuo Dong, Wei Wang, "PeHT-MPSI: Faster OT-MPSI and TT-MPSI with Per-Element Hidden Thresholds", **34th ISOC Network and Distributed System Security Symposium (NDSS)**, 2027.
